@@ -1,0 +1,21 @@
+.img-news{
+    height: 10rem;
+    width: 10rem;
+}
+
+@media  only screen and (max-width:768px){
+    .News{
+        display: flex;
+        flex-wrap: wrap;
+       justify-content: center;
+       margin-left: 7px;
+    }
+    .img-news{
+        width: auto;
+        height: auto;
+    }
+    .img-news1{
+        width: auto;
+        height:12rem;
+    }
+}

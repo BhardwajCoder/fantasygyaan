@@ -1,0 +1,33 @@
+.middle{
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-gap :auto;
+   
+}
+.img-1{
+  width: 5rem;
+  height: 5rem;
+  float: inline-start;
+}
+  .card1{
+    height: 220px;
+    width: 260px;
+  }
+  @media  only screen and (max-width:768px){
+    .card1{
+        height: auto;
+        width: auto;
+      }
+      .middle{
+        display: grid;
+        grid-template-columns: auto  ;
+        grid-gap :auto;
+         
+      }
+    
+       .img-1{
+        width: 5rem;
+        height: 5rem;
+      }
+  }
+ 

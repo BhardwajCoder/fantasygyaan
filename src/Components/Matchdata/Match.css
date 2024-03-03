@@ -1,0 +1,16 @@
+.match-img{
+    height: 10rem;
+    width: auto;
+}
+@media  only screen and (max-width:768px){
+    .Match{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+       margin-left: 7px;
+    }
+    .match-img{
+        width:auto;
+        height: 10rem;
+    }
+}

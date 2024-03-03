@@ -1,0 +1,70 @@
+.Home{
+  background-image: linear-gradient(to right, #8e2de2, skyblue);
+  height: 300px;
+  width:100%;
+  color: azure;
+}
+.Home1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.H2text{
+    color: blue;
+    position: absolute;
+    top: 200px;  
+}
+.H1text{
+ position: absolute;
+ top: 150px;
+ font-family: 'serif' 
+}
+.Himg{
+  height: 450px;
+  float: inline-end;
+  margin-right: 2rem;
+}
+@media  only screen and (min-width:200px) and (max-width:576px){
+  .Home{
+    background-image: linear-gradient(to right, #8e2de2, #4a00e0);
+    height: 15rem;
+    width:auto;
+    overflow-x: hidden;
+  }
+  .Home1{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.font-serif{
+  margin: auto;
+}
+.H1text{
+  position: absolute;
+  top: 180px;
+ }
+ .H2text{
+  color: blue;
+  position: absolute;
+  top: 220px;
+}
+.Himg{
+  height: 240px;
+  margin-left: 5rem;
+  float: inline-start;
+}
+}
+@media  only screen and (min-width:577px) and (max-width:768px){
+  .Himg{
+    height: 240px;
+    margin-left: 5rem;
+    float: inline-start;
+  }
+  .Home1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+}
+
+

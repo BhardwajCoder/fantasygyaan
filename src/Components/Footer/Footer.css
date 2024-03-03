@@ -1,0 +1,30 @@
+.Footer{
+    background-color: white;
+  margin-top: 0px;
+}
+.Txt-color{
+  color: white;
+ text-decoration: none;
+  font-family: Georgia,  sans-serif;
+  font-size: 15px;
+}
+@media  only screen and (min-width:200px) and (max-width:576px){
+.Footer{
+  background-color: white;
+  margin-top: 0px;
+}
+.Media{
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  margin: 0px;
+  padding: 0px;
+ border-radius: 2px;
+}
+}
+@media  only screen and (min-width:577px) and (max-width:768px){
+  .Footer{
+    background-color: white;
+    margin-top: 0px;
+  }
+}

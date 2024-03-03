@@ -1,0 +1,54 @@
+.Dnews{
+ display: grid;
+ grid-template-columns: 1fr 1fr 1fr;
+ grid-gap: 15px;
+ overflow-y: hidden;
+}
+.img{
+    margin-top: 12px;
+    margin-left: 1rem;
+    width: 7rem;
+    height: 6rem;
+}
+.card{
+    height: 270px;
+    width: 280px;
+    border-radius: 15px;
+}
+@media  only screen and (min-width:200px) and (max-width:420px){
+    .Dnews{
+        display: grid;
+        grid-template-columns: auto auto;
+       margin: auto;
+       overflow-x: hidden;
+    }
+    .card{
+        height: auto;
+        width: auto;
+    }
+}
+@media  only screen and (min-width:421px) and (max-width:450px){
+    .Dnews{
+        display: grid;
+        grid-template-columns: auto auto;
+       margin: auto;
+       overflow-x: hidden;
+    }
+    .card{
+        height: auto;
+        width: auto;
+    }
+}
+@media  only screen and (min-width:451px) and (max-width:576px){
+    .Dnews{
+        display: grid;
+        grid-template-columns:  13rem 14rem;
+        margin: auto;
+        padding: auto;
+       overflow-y: hidden;
+    }
+    .card{
+        height: auto;
+        width: auto;
+    }
+}
