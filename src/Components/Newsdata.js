@@ -28,7 +28,7 @@
 
         "id":"4",
        "perma" :'Rohit-Captaincy-news',
-        "Heading":"RohitCaptaincynews ",
+        "Heading":"Rohit Sharma Captaincy news ",
         "content":"check the updated squad of RCB 2024",
         "img":"./images/rohit.jpg",
       

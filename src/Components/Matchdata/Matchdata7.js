@@ -8,7 +8,7 @@ function Matchdata7() {
     <>
     <div className='container Match ' style={{fontSize:"1.3rem"}}>
     <Helmet>
-    <title>zah VS KAR -PSL</title>
+    <title>LAH VS KAR -PSL</title>
     <meta name="description" content="Check the free Fantasy Predictions and Dream11 Free teams of LAH vs KAR match.Get the Fantasy Bonus Tips to increase your chance of winnings" />
     <meta name="keywords" content="LAH vs KAR, Lahore  vs Karachi free fantasy team, LAH vs KAR Free Match predictions for free,LAH vs KAR fantasy tips" />
     <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
