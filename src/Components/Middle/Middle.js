@@ -23,8 +23,8 @@ function Middle() {
                   <strong className="d-inline-block mb-2 text-primary-emphasis">
                     CRICKET
                   </strong>
-                  <h2 className="mb-0 my-1">UP-W-W vs RCB-W</h2>
-                  <p>04-Mar-2024</p>
+                  <h2 className="mb-0 my-1">QUE VS KAR</h2>
+                  <p>06-Mar-2024</p>
                   <p
                     style={{ fontSize: "1.3rem", fontStyle: "oblique" }}
                     className="mb-1 text-body-secondary"
@@ -32,7 +32,7 @@ function Middle() {
                     check the{" "}
                     <strong>Fantasy Cricket Teams and Match Predictions</strong>{" "}
                   </p>
-                  <Link to={`/UP-W-vs-BAN-W/MatchPredictions`}>
+                  <Link to={`/QUE-vs-KAR/Match-Predictions`}>
                     <button className="btn btn-primary my-2"> View </button>
                   </Link>
                 </div>
@@ -47,8 +47,8 @@ function Middle() {
                   <strong className="d-inline-block mb-2 text-primary-emphasis">
                     CRICKET
                   </strong>
-                  <h2 className="mb-0 my-1">LAH VS KAR</h2>
-                  <p>27-feb-2024</p>
+                  <h2 className="mb-0 my-1">LAH VS ISL</h2>
+                  <p>6-MAR-2024</p>
                   <p
                     style={{ fontSize: "1.3rem", fontStyle: "oblique" }}
                     className="mb-1 text-body-secondary"
@@ -57,7 +57,7 @@ function Middle() {
                     check the{" "}
                     <strong>Fantasy Cricket Teams and Match Predictions</strong>
                   </p>
-                  <Link to={`/LAH-vs-KAR/MatchPredictions`}>
+                  <Link to={`/LAH-vs-ISL/Match-Predictions`}>
                     <button className="btn btn-primary my-2"> View </button>
                   </Link>
                 </div>

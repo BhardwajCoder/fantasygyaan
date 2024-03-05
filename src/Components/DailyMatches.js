@@ -1,5 +1,27 @@
 const MatchData=[
   {
+    "id":"9",
+     "perma":"LAH-vs-ISL/Match-Predictions",
+    "Date":"6-MAR-2024",
+
+  
+    "league":"PSL",
+  
+    "Heading":"LAH VS ISL",
+    
+   },
+  {
+    "id":"8",
+     "perma":"QUE-vs-KAR/Match-Predictions",
+    "Date":"6-MAR-2024",
+
+  
+    "league":"PSL",
+  
+    "Heading":"QUE VS KAR",
+    
+   },
+  {
     "id":"5",
      "perma":"UP-W-vs-BAN-W/MatchPredictions",
     "Date":"26-feb-2024",
@@ -74,17 +96,7 @@ const MatchData=[
     "Heading":"BAN-W vs UP-W",
     
    },
-  {
-    "id":"5",
-     "perma":"UP-W-vs-DEL-W/MatchPredictions",
-    "Date":"23-feb-2024",
 
-  
-    "league":"WPL",
-  
-    "Heading":"UP-W vs DEL-W",
-    
-   },
   {
     "id":"4",
      "perma":"QUE-vs-ISL/MatchPredictions",

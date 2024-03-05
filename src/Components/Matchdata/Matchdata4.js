@@ -25,7 +25,7 @@ function Matchdata4() {
      <p>Jason Roy,Saud Shakeel,Khawaja Nafay,Rilee Rossow,Sarfraj Ahmed(wk),S Rutherford,Akeal Hossein,Mohd Wasim,Mohd Amir,Mohd Hasnain,Abrar Ahmed</p>
      <br />
      <h3>Islamabad Probable 11</h3>
-     <p>Alex Hales,Colin Munro,Agha Salman,Jordan Cox,Azam Khan,Imad Wasim,Shadab Khan,Faheem Ashraf,Naseem Shah,Tymal Mills,Ubaid Shah.</p>
+     <p>Alex Hales,Colin Munro,Agha Salman,Jordan Cox,Azam Khan,Imad Wasim,Shadab Khan,Faheem Ashraf,Naseem Shah,Hunain Shah,Rumman Raees.</p>
      </div>
      <div className='container' style={{fontSize:"1.3rem"}}>
 

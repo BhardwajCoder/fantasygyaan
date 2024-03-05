@@ -27,6 +27,8 @@ import Matchdata4 from './Components/Matchdata/Matchdata4';
 import Matchdata6 from './Components/Matchdata/Matchdata6';
 import Matchdata7 from './Components/Matchdata/Matchdata7';
 import Trending5 from './Components/Trending/Trending5';
+import Matchdata8 from './Components/Matchdata/Matchdata8';
+import Matchdata9 from './Components/Matchdata/Matchdata9';
 
 function App() {
  
@@ -48,6 +50,8 @@ return (
       <Route path='/UP-W-vs-BAN-W/MatchPredictions' element={<Matchdata5 />}/>
       <Route path='/BAN-W-vs-UP-W/MatchPredictions' element={<Matchdata6/>}/>
       <Route path='/LAH-vs-KAR/MatchPredictions' element={<Matchdata7/>}/>
+      <Route path='/QUE-vs-KAR/Match-Predictions' element={<Matchdata8/>}/>
+      <Route path='/LAH-vs-ISL/Match-Predictions' element={<Matchdata9/>}/>
       <Route path='/MI-NEW-IPL-SQUAD' element={<Newsdata1 />}/>
       <Route path='/CSK-NEW-IPL-SQUAD' element={<Newsdata2 />}/>
       <Route path='/RCB-NEW-IPL-SQUAD' element={<Newsdata3 />}/>

@@ -8,9 +8,9 @@ function Matchdata7() {
     <>
     <div className='container Match ' style={{fontSize:"1.3rem"}}>
     <Helmet>
-    <title>LAH VS KAR -PSL</title>
+    <title>LAH VS KAR -Dream11 Predictions</title>
     <meta name="description" content="Check the free Fantasy Predictions and Dream11 Free teams of LAH vs KAR match.Get the Fantasy Bonus Tips to increase your chance of winnings" />
-    <meta name="keywords" content="LAH vs KAR, Lahore  vs Karachi free fantasy team, LAH vs KAR Free Match predictions for free,LAH vs KAR fantasy tips" />
+    <meta name="keywords" content="LAH vs KAR-Dream11 Predictions, Lahore  vs Karachi free fantasy team, LAH vs KAR Today Match predictions for free,LAH vs KAR fantasy tips" />
     <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
     </Helmet>
       <h1 className='text-center'>LAH vs KAR</h1>
@@ -24,7 +24,7 @@ function Matchdata7() {
      <p>This match will play on Gaddafi Stadium Lahore the Nature of the pitch is Good Surface to bat on,has generally been neutal during the international games but In PSL people want entertainment so they prepare Batting Friendly Tracks so this is going to another High scoring match so pick Quality Batsmen death bowlers or all-rounder who can bat in top order.</p>
 
      <h3> Lah Probable 11</h3>
-     <p>S Farhan(wk),Fakhar Zaman,R vd Dussen,A Shafique,Sikandar Raza,C Brathwaite,Jahandad Khan,George Linde,Saheen Afridi,Haris Rauf,Zaman Khan</p>
+     <p>S Farhan(wk),Fakhar Zaman,R vd Dussen,Kamran Ghulam,Sikandar Raza,C Brathwaite,Jahandad Khan,George Linde,Saheen Afridi,Salman Fayyaz,Zaman Khan</p>
      <br />
      <h3>KAR Probable 11</h3>
      <p>Shan Masood,Mohd Akhliq,James Vince,Shoaib Malik,Mohd Nawaz,Kieron Pollard,Irfan Khan,Danie Sams,Hasan Ali,Mir Hamza,Tabraiz Shamsi</p>
