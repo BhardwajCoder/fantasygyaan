@@ -7,7 +7,7 @@ function Trending1() {
     <div className='container trending ' style={{fontSize:"1.3rem"}}>
        <Helmet>
         <title>What is Fantasy Cricket</title>
-        <meta name="description" content="If you want to know play Fantasy cricket so check here What is Fantasy Cricket." />
+        <meta name="description" content="If you want to know play Fantasy cricket so check here What is Fantasy Cricket and how to play fantasy cricket." />
         <meta name="keywords" content=" What is Fantasy cricket, How to play fantasy cricket" />
         <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
       </Helmet>

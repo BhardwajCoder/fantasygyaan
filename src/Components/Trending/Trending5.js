@@ -24,6 +24,7 @@ function Trending5() {
   <ol>
    <a href="/Rohit-Captaincy-news"> <li>Rohit Sharma Captaincy news</li></a>
    <a href="/Mohammad-Shami-Ipl-ruled-out"> <li>Mohammad Shami Ipl ruled out </li></a>
+   <a href="/Why-We-Should-Play-Fantasy-Cricket"><li>Why We Shoul Play Fantasy Cricket</li></a>
     
   </ol>
  </div>

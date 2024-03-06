@@ -2,11 +2,11 @@ import React from 'react'
 import './Trending.css'
 import { Helmet } from 'react-helmet'
 function Trending3() {
-  return (
+  return ( 
     <div className='container trending' style={{fontSize:"1.3rem"}}>
     <Helmet>
      <title>How to Earn money from Fantasy Cricket</title>
-     <meta name="description" content="If you want to Earn money from fantasy cricket so check the blog you will get your answer." />
+     <meta name="description" content="If you want to Earn money from fantasy cricket so check the blog you will get your answer about How to Earn money from Fantasy Cricket." />
      <meta name="keywords" content=" How to earn money from fantasy cricket, Simple tips to earn money from fantasy cricket" />
      <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
    </Helmet>
@@ -26,6 +26,12 @@ function Trending3() {
     <p>if you are passionate about cricket and you have knowledge so ypu can create blog about where you can write about cricket .you can give updates and latest news about cricket because  there are very huge market and lots of fans that regularly search about cricket so you can create cricket related content and earn money from them when you create blog on cricket so the important thing is your passion because  when you are not passionate about cricket and you start creating blog on cricket you will not create  content for long time and you have to wait some time to earn money from that it took more than 2 or 3 months so you have to be disciplined in content writing . </p>
   </ol>
   <p>These are some ways that you can make from fantasy cricket you can try but play at your own risk. If you want to play check out my another Blog <strong>What is Fantasy Cricket and how to play</strong>check out this blog for more detail.if you have any query contact me from Contact section and send a message to my Insta Account.</p>
+  <h5>FAQ</h5>
+  <ol>
+  <a href="/what-is-fantasyCricket"> <li>what-is-fantasyCricket</li></a> 
+        <a href="/Why-We-Should-Play-Fantasy-Cricket"><li>Why We Shoul Play Fantasy Cricket</li></a>
+       <a href="/Dream11-Investment-Plan"><li>Dream11-Investment-Plan</li></a> 
+  </ol>
  </div>
   )
 }

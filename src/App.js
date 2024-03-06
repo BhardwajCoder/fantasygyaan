@@ -44,7 +44,7 @@ return (
       <Route path='/contact' element={<Contact />}/>
       <Route path='/policy' element={<Policy />}/>
       <Route path='/Ban-w-vs-Mum-w/Match-predictions' element={<Matchdata1 />}/>
-      <Route path='/Mum-women-vs-UP-women-Predictions' element={<Matchdata2 />}/>
+      <Route path='/MUM-W-vs-UP-W-Dream11-Predictions' element={<Matchdata2 />}/>
       <Route path='/MUS-vs-LAQ/MatchPredictions' element={<Matchdata3 />}/>
       <Route path='/QUE-vs-ISL/MatchPredictions' element={<Matchdata4 />}/>
       <Route path='/UP-W-vs-BAN-W/MatchPredictions' element={<Matchdata5 />}/>
@@ -58,7 +58,7 @@ return (
       <Route path='/Rohit-Captaincy-news' element={<Newsdata4/>}/>
       <Route path='/Mohammad-Shami-Ipl-ruled-out' element={<Newsdata5/>}/>
       <Route path='/what-is-fantasyCricket' element={<Trending1 />}/>
-      <Route path='/Isit-good-to-play-fantasyCricket' element={<Trending2 />}/>
+      <Route path='/Why-We-Should-Play-Fantasy-Cricket' element={<Trending2 />}/>
       <Route path='/How-to-Earn-Money-from-FantasyCricket' element={<Trending3 />}/>
       <Route path='/Dream11-Investment-Plan' element={<Trending4 />}/>
       <Route path='/is-ipl-scripted-or-not' element={<Trending5 />}/>

@@ -32,9 +32,9 @@ function Middle1() {
             <div className="feature-icon d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-2 mb-3">
             </div>
             <img src='/images/Is it good to.png' alt="404 not found" className='img' />
-            <h3 className="fs-2 text-body-emphasis my-2">Is it good to play fantasy cricket</h3>
+            <h3 className="fs-2 text-body-emphasis my-2">Why We Should Play Fantasy Cricket</h3>
             <p style={{fontSize:'1.3rem'}}>if you want to play <strong>fantasy cricket</strong>you have to know before playing <strong> is it good or not</strong> </p>
-            <Link to='/Isit-good-to-play-fantasyCricket'>
+            <Link to='/Why-We-Should-Play-Fantasy-Cricket'>
             <button className='btn btn-primary' >Read more</button>
             </Link>
           </div>

@@ -49,13 +49,13 @@ const MatchData=[
    },
   {
     "id":"2",
-    "perma":"Mum-women-vs-UP-women-Predictions",
+    "perma":"MUM-W-vs-UP-W-Dream11-Predictions",
 
     "Date":"19-feb-2024",
 
     "league": "BPL",
 
-       "Heading":"Mum-women vs UP-Women",
+       "Heading":"MUM-W vs UP-W",
      
        "content":"check the updated squad of csk 2024",
 

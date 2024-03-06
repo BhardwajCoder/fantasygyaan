@@ -42,7 +42,7 @@ function Trending4() {
     <h5>FAQ</h5>
     <ol>
       <a href="/what-is-fantasyCricket"><li>what is fantasy Cricket</li></a>
-      <a href="/Isit-good-to-play-fantasyCricket"><li>Is It good to play Fantasy Cricket</li></a>
+      <a href="/Why-We-Should-Play-Fantasy-Cricket"><li>Is It good to play Fantasy Cricket</li></a>
       <a href="/How-to-Earn-Money-from-FantasyCricket"><li>How-to-Earn-Money-from-FantasyCricket</li></a>
     </ol>
  </div>

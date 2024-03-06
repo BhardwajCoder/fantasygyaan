@@ -8,25 +8,25 @@ function Matchdata2() {
     <>
     <div className='container Match' style={{fontSize:"1.3rem"}}>
     <Helmet>
-    <title>mum-women vs up-women</title>
-    <meta name="description" content="Check the Fantasy Predictions and Dream11 Free teams of Mum-women vs UP-Women match.Get the Fantasy Bonus Tips to increase your chance of winnings" />
-    <meta name="keywords" content="up-women vs mum-women , UP-W vs MUM-W Match predictions,Mumbai Women vs Uttarpardesh Women fantasy team,UP-women vs MUM-women fantasy tips" />
+    <title>MUM-W vs UP-W|Dream11 Prediction</title>
+    <meta name="description" content="Check the Fantasy Predictions and Dream11 Free teams of MUM-W vs UP-W match.Get the Fantasy Bonus Tips to increase your chance of winnings" />
+    <meta name="keywords" content="MUM-W vs UP-WDream11 Prediction, mum-w vs UP-Wtoday Match predictions,Mumbai Women vs Gujarat Women fantasy team,MUM-Women vs GUJ-Women fantasy tips" />
     <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
     </Helmet>
-      <h1 className='text-center'>MUM-Women vs guj-Women</h1> 
+      <h1 className='text-center'>MUM-W vs UP-W|Dream11 Prediction</h1> 
       <img src="https://crickettimes.com/wp-content/uploads/2024/02/Harmanpreet-Kaur-and-Alyssa-Healy-2.webp" alt="UP-Women vs MUM-Women match predictions details"  className='float-end match-img'/>
-      <p>The match between Comilla Victorians and Rangpur Ryders will play on  20 feb .COV is on 2nd position in the points table or RAN is on the 1st  position in the points table. Comilla and Rangpur already qualify for the Playoffs both the teams  are strong and hope for a high scoring Encounter.this match is good for <strong>fantasy cricket</strong>  players beacuse both team are strong and come with full strength.check the <strong>Fantasy match Predictions</strong>below.</p>
+      <p>The match between MUM-W and UP-Wwill play on  7 MARCH .MUM-W is on 3rd position in the points table or UP-W is on the 4th position in the points table. MUM-W play decent in this season and won their 3 matches out of 5 matches and on the other side UP-W won 2 matches out of 5 matches this season they have to step up in this match and try to beat the MUM-W but MUM-W ready to won their 4th match because MUM-W are a strong team in comparison of UP-Wso let see what happens in this match stay tuned at toss time.</p>
      
      <h2>Pitch Report</h2>
-     <p> The match will play on M chinnaswamy Stadium Banglore the Nature of the pitch is <strong>Batting friendly</strong> high scoring wicket with good run scoring due to short boundaries and quick outfieldbut in women matches spinners will come in game so you have to focus on quality spinners with Batters.stay tuned for Official pitch report at toss time.</p>
+     <p> The match will play on Arun Jaitely Stadium Delhi the Nature of the pitch is <strong>Batting friendly</strong> high scoring wicket with good run scoring due to short boundaries and quick outfieldbut in women matches spinners will come in game so you have to focus on quality spinners with Batters.stay tuned for Official pitch report at toss time.</p>
 
      <h3>MuM-women Probable 11</h3>
-     <p>Yastika Bhatia(wk),H Matthews,Nat Sciver,Harmanpreet Kaur,Amelia Kerr,Pooja Vastrakar,Amnjot Kaur,Sajeeva Sajana,S keerthana,Shabnim Ismail,Saika Ishaque.</p>
+     <p>Yastika Bhatia(wk),H Matthews,Nat Sciver,Harmanpreet Kaur,Amelia Kerr,Pooja Vastrakar,Amnjot Kaur,Sajeeva Sajana,K Balakrishana,H Kaazi,Saika Ishaque.</p>
      <br />
      <h3>UP-Women Probable 11</h3>
-     <p>Alyssa Healy,Vrinda Dinesh,KP Navgire,T Mcgrath,Deepti Sharma,Grace Harris,S Sherawat,S Ecclestone,Anjali Sarvani,P Chopra,R Gaikwad</p>
+     <p>Alyssa Healy,KP Navgire,Chamari Athapaththu,Grace Harris,S Sherawat,Deepti Sharma,Poonam Khemnar,,S Ecclestone,Anjali Sarvani,S Thakor,R Gaikwad</p>
      </div>
-     <div className="container">
+     <div className="container"  style={{fontSize:"1.3rem"}}>
      <h3>Top Batting Picks</h3>
      <ol>
       <li><strong>Harman P kaur</strong>his form is good in recent matches</li>
@@ -36,7 +36,7 @@ function Matchdata2() {
      <h4>Top All-Rounder Picks</h4>
      <ol>
       <li><strong>N Sciever Brunt</strong> good all-Rounder option</li>
-      <li><strong>Tahila Mcgrath</strong> he can contribute with bat and ball</li>
+      <li><strong>Tahila Mcgrath</strong> he can contribute with bat and ball-if she play</li>
       <li><strong>Hayley Matthews</strong>he can contribute with bat and ball</li>
       <li><strong>Ameela Kerr</strong>he can contribute with bat and ball</li>
      </ol>
@@ -50,7 +50,7 @@ function Matchdata2() {
      </ol>
      <h4>Top Captaincy picks</h4>
      <ol>
-      <li><strong>Tahila Mcgrath</strong></li>
+      <li><strong>Amella Kerr</strong></li>
       <li><strong>N Sciever Brunt</strong></li>
       <li><strong>Healy Mathhews</strong></li>
       
@@ -60,13 +60,20 @@ function Matchdata2() {
      <ol>
       <li>You can try Deepti Sharma good tump pick</li>
       <li>you can drop Yashtika Bhatiya if bat first </li>
+      <li>you can try Pooja Vastrakar in your team</li>
       <li>S Ecclestone Match up is  good against Mumbai women</li>
       <li>you can Drop Healy Mathews because form is not good- <strong>but highly risky</strong> </li>
      
      </ol>
+     <h4><strong>FAQ</strong></h4>
+     <ol>
+      <a href="/what-is-fantasyCricket"><li>what is fantasy Cricket</li></a>
+      <a href="/Why-We-Should-Play-Fantasy-Cricket"><li>Is It good to play Fantasy Cricket</li></a>
+      <a href="/How-to-Earn-Money-from-FantasyCricket"><li>How-to-Earn-Money-from-FantasyCricket</li></a>
+    </ol>
      </div>
      <h6>Check out the final team after toss-  <Link to='https://www.instagram.com/fantasygyaan9/'><FaInstagram size={"1.5rem"}/> </Link></h6>
-   
+    
     </>
   )
 }
