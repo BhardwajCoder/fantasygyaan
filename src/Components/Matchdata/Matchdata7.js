@@ -13,7 +13,7 @@ function Matchdata7() {
     <meta name="keywords" content="LAH vs KAR-Dream11 Predictions, Lahore  vs Karachi free fantasy team, LAH vs KAR Today Match predictions for free,LAH vs KAR fantasy tips" />
     <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
     </Helmet>
-      <h1 className='text-center'>LAH vs KAR</h1>
+      <h1 className='text-center'>LAH vs KAR |Dream11 Prediction</h1>
       <img src="https://www.probatsman.com/wp-content/uploads/2024/02/Match-10-LAH-vs-KAR-Pakistan-Super-League-2024.jpg" alt="BAN-W vs UP-W
        match Predictions "  className='float-end match-img'/>
       <p>The Match will play between Lahore and Karachi both team put their efforts to win .Lahore loose all their 3 matches and on the other side Karch with 1win or 1 loss so we will see a intersting match because both teams want win and lahore definitely need a win to start their Campaign this season so be ready at toss time for toss and official pitch report so stay tuned . </p>

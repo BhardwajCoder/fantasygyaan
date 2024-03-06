@@ -6,22 +6,22 @@ function Trending4() {
     <div>
         <div className='container trending' style={{fontSize:"1.3rem"}}>
     <Helmet>
-     <title>Dream11 investment Plan</title>
-     <meta name="description" content="Check the Fantasy Cricket Investment Plan.without a investment Strategy you can not be in profit so check the plan. " />
-     <meta name="keywords" content=" Fantasy Cricket Investment Plan, Fantasy Cricket Investment Strategy,Dream11 investment strategy" />
+     <title>Dream11 Investment Plan</title>
+     <meta name="description" content="If you play fantasy Cricket so you have to follow this profitable Dream11 Investment Plan for playing with the help of this Dream11 Investment Strategy you will know how to invest and how much invest in single match. " />
+     <meta name="keywords" content=" Dream11 Investment Plan, Fantasy Cricket Investment Strategy,Dream11 Investment Strategy" />
      <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
    </Helmet>
-   <h1 className='my-3'>Dream11  Investment Plan</h1>
-   <img src="/images/how to earn money.png" alt="Dream11 investment plan" className='float-end img-trend' />
+   <h1 className='my-3'>Dream11 Investment Plan</h1>
+   <img src="/images/how to earn money.png" alt="Dream11 Investment plan" className='float-end img-trend' />
    <p>If you  want to Earn money from Fantasy Cricket so the most important thing you need is a <strong>Dream11 Investment Plan</strong>that helps you to guide how to invest your money or which contest is good for you so you can win easily or stay in profit most of the time. for profit you have to follow a <strong>
-    Fantasy Cricket Investment Strategy</strong>before you know what is the Strategy you have to follow some tips if you not follow investment plan is not working for you. </p>
+   Dream11 Investment Strategy</strong>before you know what is the Strategy you have to follow some tips if you not follow investment plan is not working for you.Every  fantasy cricket player who earn from fantasy cricket follow a investment plan because without a Investment plan you will never be in profit.  </p>
     <ol>
   <li>Follow Investment plan for 10 days Minimum</li>
   <li>Invest Same Amount in Every Match</li>
   <li>Don`t Panic if you lose some matches</li>
     </ol>
    <br />
-   <h2>Dream11 Investment Plan</h2>
+   <h2>Dream11 Investment Strategy</h2>
  <p>This Investment Plan is same for every person who invest big or small amount in Fantasy .we understand this Investment Strategy as a example</p>
  <br />
  <p>Suppose you have 1000 rupees for small investor and  for big investor you can assume  you have 100000 rupees(1lakh). the investment plan is same for all. <strong>Divide your money in 10 equal parts</strong> and invest the 10th part of your money in every match  doesn't matter if you lose  or win.Invest the same amount <strong>follow this plan for 10 matches</strong>you will definitely get a result.</p>
