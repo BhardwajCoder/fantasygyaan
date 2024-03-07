@@ -68,6 +68,17 @@ function Middle1() {
             <button className='btn btn-primary' >Read more</button>
             </Link>
           </div>
+      
+          <div className="feature col ">
+            <div className="feature-icon d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-2 mb-3">
+            </div>
+            <img src='/images/shoulcricket.jpg' alt="404 not found" className='img' />
+            <h3 className="fs-2 text-body-emphasis my-2">Should Cricket Be the National Game of India?</h3>
+            <p style={{fontSize:'1.3rem'}}>If you are cricket fan so this is the most asked question by cricket fans <strong>Should Cricket Be the National Game of India?</strong>here you will get your answer. </p> 
+            <Link to='/should-cricket-be-the-national-game-of-india'>
+            <button className='btn btn-primary' >Read more</button>
+            </Link>
+          </div>
 
     </div>
   </div>

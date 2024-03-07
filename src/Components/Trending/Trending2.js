@@ -7,7 +7,7 @@ function Trending2() {
     <div className='container trending' style={{fontSize:"1.3rem"}}>
        <Helmet>
         <title>Why WE Should PLAY Fantasy Cricket-All you need to know</title>
-        <meta name="description" content="Fantasy is good or not .if you want to play so read before Playing fantasy cricket and check the all information if you think Why WE should PLAY FANTASY CRICKET you will get your all answers in this blog so check this. " />
+        <meta name="description" content="Fantasy is good or not .if you want to play so read before Playing fantasy cricket and check the all information if you think Why WE Should PLAY FANTASY CRICKET you will get your all answers in this blog so check this. " />
         <meta name="keywords" content=" Why WE should Play Fantasy Cricket, is it good to play fantasy Cricket" />
         <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
       </Helmet>
