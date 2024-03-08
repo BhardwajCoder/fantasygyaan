@@ -22,15 +22,15 @@ function Trending4() {
     </ol>
    <br />
    <h2>Dream11 Investment Strategy</h2>
- <p>This Investment Plan is same for every person who invest big or small amount in Fantasy .we understand this Investment Strategy as a example</p>
+ <p>This Investment Plan is same for every person who invest big or small amount in Fantasy Cricket .we understand this Investment Strategy as a example</p>
  <br />
- <p>Suppose you have 1000 rupees for small investor and  for big investor you can assume  you have 100000 rupees(1lakh). the investment plan is same for all. <strong>Divide your money in 10 equal parts</strong> and invest the 10th part of your money in every match  doesn't matter if you lose  or win.Invest the same amount <strong>follow this plan for 10 matches</strong>you will definitely get a result.</p>
+ <p>Suppose you have 1000 rupees for small investor and  for big investor you can assume  you have 100000 rupees(1lakh). the investment plan is same for all. <strong>Divide your money in 10 equal parts</strong> and invest the 10th part of your money in every match  doesn't matter if you lose  or win.Invest the same amount <strong>follow this plan for 10 matches</strong>you will definitely get  results.</p>
  <p>Points to Remember</p>
  <ol>
     <li>Divide your Money in 10 equal Parts  - total amount/10</li>
     <li>Invest the 10th part of your money in every match</li>
-    <li>Don`t invest High or Low in the matches</li>
-    <li>Join Multiple Contest don`t invest your money in single match </li>
+    <li>Don`t invest High or Low in single matches</li>
+    <li>Join Multiple Contest don`t invest your whole money in single contest </li>
     <li>Follow this Plan for 10 matches </li>
  </ol>
     <h3>Contest You should play </h3>
@@ -42,8 +42,8 @@ function Trending4() {
     <h5>FAQ</h5>
     <ol>
       <a href="/what-is-fantasyCricket"><li>what is fantasy Cricket</li></a>
-      <a href="/Why-We-Should-Play-Fantasy-Cricket"><li>Is It good to play Fantasy Cricket</li></a>
-      <a href="/How-to-Earn-Money-from-FantasyCricket"><li>How-to-Earn-Money-from-FantasyCricket</li></a>
+      <a href="/Why-We-Should-Play-Fantasy-Cricket"><li>WHY We Should Play Fantasy Cricket</li></a>
+      <a href="/How-to-Earn-Money-from-FantasyCricket"><li>How to Earn Money from Fantasy Cricket</li></a>
     </ol>
  </div>
     </div>
