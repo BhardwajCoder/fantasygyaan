@@ -30,6 +30,7 @@ import Trending5 from './Components/Trending/Trending5';
 import Matchdata8 from './Components/Matchdata/Matchdata8';
 import Matchdata9 from './Components/Matchdata/Matchdata9';
 import Trending6 from './Components/Trending/Trending6';
+import Matchdata10 from './Components/Matchdata/Matchdata10';
 
 function App() {
  
@@ -44,7 +45,7 @@ return (
       <Route path= '/about' element= {<About/>}/>
       <Route path='/contact' element={<Contact />}/>
       <Route path='/policy' element={<Policy />}/>
-      <Route path='/Ban-w-vs-Mum-w/Match-predictions' element={<Matchdata1 />}/>
+      <Route path='/RCB-W-vs-MUM-W/Match-predictions' element={<Matchdata1 />}/>
       <Route path='/MUM-W-vs-UP-W-Dream11-Predictions' element={<Matchdata2 />}/>
       <Route path='/MUS-vs-LAQ/MatchPredictions' element={<Matchdata3 />}/>
       <Route path='/QUE-vs-ISL/MatchPredictions' element={<Matchdata4 />}/>
@@ -53,6 +54,7 @@ return (
       <Route path='/LAH-vs-KAR/MatchPredictions' element={<Matchdata7/>}/>
       <Route path='/QUE-vs-KAR/Match-Predictions' element={<Matchdata8/>}/>
       <Route path='/LAH-vs-ISL/Match-Predictions' element={<Matchdata9/>}/>
+      <Route path='/MUS-vs-QUE/Match-Predictions' element={<Matchdata10/>}/>
       <Route path='/MI-NEW-IPL-SQUAD' element={<Newsdata1 />}/>
       <Route path='/CSK-NEW-IPL-SQUAD' element={<Newsdata2 />}/>
       <Route path='/RCB-NEW-IPL-SQUAD' element={<Newsdata3 />}/>

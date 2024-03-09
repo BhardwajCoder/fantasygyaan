@@ -1,5 +1,31 @@
 const MatchData=[
   {
+    "id":"1",
+     "perma":"/RCB-W-vs-MUM-W/Match-predictions" ,
+    "Date":"12-mar-2024",
+    "img":"/images/indvseng.png",
+  
+    "league":"WPL",
+  
+    "Heading":"RCB-W vs MUM-W",
+    
+  
+    "content":"check the updated squad of MI 2024",
+  
+   
+   },
+  {
+    "id":"10",
+     "perma":"MUS-vs-QUE/Match-Predictions",
+    "Date":"12-MAR-2024",
+
+  
+    "league":"PSL",
+  
+    "Heading":"MUS VS QUE",
+    
+   },
+  {
     "id":"9",
      "perma":"LAH-vs-ISL/Match-Predictions",
     "Date":"6-MAR-2024",
@@ -32,21 +58,7 @@ const MatchData=[
     "Heading":"UP-W vs BAN-W",
     
    },
-  {
-    "id":"1",
-     "perma":"Ban-w-vs-Mum-w/Match-predictions" ,
-    "Date":"25-feb-2024",
-    "img":"/images/indvseng.png",
-  
-    "league":"t20i",
-  
-    "Heading":"BAN-W vs MUM-W",
-    
-  
-    "content":"check the updated squad of MI 2024",
-  
-   
-   },
+
   {
     "id":"2",
     "perma":"MUM-W-vs-UP-W-Dream11-Predictions",
