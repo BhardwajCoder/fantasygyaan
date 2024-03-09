@@ -30,6 +30,28 @@ function Middle() {
                   <strong className="d-inline-block mb-2 text-primary-emphasis">
                     CRICKET
                   </strong>
+                  <h2 className="mb-0 my-1">KAR vs PES</h2>
+                  <p>11-MAR-2024</p>
+                  <p
+                    style={{ fontSize: "1.3rem", fontStyle: "oblique" }}
+                    className="mb-1 text-body-secondary"
+                  >
+                    {" "}
+                    check the{" "}
+                    <strong>Fantasy Cricket Teams and Match Predictions</strong>
+                  </p>
+                  <Link to={`/KAR-vs-PES-W/Match-predictions`}>
+                    <button className="btn btn-primary my-2"> View </button>
+                  </Link>
+                </div>
+              </div>
+            </div>
+          <div className="col-md-6 card1 ">
+              <div className="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+                <div className="col p-4 d-flex flex-column position-static">
+                  <strong className="d-inline-block mb-2 text-primary-emphasis">
+                    CRICKET
+                  </strong>
                   <h2 className="mb-0 my-1">RCB-W vs MUM-W</h2>
                   <p>12-Mar-2024</p>
                   <p
@@ -67,28 +89,7 @@ function Middle() {
                 </div>
               </div>
             </div>
-            <div className="col-md-6 card1 ">
-              <div className="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
-                <div className="col p-4 d-flex flex-column position-static">
-                  <strong className="d-inline-block mb-2 text-primary-emphasis">
-                    CRICKET
-                  </strong>
-                  <h2 className="mb-0 my-1">LAH VS ISL</h2>
-                  <p>6-MAR-2024</p>
-                  <p
-                    style={{ fontSize: "1.3rem", fontStyle: "oblique" }}
-                    className="mb-1 text-body-secondary"
-                  >
-                    {" "}
-                    check the{" "}
-                    <strong>Fantasy Cricket Teams and Match Predictions</strong>
-                  </p>
-                  <Link to={`/LAH-vs-ISL/Match-Predictions`}>
-                    <button className="btn btn-primary my-2"> View </button>
-                  </Link>
-                </div>
-              </div>
-            </div>
+           
            
           </div>
         </header>

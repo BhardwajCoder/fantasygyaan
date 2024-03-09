@@ -31,6 +31,7 @@ import Matchdata8 from './Components/Matchdata/Matchdata8';
 import Matchdata9 from './Components/Matchdata/Matchdata9';
 import Trending6 from './Components/Trending/Trending6';
 import Matchdata10 from './Components/Matchdata/Matchdata10';
+import Matchdata11 from './Components/Matchdata/Matchdata11';
 
 function App() {
  
@@ -55,6 +56,7 @@ return (
       <Route path='/QUE-vs-KAR/Match-Predictions' element={<Matchdata8/>}/>
       <Route path='/LAH-vs-ISL/Match-Predictions' element={<Matchdata9/>}/>
       <Route path='/MUS-vs-QUE/Match-Predictions' element={<Matchdata10/>}/>
+      <Route path='/KAR-vs-PES-W/Match-predictions' element={<Matchdata11/>}/>
       <Route path='/MI-NEW-IPL-SQUAD' element={<Newsdata1 />}/>
       <Route path='/CSK-NEW-IPL-SQUAD' element={<Newsdata2 />}/>
       <Route path='/RCB-NEW-IPL-SQUAD' element={<Newsdata3 />}/>
