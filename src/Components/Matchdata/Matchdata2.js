@@ -13,8 +13,8 @@ function Matchdata2() {
     <meta name="keywords" content="MUM-W vs UP-WDream11 Prediction, mum-w vs UP-Wtoday Match predictions,Mumbai Women vs Gujarat Women fantasy team,MUM-Women vs GUJ-Women fantasy tips" />
     <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
     </Helmet>
-      <h1 className='text-center'>MUM-W vs UP-W|Dream11 Prediction</h1> 
-      <img src="https://crickettimes.com/wp-content/uploads/2024/02/Harmanpreet-Kaur-and-Alyssa-Healy-2.webp" alt="UP-Women vs MUM-Women match predictions details"  className='float-end match-img'/>
+      <h1 className='text-center'>MUM-W vs UP-W Dream11 Prediction</h1> 
+      <img src="https://crickettimes.com/wp-content/uploads/2024/02/Harmanpreet-Kaur-and-Alyssa-Healy-2.webp" alt="MUM-W vs UP-W Dream11 Prediction"  className='float-end match-img'/>
       <p>The match between MUM-W and UP-Wwill play on  7 MARCH .MUM-W is on 3rd position in the points table or UP-W is on the 4th position in the points table. MUM-W play decent in this season and won their 3 matches out of 5 matches and on the other side UP-W won 2 matches out of 5 matches this season they have to step up in this match and try to beat the MUM-W but MUM-W ready to won their 4th match because MUM-W are a strong team in comparison of UP-Wso let see what happens in this match stay tuned at toss time.</p>
      
      <h2>Pitch Report</h2>

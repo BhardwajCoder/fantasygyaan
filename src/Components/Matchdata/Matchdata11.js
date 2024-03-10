@@ -13,7 +13,7 @@ function Matchdata11() {
     <meta name="keywords" content="KAR vs PES,KAR vs PES Dream11 Predictions, Karachi  vs Peshawar free fantasy team, KAR vs PES Today Match predictions,kar vs pes today match  ,kar vs pes dream11 prediction" />
     <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
     </Helmet>
-      <h1 className='text-center'>KAR vs PES Dream11 Prediction,today Match prediction</h1>
+      
       <img src="/images/KARvsPES (1).jpg" alt="KAR vs PES
        match Predictions "  className='float-end match-img'/>
       <p>The Match will play between KAR and Karachi PES team put their efforts to win.The perfomance of peashawar is good in this season they won 5 matches out of 9 matches and currently hold the 2nd position in points table and on the other side Karachi perfomance is very poor in this season they only won 3 matches out of 9 matches .KAR have to stepup in this match and try to beat PES in this match to get back his campaign on winning trac. </p>

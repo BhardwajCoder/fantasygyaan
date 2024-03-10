@@ -14,7 +14,7 @@ function Matchdata9() {
 <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
 </Helmet>
   <h1 className='text-center'>LAH vs ISL-Today Match Predictions</h1>
-  <img src="/images/lqvsiu.jpg" alt="QUE VS KAR Dream11 Predictions"  className='float-end match-img'/>
+  <img src="/images/lqvsiu.jpg" alt="LAH vs ISL Dream11 Predictions"  className='float-end match-img'/>
   <p>the match between <strong>LAH vs ISL</strong> will play on 6 March at Rawalpindi cricket stadium,Pakistan.get ready for the thriller because in this season ISL not in good form and they only win their 3 matches out of 7 matches and currently on 3rd position in points table and on the other side LAH not won only a single match in this season so they desperately need a win to get back his train on winning track so get ready for a thriller stay tuned at toss time for updates and official news related to both teams</p>
  
  <h2>Pitch Report</h2>

@@ -1,7 +1,7 @@
 const MatchData=[
   {
     "id":"11",
-     "perma":"/KAR-vs-PES-W/Match-predictions" ,
+     "perma":"KAR-vs-PES-W/Match-predictions" ,
     "Date":"11-mar-2024",
     "img":"/images/indvseng.png",
     "league":"PS;L",
@@ -11,7 +11,7 @@ const MatchData=[
    },
   {
     "id":"1",
-     "perma":"/RCB-W-vs-MUM-W/Match-predictions" ,
+     "perma":"RCB-W-vs-MUM-W/Match-predictions" ,
     "Date":"12-mar-2024",
     "img":"/images/indvseng.png",
     "league":"WPL",

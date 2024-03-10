@@ -14,11 +14,10 @@ function Matchdata7() {
     <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
     </Helmet>
       <h1 className='text-center'>LAH vs KAR Dream11 Prediction,today Match prediction</h1>
-      <img src="https://www.probatsman.com/wp-content/uploads/2024/02/Match-10-LAH-vs-KAR-Pakistan-Super-League-2024.jpg" alt="BAN-W vs UP-W
+      <img src="https://www.probatsman.com/wp-content/uploads/2024/02/Match-10-LAH-vs-KAR-Pakistan-Super-League-2024.jpg" alt="LAH vs KAR Dream11 
        match Predictions "  className='float-end match-img'/>
       <p>The Match will play between Lahore and Karachi both team put their efforts to win .this season performance of the both teams was dissapointed.In this season KAR won only 3 matches out of 8 matches and currently hold the 5th position on the points table and on the other side LAH at the bottom of the points table they only won 1 match out of 8 matches.Both teams have to step up in this match because both teams need a victory to bounce back in the tournament so let`s see what happens in this match stay tuned at toss time for updates  . </p>
 
-      <h2>LAH vs KAR Dream11 Prediction, Today Match predictions</h2>
      
      <h2>Pitch Report</h2>
      <p>This match will play on National Stadium Karachi the Nature of the pitch is <strong> Good Surface to bat on</strong>,has generally been neutral during the international games but In PSL people want entertainment so they prepare Batting Friendly Tracks so this is going to another High scoring match so pick Quality Batsmen death bowlers or all-rounder who can bat in top order.</p>

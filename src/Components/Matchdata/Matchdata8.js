@@ -13,7 +13,7 @@ import { Helmet } from 'react-helmet';
     <meta name="keywords" content="KAR vs QUE-Dream11 prediction,KAR vs QUE -Today match prediction, PSL free temas,KAR vs QUE Deam11 teams,karachi vs Quetta Fantasy team ,KAR vs QUE today match prediction" />
     <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
     </Helmet>
-      <h1 className='text-center'>QUE vs LAQ-Today Match Predictions</h1>
+      <h1 className='text-center'>QUE vs KAR-Today Match Predictions</h1>
       <img src="/images/qgvskar.jpg" alt="QUE VS KAR Dream11 Predictions"  className='float-end match-img'/>
       <p>the match between KAR vs QUE will play on 6 March at Rawalpindi cricket stadium,Pakistan.get ready for the thriller because in this season QUE in good form and they win their 4 matches out of 6 matches and currently on 2nd position in points table and on the other side KAR won only 2 matches out of 6 matches so they desperately need a win to get back his train on winning track so get ready for a thriller stay tuned at toss time for updates and official news related to both teams</p>
      

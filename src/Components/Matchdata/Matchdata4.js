@@ -13,8 +13,8 @@ function Matchdata4() {
     <meta name="keywords" content="QUE vs ISL, Queta vs Islamabad team, QUE vs ISL Match predictions,Queta vs Islamabad fantasy team,QUEvs ISL fantasy tips" />
     <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
     </Helmet>
-      <h1 className='text-center'>Queta vs Islamabad</h1>
-      <img src="/images/quevsisl.jpg" alt="Que vs Isl match Predictions "  className='float-end match-img'/>
+      <h1 className='text-center'>QUE vs ISL</h1>
+      <img src="/images/quevsisl.jpg" alt="QUE vs ISL match Predictions "  className='float-end match-img'/>
       <p>The match will play between <strong>Queta gladiators vs Islamabad united</strong>on 22 feb.In psl we see high scoring matches already again we expecting a high scoring match.both teams batting are good and they score 200 easily let see what happens in this match can we see a new trend or the same typical high scoring trend so be ready for the match .</p>
 
       <h2>QUE vs ISL Match predictions</h2>

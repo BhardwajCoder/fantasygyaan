@@ -13,8 +13,7 @@ function Trending4() {
    </Helmet>
    <h1 className='my-3'>Dream11 Investment Plan</h1>
    <img src="/images/how to earn money.png" alt="Dream11 Investment plan" className='float-end img-trend' />
-   <p>If you  want to Earn money from Fantasy Cricket so the most important thing you need is a <strong>Dream11 Investment Plan</strong>that helps you to guide how to invest your money or which contest is good for you so you can win easily or stay in profit most of the time. for profit you have to follow a <strong>
-   Dream11 Investment Strategy</strong>before you know what is the Strategy you have to follow some tips if you not follow investment plan is not working for you.Every  fantasy cricket player who earn from fantasy cricket follow a investment plan because without a Investment plan you will never be in profit.  </p>
+   <p>If you  want to Earn money from Fantasy Cricket so the most important thing you need is a that helps you to guide how to invest your money or which contest is good for you so you can win easily or stay in profit most of the time. for profit you have to follow a before you know what is the Strategy you have to follow some tips if you not follow investment plan is not working for you.Every  fantasy cricket player who earn from fantasy cricket follow a investment plan because without a Investment plan you will never be in profit.  </p>
     <ol>
   <li>Follow Investment plan for 10 days Minimum</li>
   <li>Invest Same Amount in Every Match</li>
