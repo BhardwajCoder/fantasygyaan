@@ -14,7 +14,7 @@ function Matchdata12() {
     <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
     </Helmet>
       <h1 className='text-center'>DEL-W vs GUJ-W </h1>
-      <img src="https://www.kreedon.com/wp-content/uploads/2023/03/Harmanpreet-Kuar-of-MI-and-Smriti-Mandhana-of-RCB-741x486.jpg.webp" alt="RCB-W vs MUM-W "  className='float-end match-img'/>
+      <img src="https://img.cricketnmore.com/uploads/2024/03/guj-w-vs-del-w-match-no-10-dream11-team-today-match-prediction-womens-premier-league-2024-lg.jpg" alt="del-w vs guj-w "  className='float-end match-img'/>
       <p>The match Betwwen DEL-W vs GUJ-W will play today on Arun Jaitely stadium,Delhi so we expect a good scoring match. In this season Delhi women start their campaign on a good side and continue their form and already qualify for the playoffs currently hold the 1st place in points table but on the other side Gujarat women hold the last place in points table they only won 1 match out of 6 matches so in this match gujarat women have to play with free mind because they have nothing to loose and Delhi women try some experiment in this match so stay tuned at toss time for official updates . </p>
 
      
