@@ -5,89 +5,61 @@ import { Helmet } from "react-helmet";
 function Middle() {
   return (
     <>
-      <h2 class="pb-2 border-bottom my-2 container">Trending Matches</h2>
-      <div className="middle mx-4  ">
+      <h2 className="pb-2 border-bottom my-2 container">Trending Matches</h2>
+      <div className="  mx-4  ">
         <Helmet>
           <table>Trending Matches</table> <meta name="description" content="Get full details about daily matches and stay updates with daily match predictions and dream11 teams" />
           <meta name="keywords"content="Daily Matches,Trending cricket matches" />
           <meta name="robots" content="follow, index, max-snippet:-1, max-video-previe,max-image-preview:large" />
         </Helmet>
         <header>
-          <div className="my- middle " style={{ fontFamily: "serif,Georgia" }}>
-            
-          <div className="col-md-6 card1 ">
-              <div className="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
-                <div className="col p-4 d-flex flex-column position-static">
-                  <strong className="d-inline-block mb-2 text-primary-emphasis">
-                    CRICKET
-                  </strong>
-                  <h2 className="mb-0 my-1">DEL-W vs GUJ-W</h2>
-                  <p>13-MAR-2024</p>
-                  <p
-                    style={{ fontSize: "1.3rem", fontStyle: "oblique" }}
-                    className="mb-1 text-body-secondary"
-                  >
-                    {" "}
-                    check the{" "}
-                    <strong>Fantasy Cricket Teams and Match Predictions</strong>
-                  </p>
-                  <Link to={`/DEL-W-vs-GUJ-W-W/Match-predictions`}>
-                    <button className="btn btn-primary my-2"> View </button>
-                  </Link>
-                </div>
-              </div>
-            </div>
-            
-          <div className="col-md-6 card1 ">
-              <div className="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
-                <div className="col p-4 d-flex flex-column position-static">
-                  <strong className="d-inline-block mb-2 text-primary-emphasis">
-                    CRICKET
-                  </strong>
-                  <h2 className="mb-0 my-1">RCB-W vs MUM-W</h2>
-                  <p>12-Mar-2024</p>
-                  <p
-                    style={{ fontSize: "1.3rem", fontStyle: "oblique" }}
-                    className="mb-1 text-body-secondary"
-                  >
-                    check the{" "}
-                    <strong>Fantasy Cricket Teams and Match Predictions</strong>{" "}
-                  </p>
-                  <Link to={`/RCB-W-vs-MUM-W/Match-predictions`}>
-                    <button className="btn btn-primary my-2"> View </button>
-                  </Link>
-                </div>
-                <div className="col-auto d-none d-lg-block"></div>
-              </div>
-            </div>
+          <div className="Card-Main " style={{ fontFamily: "serif,Georgia" }}>
 
-            <div className="col-md-6 card1 ">
-              <div className="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
-                <div className="col p-4 d-flex flex-column position-static">
-                  <strong className="d-inline-block mb-2 text-primary-emphasis">
-                    CRICKET
-                  </strong>
-                  <h2 className="mb-0 my-1">MUS vs QUE</h2>
-                  <p>12-Mar-2024</p>
-                  <p
-                    style={{ fontSize: "1.3rem", fontStyle: "oblique" }}
-                    className="mb-1 text-body-secondary"
-                  >
-                    check the{" "}
-                    <strong>Fantasy Cricket Teams and Match Predictions</strong>{" "}
-                  </p>
-                  <Link to={`/MUS-vs-QUE/Match-Predictions`}>
-                    <button className="btn btn-primary my-2"> View </button>
-                  </Link>
-                </div>
-              </div>
-            </div>
-           
-           
-          </div>
-          
+          <div className="card">
+      <div className="content">
+        <div className="title">Daily Matches</div>
+        <div className="price">AFG vs IRE</div>
+        <p className="text-white">15-MARCH-2024</p>
+        <div className="description">Check the Match preview,Pitch Report with Dream11 prediction and Fantasy Bonus Tips.</div>
+      </div>
+      <Link to='/AFG-vs-IRE--W-today-Match-predictions'> <button className="w-100">Read More</button></Link>
+       
+  </div>
+
+          <div className="card">
+      <div className="content">
+        <div className="title">Daily Matches</div>
+        <div className="price">DEL-W vs GUJ-W</div>
+        <p className="text-white">13-MARCH-2024</p>
+        <div className="description">Check the Match preview,Pitch Report with Dream11 prediction and Fantasy Bonus Tips..</div>
+      </div>
+      <Link to='/DEL-W-vs-GUJ-W-W/Match-predictions'> <button className="w-100">Read More</button></Link>
+  </div>
+  
+  
+  <div className="card">
+      <div className="content">
+        <div className="title">Daily Matches</div>
+        <div className="price">RCB-W vs MUM-W</div>
+        <p className="text-white">12-MARCH-2024</p>
+        <div className="description">Check the Match preview,Pitch Report with Dream11 prediction and Fantasy Bonus Tips..</div>
+      </div>
+      <Link to='/RCB-W-vs-MUM-W/Match-predictions'> <button className="w-100">Read More</button></Link>
+  </div>
+  
+  
+  <div className="card">
+      <div className="content">
+        <div className="title">Daily Matches</div>
+        <div className="price">MUS vs QUE</div>
+        <p className="text-white">12-MARCH-2024</p>
+        <div className="description">Check the Match preview,Pitch Report with Dream11 prediction and Fantasy Bonus Tips..</div>
+      </div>
+      <Link to='/MUS-vs-QUE/Match-Predictions'> <button className="w-100">Read More</button></Link>
+  </div>
+                    
+          </div> 
         </header>
-        
       </div>
     </>
   );

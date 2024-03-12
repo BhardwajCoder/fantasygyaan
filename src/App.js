@@ -59,6 +59,7 @@ return (
       <Route path='/MUS-vs-QUE/Match-Predictions' element={<Matchdata10/>}/>
       <Route path='/KAR-vs-PES-W/Match-predictions' element={<Matchdata11/>}/>
       <Route path='/DEL-W-vs-GUJ-W-W/Match-predictions' element={<Matchdata12/>}/>
+      <Route path='/AFG-vs-IRE--W-today-Match-predictions' element={<Matchdata12/>}/>
       <Route path='/MI-NEW-IPL-SQUAD' element={<Newsdata1 />}/>
       <Route path='/CSK-NEW-IPL-SQUAD' element={<Newsdata2 />}/>
       <Route path='/RCB-NEW-IPL-SQUAD' element={<Newsdata3 />}/>
