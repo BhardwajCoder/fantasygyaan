@@ -1,8 +1,8 @@
 const MatchData=[
   {
     "id":"13",
-     "perma":"AFG-vs-IRE--W-today-Match-predictions" ,
-    "Date":"13-mar-2024",
+     "perma":"AFG-vs-IRE-today-Match-predictions" ,
+    "Date":"15-mar-2024",
     "img":"/images/indvseng.png",
     "league":"ODI",
     "Heading":"AFG vs IRE",
