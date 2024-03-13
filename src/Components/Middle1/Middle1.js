@@ -17,6 +17,17 @@ function Middle1() {
       <div className="container margin px-4 py-3" id="featured-3">
     <h2 className="pb-2 border-bottom  text-center">Trending Topics</h2>
     <div className="row g-5 py-3 row-cols-1 row-cols-lg-3">
+
+    <div className="feature col ">
+            <div className="feature-icon d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-2 mb-3">
+            </div>
+            <img src='https://mybestguide.com/wp-content/uploads/2020/08/cricket-vs-football.webp' alt="404 not found" className='img' />
+            <h3 className="fs-2 text-body-emphasis my-2">Can Cricket Overtake Football?</h3>
+            <p style={{fontSize:'1.3rem'}}>This is the most debatable question between cricket and football which is more famous or cricket can overtake football in future.check the facts and possiblities in the blog. </p> 
+            <Link to='/can-cricket-overtake-football'>
+            <button className='btn btn-primary  w-50' >Read more</button>
+            </Link>
+          </div>
     
     <div className="feature col ">
             <div className="feature-icon d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-2 mb-3">

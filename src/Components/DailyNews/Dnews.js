@@ -18,7 +18,7 @@ function Dnews() {
           {
             News.map((news)=>{
               return(
-                <div className="card" key={news.id}>
+                <div className="card1" key={news.id}>
                 <img
                   src={news.img}
                   className="card-img-top img"
