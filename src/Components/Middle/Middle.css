@@ -66,11 +66,7 @@ button {
 @media  only screen and (max-width:540px){
   .Card-Main{
     display: grid;
-<<<<<<< HEAD
-    grid-template-columns: auto ;
-=======
     grid-template-columns: auto  ;
->>>>>>> 8b2ed6479483c6cff11cc85eb632818fe160dcdb
     grid-gap: 2rem;
   }
   .card {
