@@ -54,7 +54,7 @@ return (
       <Route path='/MUS-vs-LAQ/MatchPredictions' element={<Matchdata3 />}/>
       <Route path='/QUE-vs-ISL/MatchPredictions' element={<Matchdata4 />}/>
       <Route path='/UP-W-vs-BAN-W/MatchPredictions' element={<Matchdata5 />}/>
-      <Route path='/BAN-W-vs-UP-W/MatchPredictions' element={<Matchdata6/>}/>
+      <Route path='/rcb-vs-csk-dream11-predictions' element={<Matchdata6/>}/>
       <Route path='/LAH-vs-KAR/MatchPredictions' element={<Matchdata7/>}/>
       <Route path='/QUE-vs-KAR/Match-Predictions' element={<Matchdata8/>}/>
       <Route path='/LAH-vs-ISL/Match-Predictions' element={<Matchdata9/>}/>
