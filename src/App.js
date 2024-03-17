@@ -68,7 +68,7 @@ return (
       <Route path='/Rohit-Captaincy-news' element={<Newsdata4/>}/>
       <Route path='/Mohammad-Shami-Ipl-ruled-out' element={<Newsdata5/>}/>
       <Route path='/what-is-fantasyCricket' element={<Trending1 />}/>
-      <Route path='/Why-We-Should-Play-Fantasy-Cricket' element={<Trending2 />}/>
+      <Route path='/Should-Ipl-Be-Banned' element={<Trending2 />}/>
       <Route path='/How-to-Earn-Money-from-FantasyCricket' element={<Trending3 />}/>
       <Route path='/Dream11-Investment-Plan' element={<Trending4 />}/>
       <Route path='/is-ipl-scripted-or-not' element={<Trending5 />}/>
