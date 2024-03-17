@@ -1,5 +1,18 @@
 const MatchData=[
   {
+    "id":"2",
+    "perma":"pbks-vs-dc-match-predictions",
+
+    "Date":"23-march-2024",
+
+    "league": "IPL",
+
+       "Heading":"pbks vs dc",
+     
+       "content":"check the updated squad of csk 2024",
+
+      },
+  {
     "id":"6",
      "perma":"rcb-vs-csk-dream11-predictions",
     "Date":"22-March-2024",
@@ -92,19 +105,7 @@ const MatchData=[
     
    },
 
-  {
-    "id":"2",
-    "perma":"MUM-W-vs-UP-W-Dream11-Predictions",
-
-    "Date":"19-feb-2024",
-
-    "league": "BPL",
-
-       "Heading":"MUM-W vs UP-W",
-     
-       "content":"check the updated squad of csk 2024",
-
-      },
+ 
   {
     "id":"3",
    "perma":"MUS-vs-LAQ/MatchPredictions",

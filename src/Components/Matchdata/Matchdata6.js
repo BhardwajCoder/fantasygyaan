@@ -8,12 +8,12 @@ function Matchdata6() {
     <>
     <div className='container Match ' style={{fontSize:"1.3rem"}}>
     <Helmet>
-    <title> rcb vs csk dream11 prediction today match - IPL 2024 Match1 </title>
+    <title> rcb vs csk  </title>
     <meta name="description" content="Check the free Dream11 Predictions and fantasy tips  of rcb vs csk match.This is the 1st match of ipl 2024 will play between rcb vs csk.Both teams have huge fanbase and this is going to be an action pack show for audience." />
     <meta name="keywords" content="rcb vs csk,RCB vs CSK,rcb vs csk dream11 prediction,rcb vs csk today match prediction" />
     <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
     </Helmet>
-      <h1 className='text-center'>rcb vs csk dream11 prediction today match-2024 </h1>
+      <h1 className='text-center'>rcb vs csk  </h1>
       <img src="https://d16f573ilcot6q.cloudfront.net/wp-content/uploads/2023/04/WhatsApp-Image-2023-04-16-at-8.57.35-AM.jpeg" alt=" "  className='float-end match-img'/>
       <p>This is the 1st match of ipl 2024 will play between rcb vs csk.Both teams have huge fanbase and this is going to be an action pack show for audience because King Kholi and the MS Dhoni will play and people love the both cricketers and this is the home ground of csk so this is the good chance for csk to  start their campaign with home ground and on the other side rcb ready to get their 1st win in this season so this is going to be a action or entertainment pack for cricket fans. </p>
 

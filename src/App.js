@@ -50,7 +50,7 @@ return (
       <Route path='/contact' element={<Contact />}/>
       <Route path='/policy' element={<Policy />}/>
       <Route path='/RCB-W-vs-MUM-W/Match-predictions' element={<Matchdata1 />}/>
-      <Route path='/MUM-W-vs-UP-W-Dream11-Predictions' element={<Matchdata2 />}/>
+      <Route path='/pbks-vs-dc-match-predictions' element={<Matchdata2 />}/>
       <Route path='/MUS-vs-LAQ/MatchPredictions' element={<Matchdata3 />}/>
       <Route path='/QUE-vs-ISL/MatchPredictions' element={<Matchdata4 />}/>
       <Route path='/UP-W-vs-BAN-W/MatchPredictions' element={<Matchdata5 />}/>

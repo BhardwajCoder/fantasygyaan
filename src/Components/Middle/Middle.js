@@ -18,6 +18,16 @@ function Middle() {
           <div className="card">
       <div className="content">
         <div className="title">Daily Matches</div>
+        <div className="price">PBKS vs DC</div>
+        <p className="text-white">23-MARCH-2024</p>
+        <div className="description">Check the Match preview,Pitch Report with Dream11 prediction and Fantasy Bonus Tips..</div>
+      </div>
+      <Link to='/pbks-vs-dc-match-predictions'> <button className="w-100">Read More</button></Link>
+  </div>
+
+          <div className="card">
+      <div className="content">
+        <div className="title">Daily Matches</div>
         <div className="price">RCB vs CSK</div>
         <p className="text-white">22-MARCH-2024</p>
         <div className="description">Check the Match preview,Pitch Report with Dream11 prediction and Fantasy Bonus Tips.</div>
@@ -26,17 +36,6 @@ function Middle() {
        
   </div>
 
-          <div className="card">
-      <div className="content">
-        <div className="title">Daily Matches</div>
-        <div className="price">DEL-W vs GUJ-W</div>
-        <p className="text-white">13-MARCH-2024</p>
-        <div className="description">Check the Match preview,Pitch Report with Dream11 prediction and Fantasy Bonus Tips..</div>
-      </div>
-      <Link to='/DEL-W-vs-GUJ-W-W/Match-predictions'> <button className="w-100">Read More</button></Link>
-  </div>
-  
-  
   <div className="card">
       <div className="content">
         <div className="title">Daily Matches</div>
