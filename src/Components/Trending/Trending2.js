@@ -18,11 +18,11 @@ function Trending2() {
       </p>
       <ol>
         <h2>Why IPL Should not be banned in india</h2>
-        <li>IPL provides a chance domestic players to show their talent </li>
+        <li>IPL provide a chance to domestic players to show their talent </li>
         <li>IPL Contributes in Indian Economy</li>
         <li>IPL promotes tourism in india because people travel to other cities to support their teams</li>
         <li>IPL provides employment to indian people.</li>
-        <li>IPL prepare indian players to get a experience from International players.</li>
+        <li>IPL provides a chance to indian players to get  experience from International players.</li>
       </ol>
       <h3>Conclusion</h3>
       <p>I think Ipl should not banned in india because it's  an opportunity for Indian players to show their   talent in front of the world also players  generate money from the ipl and IPL contributes to the indian economy and promotes tourism in india also Ipl hosted by the BCCI and during the IPL bCCI started some initiatives that help Indian people also IPL provides employment to people so it's  a good income source for many peoples so there is no problem in IPL also it's  an entertainment source for the people and promote the cricket in the world. </p>
