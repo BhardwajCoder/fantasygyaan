@@ -32,7 +32,7 @@ function Middle() {
         <p className="text-white">22-MARCH-2024</p>
         <div className="description">Check the Match preview,Pitch Report with Dream11 prediction and Fantasy Bonus Tips.</div>
       </div>
-      <Link to='/rcb-vs-csk-dream11-predictions'> <button className="w-100">Read More</button></Link>
+      <Link to='/rcb-vs-csk-match-predictions'> <button className="w-100">Read More</button></Link>
        
   </div>
 

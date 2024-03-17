@@ -14,7 +14,7 @@ const MatchData=[
       },
   {
     "id":"6",
-     "perma":"rcb-vs-csk-dream11-predictions",
+     "perma":"rcb-vs-csk-match-predictions",
     "Date":"22-March-2024",
     "league":"IPL",
     "Heading":"RCB vs CSK",
