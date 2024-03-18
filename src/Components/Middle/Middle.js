@@ -5,16 +5,19 @@ import { Helmet } from "react-helmet";
 function Middle() {
   return (
     <>
-      <h2 className="pb-2 border-bottom my-2 container">Trending Matches</h2>
+      <h2 className="pb-2 border-bottom my-2 container">Trending Matches & Live matches</h2>
       <div className="  mx-4  ">
         <Helmet>
-          <table>Trending Matches</table> <meta name="description" content="Get full details about daily matches and stay updates with daily match predictions and dream11 teams" />
+       <title>Trending and Live matches</title>
+         <meta name="description" content="Get full details about daily matches and stay updates with daily match predictions and dream11 teams" />
           <meta name="keywords"content="Daily Matches,Trending cricket matches" />
           <meta name="robots" content="follow, index, max-snippet:-1, max-video-previe,max-image-preview:large" />
         </Helmet>
         <header>
-          <div className="Card-Main " style={{ fontFamily: "serif,Georgia" }}>
 
+        <iframe src="https://widget.crictimes.org/"title="cricket live score"  style={{width:"100%",minHeight: "450px"}} frameborder="0" scrolling="yes"></iframe>
+          <div className="Card-Main " style={{ fontFamily: "serif,Georgia" }}>
+    
           <div className="card">
       <div className="content">
         <div className="title">Daily Matches</div>
