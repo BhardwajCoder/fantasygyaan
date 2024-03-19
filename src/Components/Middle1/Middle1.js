@@ -22,6 +22,17 @@ function Middle1() {
             <div className="feature-icon d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-2 mb-3">
             </div>
             <img src='https://mybestguide.com/wp-content/uploads/2020/08/cricket-vs-football.webp' alt="404 not found" className='img' />
+            <h3 className="fs-2 text-body-emphasis my-2">क्या क्रिकेट भारत का राष्ट्रीय खेल होना चाहिए?</h3>
+            <p style={{fontSize:'1.3rem'}}>यह क्रिकेट और फ़ुटबॉल के बीच सबसे विवादास्पद प्रश्न है कि कौन अधिक प्रसिद्ध है या क्रिकेट भविष्य में फ़ुटबॉल से आगे निकल सकता है। ब्लॉग में तथ्यों और संभावनाओं की जाँच करें। </p> 
+            <Link to='/क्या-क्रिकेट-भारत-का-राष्ट्रीय-खेल-होना-चाहिए'>
+            <button className='btn btn-primary  w-50' >Read more</button>
+            </Link>
+          </div>
+
+    <div className="feature col ">
+            <div className="feature-icon d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-2 mb-3">
+            </div>
+            <img src='https://mybestguide.com/wp-content/uploads/2020/08/cricket-vs-football.webp' alt="404 not found" className='img' />
             <h3 className="fs-2 text-body-emphasis my-2">Can Cricket Overtake Football?</h3>
             <p style={{fontSize:'1.3rem'}}>This is the most debatable question between cricket and football which is more famous or cricket can overtake football in future.check the facts and possiblities in the blog. </p> 
             <Link to='/can-cricket-overtake-football'>
