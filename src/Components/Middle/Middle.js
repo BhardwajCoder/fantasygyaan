@@ -19,6 +19,16 @@ function Middle() {
         </Helmet>
         <header> 
           <div className="Card-Main " style={{ fontFamily: "serif,Georgia" }}>
+
+          <div className="card">
+      <div className="content">
+        <div className="title">Daily Matches</div>
+        <div className="price">pbks vs dc (hindi)</div>
+        <p className="text-white">23-MARCH-2024</p>
+        <div className="description">Check the Match preview,Pitch Report with Dream11 prediction and Fantasy Bonus Tips..</div>
+      </div>
+      <Link to='/pbks-vs-dc-dream11-prediction-hindi'> <button className="w-100">Read More</button></Link>
+  </div>
     
           <div className="card">
       <div className="content">
@@ -41,17 +51,6 @@ function Middle() {
        
   </div>
 
-  <div className="card">
-      <div className="content">
-        <div className="title">Daily Matches</div>
-        <div className="price">RCB-W vs MUM-W</div>
-        <p className="text-white">12-MARCH-2024</p>
-        <div className="description">Check the Match preview,Pitch Report with Dream11 prediction and Fantasy Bonus Tips..</div>
-      </div>
-      <Link to='/RCB-W-vs-MUM-W/Match-predictions'> <button className="w-100">Read More</button></Link>
-  </div>
-  
-  
   <div className="card">
       <div className="content">
         <div className="title">Daily Matches</div>

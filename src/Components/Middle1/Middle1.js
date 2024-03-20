@@ -24,7 +24,7 @@ function Middle1() {
             <img src='https://mybestguide.com/wp-content/uploads/2020/08/cricket-vs-football.webp' alt="404 not found" className='img' />
             <h3 className="fs-2 text-body-emphasis my-2">क्या क्रिकेट भारत का राष्ट्रीय खेल होना चाहिए?</h3>
             <p style={{fontSize:'1.3rem'}}>यह क्रिकेट और फ़ुटबॉल के बीच सबसे विवादास्पद प्रश्न है कि कौन अधिक प्रसिद्ध है या क्रिकेट भविष्य में फ़ुटबॉल से आगे निकल सकता है। ब्लॉग में तथ्यों और संभावनाओं की जाँच करें। </p> 
-            <Link to='/क्या-क्रिकेट-भारत-का-राष्ट्रीय-खेल-होना-चाहिए'>
+            <Link to='/should-cricket-national-game-india-hindi'>
             <button className='btn btn-primary  w-50' >Read more</button>
             </Link>
           </div>

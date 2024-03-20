@@ -6,12 +6,12 @@ function Trending8() {
     <div>
        <div className='container trending' style={{fontSize:"1.3rem"}}>
     <Helmet>
-     <title>क्या क्रिकेट भारत का राष्ट्रीय खेल होना चाहिए?-</title>
-     <meta name="description" content="Cricket is emotion for the indians it`s not just a sport for indians.so many people want to know Should Cricket Be the National Game of India.so you will get your all answers here check it out here are some good news for you if you are cricket fans. " />
-     <meta name="keywords" content=" Should Cricket Be the National Game of India,Should Cricket be Our National Sports." />
+     <title>should cricket be the national game of india in hindi -क्या क्रिकेट भारत का राष्ट्रीय खेल होना चाहिए?</title>
+     <meta name="description" content= "यह भारत में सबसे ज्यादा ट्रेंडिंग सवाल है जिसे हर क्रिकेट प्रशंसक जानना चाहता है कि क्या क्रिकेट को भारत का राष्ट्रीय खेल होना चाहिए। क्रिकेट भारत में बहुत लोकप्रिय खेल है। भारत में क्रिकेट सिर्फ एक खेल नहीं है, यह लोगों के लिए एक भावना है।" />
+     <meta name="keywords" content=" Should Cricket Be the National Game of India in hindi,क्या क्रिकेट भारत का राष्ट्रीय खेल होना चाहिए,should cricket be the national game of india." />
      <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
    </Helmet>
-   <h1 className='my-3'>क्या क्रिकेट भारत का राष्ट्रीय खेल होना चाहिए?</h1>
+   <h1 className='my-3'>Should Cricket Be The National Game of India:क्या क्रिकेट भारत का राष्ट्रीय खेल होना चाहिए?</h1>
    <img src="/images/shoulcricket.jpg" alt="Should Cricket Be the National Game of India" className='float-end img-trend' />
    <p>यह भारत में सबसे ज्यादा ट्रेंडिंग सवाल है जिसे हर क्रिकेट प्रशंसक जानना चाहता है कि क्या क्रिकेट को भारत का राष्ट्रीय खेल होना चाहिए। क्रिकेट भारत में बहुत लोकप्रिय खेल है। भारत में क्रिकेट सिर्फ एक खेल नहीं है, यह लोगों के लिए एक भावना है। भारत में लोग हर मैच की जीत और अपने पसंदीदा खिलाड़ियों का जन्मदिन मनाते हैं इसलिए अन्य खेलों की तुलना में भारत में क्रिकेट बहुत लोकप्रिय है और हम इस तथ्य को कभी भी नजरअंदाज नहीं करते हैं और कुछ कारण हैं जो क्रिकेट को भारत में बहुत लोकप्रिय बनाते हैं। </p>
    <ol>

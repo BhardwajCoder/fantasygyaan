@@ -1,4 +1,15 @@
 const MatchData=[
+   {
+    "id":"4",
+     "perma":"pbks-vs-dc-dream11-prediction-hindi",
+    "Date":"23-march-2024",
+    "img":"/images/indvseng.png",
+  
+    "league":"IPL",
+  
+    "Heading":"pbks vs dc (hindi)",
+    
+   },
   {
     "id":"2",
     "perma":"pbks-vs-dc-match-predictions",
@@ -133,17 +144,7 @@ const MatchData=[
    },
 
 
-  {
-    "id":"4",
-     "perma":"QUE-vs-ISL/MatchPredictions",
-    "Date":"22-feb-2024",
-    "img":"/images/indvseng.png",
-  
-    "league":"PSL",
-  
-    "Heading":"QUE vs ISL",
-    
-   },
+ 
     
       
         

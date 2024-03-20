@@ -53,7 +53,7 @@ return (
       <Route path='/RCB-W-vs-MUM-W/Match-predictions' element={<Matchdata1 />}/>
       <Route path='/pbks-vs-dc-match-predictions' element={<Matchdata2 />}/>
       <Route path='/MUS-vs-LAQ/MatchPredictions' element={<Matchdata3 />}/>
-      <Route path='/QUE-vs-ISL/MatchPredictions' element={<Matchdata4 />}/>
+      <Route path='/pbks-vs-dc-dream11-prediction-hindi' element={<Matchdata4 />}/>
       <Route path='/UP-W-vs-BAN-W/MatchPredictions' element={<Matchdata5 />}/>
       <Route path='/rcb-vs-csk-match-predictions' element={<Matchdata6/>}/>
       <Route path='/LAH-vs-KAR/MatchPredictions' element={<Matchdata7/>}/>
@@ -75,7 +75,7 @@ return (
       <Route path='/is-ipl-scripted-or-not' element={<Trending5 />}/>
       <Route path='/should-cricket-be-the-national-game-of-india' element={<Trending6 />}/>
       <Route path='/can-cricket-overtake-football' element={<Trending7 />}/>
-      <Route path='/क्या-क्रिकेट-भारत-का-राष्ट्रीय-खेल-होना-चाहिए' element={<Trending8 />}/>
+      <Route path='/should-cricket-national-game-india-hindi' element={<Trending8 />}/>
       <Route path='/latest-cricket-news' element={<Dnews   />}/>
     </Routes>
     </BrowserRouter>

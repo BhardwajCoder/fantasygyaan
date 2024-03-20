@@ -54,8 +54,7 @@ function Matchdata2() {
       <li><strong>Mitchell Marsh</strong></li>
       <li><strong>Sam Curran</strong></li>
       <li><strong>David Warner/Shikhar Dhawan</strong>- Both are good options -you can try</li>
-      
-      
+  
      </ol>
      <h5>Fantasy Bonus tips</h5>
      <ol>
