@@ -8,55 +8,91 @@ import { Helmet } from 'react-helmet';
      <div>
         <div className='container Match' style={{fontSize:"1.3rem"}}>
     <Helmet>
-    <title>KAR vs QUE Dream11 Prediction-Dream11 Predictions</title>
-    <meta name="description" content="Check the Fantasy Predictions and Dream11 Free teams of KAR vs QUE match.Get the Fantasy Bonus Tips to increase your chance of winnings" />
-    <meta name="keywords" content="KAR vs QUE-Dream11 prediction,KAR vs QUE -Today match prediction, PSL free temas,KAR vs QUE Deam11 teams,karachi vs Quetta Fantasy team ,KAR vs QUE today match prediction" />
+    <title>SRH vs KKR IPL 2024 Dream11 Prediction</title>
+    <meta name="description" content="The match between SRH vs KKR will play on  March at Eden Garden cricket stadium,Kolkata.check the prediction and bomnus fantasy tips for winnings." />
+    <meta name="keywords" content="SRH vs KKR IPL 2024 Dream11 Prediction,srh vs kkr dream11 prediction,srh vs kkr today match predictions" />
     <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
     </Helmet>
-      <h1 className='text-center'>QUE vs KAR-Today Match Predictions</h1>
-      <img src="/images/qgvskar.jpg" alt="QUE VS KAR Dream11 Predictions"  className='float-end match-img'/>
-      <p>the match between KAR vs QUE will play on 6 March at Rawalpindi cricket stadium,Pakistan.get ready for the thriller because in this season QUE in good form and they win their 4 matches out of 6 matches and currently on 2nd position in points table and on the other side KAR won only 2 matches out of 6 matches so they desperately need a win to get back his train on winning track so get ready for a thriller stay tuned at toss time for updates and official news related to both teams</p>
-     
+      <h1 className='text-center'>SRH vs KKR IPL 2024 Dream11 Prediction</h1>
+      <img src="/images/SRH vs KKR.png" alt="SRH vs KKR Ipl 2024 Dream11 Prediction"  className='float-end match-img'/>
+      <p className='my-3' >The match between SRH vs KKR will play on  March at Eden Garden cricket stadium,Kolkata.get ready for the thriller because this is the first match for both teams kolkata and Hyderabad.Hyderabad is looking strong on the paper in comparison of Kolkata.let`s see what happens both teams SRH and KKR want to win the first match to start their campaign with positive start so stay tuned for official updates at match time.</p>
+     <h2>Head to Head Records</h2>
+     <div>
+     <table class="table">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col"></th>
+      <th scope="col">SRH</th>
+      <th scope="col">KKR</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>Total Match-25</td>
+      <td>9 won</td>
+      <td>16 won</td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>Highest Score</td>
+      <td>228</td>
+      <td>205</td>
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td >Lowest Score</td>
+      <td>115</td>
+      <td>101</td>
+    </tr>
+  </tbody>
+</table>
+     </div>
      <h2>Pitch Report</h2>
-     <p>The pitch will be  batting friendly.Pakistan provides batting friendly wicket so pick batsmen in your team. In this pitch Batters will be key with death bowlers .venue is shifted to <strong>Rawalpindi cricket stadium</strong> but this is also a batting wicket but chances of overcast condition so ball can swing in early overs so stay tuned at toss time for official pitch report.</p>
-     <h3>KARACHI Probable 11</h3>
-     <p>Shan Masood,Tim Seifert(wk),James Vince,Shoaib Malik,Leus de Plooy,Mohammad Nawaz,Hasan Ali,Mir Hamza,Z Mahmood,B Muzarbani.</p>
-     <h3>Quetta Probable 11</h3>
-     <p>Jaon Roy,Saud Shakeel,Khawaja Nafay,Sarfaraj Ahmed(wk),Rilee Rossouw,Sherfane Rutherford,Akeal Hosein,Mohammad Wasim,Sohail Khan,,Usman Tariq,Abrar Ahmed</p>
+     <p>The match betwwen SRH vs KKR play at <strong>Eden Garden,Kolkata</strong> the nature of the pitch is good batting wicket with some hepl for spinners.this is the 1st match on this ground so you can expect good batting wicket.stay tuned for official pitch report at toss time.</p>
+     <h3>Sunrisers Hyderabad Playing 11</h3>
+     <p>Travis Head,Mayank Agrawal,Rahul Tripathi,Abhishek Sharma,Adien Markaram,Henrich Klassen,Washington Sundar,Pat Cummins,Bhubneshwar Kumar,T Natrajan,Mayank Markande</p>
+     <h3>Kolkata Knight Rider playing 11</h3>
+     <p>Rahmanullah Gurbaz,Venkatesh Iyer,Nitish Rana,Shreyas Iyer,Rinku Singh,Ramandeep Singh,Andre Russel,Sunil Naraine,Mitchell Starc,Varun Chakraborty,Chetan Sakariya</p>
       
      </div>
      <div className="container"style={{fontSize:"1.3rem"}}>
      <h3>Top Batting Picks</h3>
      <ol>
-      <li> <strong>James Vince</strong>recent form not good but you can try</li>
-      <li><strong>Shoaib Malik</strong>good batting form and bowl 1 or 2 overs</li>
-      <li><strong>Jason Roy</strong></li>
-      <li><strong>Saud Shakeel</strong>good batting form </li>
+      <li> <strong>Travis Head</strong>- good hitter and attacking batsmen </li>
+      <li><strong>Rahul Tripathi</strong>- good batter you can try</li>
+      <li><strong>Rahmanullah Gurbaz</strong>- attacking batsmen</li>
+      <li><strong>H Klassen</strong>- good batsmen- if bat at top order </li>
      </ol>
      <h4>Top All-Rounder Picks</h4>
      <ol>
       
-      <li><strong>Mohammad Nawaz</strong> good pick if bat first</li>
+      <li><strong>Aiden Markram</strong>- good pick if bat first</li>
+      <li><strong>Andre Russell</strong>- good otion </li>
+      <li><strong>Sunil Naraine</strong>- </li>
+     
      </ol>
      <h4>Top Bowling Picks</h4>
      <ol>
-      <li><strong>Blessing Muzarbani</strong>if bowl first</li>
-      <li><strong>Hasan Ali</strong>if bowl first</li>
-      <li><strong>Mohammad Wasim</strong>pick if bowl first due to death overs</li>
-      <li><strong>Abrar Ahmed</strong> if bowl second -good spinner</li>
+      <li><strong>Mitchell Starc</strong>- if bowl first</li>
+      <li><strong>Bhubneshwar kumar</strong>- good recent form</li>
+      <li><strong>T Natrajan</strong>- good pick if bowl first due to death overs</li>
+      <li><strong>Varun Chakrborty</strong>- good spinner</li>
      </ol>
      <h4>Top Captaincy picks</h4>
      <ol>
-      <li><strong>Shoaib Malik</strong></li>
-      <li><strong>Mohammad Wasim -if bowl first</strong></li>
-      <li><strong>Jason Roy</strong> if bat 2nd </li>
+      <li><strong>Andre Russell</strong></li>
+      <li><strong>Aiden Markaram</strong></li>
+      <li><strong>Pat Cummins</strong>- 4 overs+lower order hitting</li>
+      <li><strong>Travis Head</strong>- risky captain option </li>
       
      </ol>
      <h5>Fantasy Bonus tips</h5>
      <ol>
-      <li>You can drop Shan Masood if bat first due to early swing in overcast conditions</li>
-      <li>you can drop Rilee Rossow if bat 2nd because his batting order is low</li>
-      <li>you can try Abrar Ahmed captain if bowl second -because he can take multi-wickets due to second inning pressure.</li>
+      <li>You can drop Gurbaz because he is hit and miss type batsmen</li>
+      <li>you can try Henrich Klassen if bat first trump card pick</li>
+      <li>Try T Natrajan if bowl first his matchups is good against KKR.</li>
      </ol>
      </div>
      <h6>Check out the final team after toss-  <Link to='https://www.instagram.com/fantasygyaan9/'><FaInstagram size={"1.5rem"}/> </Link></h6>

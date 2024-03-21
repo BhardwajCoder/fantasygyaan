@@ -72,8 +72,8 @@ button {
   .card {
     justify-content: space-around;
     width: auto;
-    margin: 10px 0;
-    padding: 12px;
+    margin: 1.5rem;
+    padding: 10px 12px;
     text-align: center;
     cursor: pointer;
     box-shadow: 0 10px 15px -3px rgba(33,150,243,.4),0 4px 6px -4px rgba(33,150,243,.4);

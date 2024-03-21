@@ -18,7 +18,18 @@ function Middle() {
           <meta name="robots" content="follow, index, max-snippet:-1, max-video-previe,max-image-preview:large" />
         </Helmet>
         <header> 
-          <div className="Card-Main " style={{ fontFamily: "serif,Georgia" }}>
+          <div className="Card-Main  container" style={{ fontFamily: "serif,Georgia" }}>
+
+          <div className="card">
+      <div className="content">
+        <div className="title">Daily Matches</div>
+        <div className="price">SRH vs KKR</div>
+        <p className="text-white">12-MARCH-2024</p>
+        <div className="description">Check the Match preview,Pitch Report with Dream11 prediction and Fantasy Bonus Tips..</div>
+      </div>
+      <Link to='/srh-vs-kkr-dream11-predictions-ipl-2024'> <button className="w-100">Read More</button></Link>
+  </div>
+
 
           <div className="card">
       <div className="content">
@@ -50,17 +61,7 @@ function Middle() {
       <Link to='/rcb-vs-csk-match-predictions'> <button className="w-100">Read More</button></Link>
        
   </div>
-
-  <div className="card">
-      <div className="content">
-        <div className="title">Daily Matches</div>
-        <div className="price">MUS vs QUE</div>
-        <p className="text-white">12-MARCH-2024</p>
-        <div className="description">Check the Match preview,Pitch Report with Dream11 prediction and Fantasy Bonus Tips..</div>
-      </div>
-      <Link to='/MUS-vs-QUE/Match-Predictions'> <button className="w-100">Read More</button></Link>
-  </div>
-                    
+          
           </div> 
         </header>
       </div>
