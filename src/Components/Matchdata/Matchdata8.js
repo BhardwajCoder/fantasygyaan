@@ -73,7 +73,7 @@ import { Helmet } from 'react-helmet';
       <li><strong>Sunil Naraine</strong>- </li>
      
      </ol>
-     <h2 style={{fontWeight:"600",fontSize:"1.8rem"}}>Top Bowling Picks</h2>
+     <h2 style={{fontWeight:"600",fontSize:"1,8rem"}}>Top Bowling Picks</h2>
      <ol>
       <li><strong>Mitchell Starc</strong>- if bowl first</li>
       <li><strong>Bhubneshwar kumar</strong>- good recent form</li>
