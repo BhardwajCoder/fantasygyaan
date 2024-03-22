@@ -16,7 +16,7 @@ function Home({ Blogs, handleclick,Newsclick }) {
     <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
     <meta name="keyword" content=" Dream 11 Predictions,Fantasy Cricket Predictions,Today Match Predictions,Dream 11 teams"/>
     </Helmet>
-    <h1 className='H1text color-white'>Get Daily Updates About</h1>
+    <h1 className='H1text color-white' style={{fontFamily:'sans-serif'}}>Get Daily Updates About</h1>
     <h2 className='H2text'>{
      <TypeAnimation  className='font-serif'
      sequence={[
@@ -32,7 +32,7 @@ function Home({ Blogs, handleclick,Newsclick }) {
      ]}
      wrapper="span"
      speed={50}
-     style={{ fontSize: '1em', color:'white',fontFamily:"serif,Georgia" }}
+     style={{ fontSize: '1em', color:'white',fontFamily:'sans-serif' }}
      repeat={Infinity}
    />
     }</h2>
