@@ -6,7 +6,7 @@ import { Helmet } from 'react-helmet';
  function Matchdata8() {
    return (
      <div  >
-        <div className='container Match'style={{fontSize:"1.7rem",fontFamily:"sans-serif"}} >
+        <div className='container Match'style={{fontSize:"1.5rem",fontFamily:"sans-serif"}} >
     <Helmet>
     <title>SRH vs KKR IPL 2024 Dream11 Prediction</title>
     <meta name="description" content="The match between SRH vs KKR will play on  March at Eden Garden cricket stadium,Kolkata.check the prediction and bomnus fantasy tips for winnings." />
