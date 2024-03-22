@@ -13,7 +13,7 @@ function Dnews() {
        <meta name="keywords" content="Latest Cricket news,Daily Cricket Updates" />
        <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
       </Helmet>
-      <div className="container ">
+      <div className="container " style={{fontFamily:'sans-serif'}}>
         <div className="Dnews  ">
           {
             News.map((news)=>{
@@ -24,9 +24,9 @@ function Dnews() {
                   className="card-img-top img"
                   alt="404 not found"
                 />
-                <div class="card-body">
-                  <h5 class="card-title">{news.Heading}</h5>
-                  <p class="card-text">{news.content}</p>
+                <div class="card-body my-2">
+                  <h2 class="card-title"style={{fontWeight:"600"}}>{news.Heading}</h2>
+                  <p class="card-text" style={{fontSize:"1.6rem"}}>{news.content}</p>
                   <Link to={`/${news.perma}`}>
                    <button  className="btn btn-primary">
                     read more

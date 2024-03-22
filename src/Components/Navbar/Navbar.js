@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 function Navbar() {
   
   return (
-    <nav className="navbar ">
+    <nav className="navbar " style={{fontFamily:"sans-serif",fontSize:"1.3rem"}}>
       <div className="logo">Fantasygyaan.com</div>
       <div className="menu">
        

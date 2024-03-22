@@ -23,7 +23,6 @@ import Newsdata4 from './Components/NewsData/Newsdata4';
 import Newsdata5 from './Components/NewsData/Newsdata5';
 import Matchdata5 from './Components/Matchdata/Matchdata5';
 import './App.css'
-import Matchdata4 from './Components/Matchdata/Matchdata4';
 import Matchdata6 from './Components/Matchdata/Matchdata6';
 import Matchdata7 from './Components/Matchdata/Matchdata7';
 import Trending5 from './Components/Trending/Trending5';
@@ -53,7 +52,6 @@ return (
       <Route path='/RCB-W-vs-MUM-W/Match-predictions' element={<Matchdata1 />}/>
       <Route path='/pbks-vs-dc-match-predictions' element={<Matchdata2 />}/>
       <Route path='/MUS-vs-LAQ/MatchPredictions' element={<Matchdata3 />}/>
-      <Route path='/pbks-vs-dc-dream11-prediction-hindi' element={<Matchdata4 />}/>
       <Route path='/UP-W-vs-BAN-W/MatchPredictions' element={<Matchdata5 />}/>
       <Route path='/rcb-vs-csk-match-predictions' element={<Matchdata6/>}/>
       <Route path='/LAH-vs-KAR/MatchPredictions' element={<Matchdata7/>}/>

@@ -1,5 +1,5 @@
 .search-card{
-    height: 240px;
+    height: 270px;
     width: 250px;  
     padding: 0 0;
     border-radius: 15px;
@@ -30,7 +30,7 @@
     }
     .search-card{
         width: auto;
-       height: 16rem;
+       height: 20rem;
        padding:  auto 0px;
     }
 }
