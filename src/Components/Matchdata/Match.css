@@ -7,6 +7,10 @@
     font-family: sans-serif;
    
 }
+.heading-style{
+    font-weight: 600;
+    font-size: 1.8rem;
+    }
 @media  only screen and (max-width:768px){
     .Match{
         display: flex;
@@ -15,9 +19,13 @@
        margin-left: 7px;
     }
     .style{
-        font-size: 1.3rem;
+        font-size: 1.4rem;
         font-family: sans-serif;
        
+    }
+    .heading-style{
+    font-weight: 580;
+    font-size: 1.6rem;
     }
     .match-img{
         width:auto;

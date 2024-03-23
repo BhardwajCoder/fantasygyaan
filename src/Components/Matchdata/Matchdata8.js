@@ -16,7 +16,7 @@ import { Helmet } from 'react-helmet';
       <h1 className='text-center' style={{fontWeight:"700",fontSize:"2rem"}}>SRH vs KKR IPL 2024 Dream11 Prediction</h1>
       <img src="/images/SRH vs KKR.png" alt="SRH vs KKR Ipl 2024 Dream11 Prediction"  className='float-end match-img'/>
       <p className='my-3' >The match between SRH vs KKR will play on  March at Eden Garden cricket stadium,Kolkata.get ready for the thriller because this is the first match for both teams kolkata and Hyderabad.Hyderabad is looking strong on the paper in comparison of Kolkata.let`s see what happens both teams SRH and KKR want to win the first match to start their campaign with positive start so stay tuned for official updates at match time.</p>
-     <h2 style={{fontWeight:"600",fontSize:"1.8rem"}}>Head to Head Records</h2>
+     <h2 className='heading-style'>Head to Head Records</h2>
      <div>
      <table class="table">
   <thead>
@@ -49,23 +49,23 @@ import { Helmet } from 'react-helmet';
   </tbody>
 </table>
      </div>
-     <h2 style={{fontWeight:"600",fontSize:"1.8rem"}}>Pitch Report</h2>
+     <h2 className='heading-style'>Pitch Report</h2>
      <p>The match betwwen SRH vs KKR play at <strong>Eden Garden,Kolkata</strong> the nature of the pitch is good batting wicket with some hepl for spinners.this is the 1st match on this ground so you can expect good batting wicket.stay tuned for official pitch report at toss time.</p>
-     <h3 style={{fontWeight:"600",fontSize:"1.8rem"}}>Sunrisers Hyderabad Playing 11</h3>
+     <h3 className='heading-style'>Sunrisers Hyderabad Playing 11</h3>
      <p>Travis Head,Mayank Agrawal,Rahul Tripathi,Abhishek Sharma,Adien Markaram,Henrich Klassen,Washington Sundar,Pat Cummins,Bhubneshwar Kumar,T Natrajan,Mayank Markande</p>
-     <h3 style={{fontWeight:"600",fontSize:"1.8rem"}}>Kolkata Knight Rider playing 11</h3>
+     <h3 className='heading-style'>Kolkata Knight Rider playing 11</h3>
      <p>Rahmanullah Gurbaz,Venkatesh Iyer,Nitish Rana,Shreyas Iyer,Rinku Singh,Ramandeep Singh,Andre Russel,Sunil Naraine,Mitchell Starc,Varun Chakraborty,Chetan Sakariya</p>
       
      </div>
      <div className="container style">
-     <h2 style={{fontWeight:"600",fontSize:"1.8rem"}}>Top Batting Picks</h2>
+     <h2 className='heading-style'>Top Batting Picks</h2>
      <ol>
       <li> <strong>Travis Head</strong>- good hitter and attacking batsmen </li>
       <li><strong>Rahul Tripathi</strong>- good batter you can try</li>
       <li><strong>Rahmanullah Gurbaz</strong>- attacking batsmen</li>
       <li><strong>H Klassen</strong>- good batsmen- if bat at top order </li>
      </ol>
-     <h2 style={{fontWeight:"600",fontSize:"1.8rem"}}>Top All-Rounder Picks</h2>
+     <h2 className='heading-style'>Top All-Rounder Picks</h2>
      <ol>
       
       <li><strong>Aiden Markram</strong>- good pick if bat first</li>
@@ -73,14 +73,14 @@ import { Helmet } from 'react-helmet';
       <li><strong>Sunil Naraine</strong>- </li>
      
      </ol>
-     <h2 style={{fontWeight:"600",fontSize:"1,8rem"}}>Top Bowling Picks</h2>
+     <h2 className='heading-style'>Top Bowling Picks</h2>
      <ol>
       <li><strong>Mitchell Starc</strong>- if bowl first</li>
       <li><strong>Bhubneshwar kumar</strong>- good recent form</li>
       <li><strong>T Natrajan</strong>- good pick if bowl first due to death overs</li>
       <li><strong>Varun Chakrborty</strong>- good spinner</li>
      </ol>
-     <h2 style={{fontWeight:"600",fontSize:"1.8rem"}}>Top Captaincy picks</h2>
+     <h2 className='heading-style'>Top Captaincy picks</h2>
      <ol>
       <li><strong>Andre Russell</strong></li>
       <li><strong>Aiden Markaram</strong></li>
@@ -88,7 +88,7 @@ import { Helmet } from 'react-helmet';
       <li><strong>Travis Head</strong>- risky captain option </li>
       
      </ol>
-     <h2 style={{fontWeight:"600",fontSize:"1.8rem"}} >Fantasy Bonus tips</h2>
+     <h2 className='heading-style'>Fantasy Bonus tips</h2>
      <ol>
       <li>You can drop Gurbaz because he is hit and miss type batsmen</li>
       <li>you can try Henrich Klassen if bat first trump card pick</li>
