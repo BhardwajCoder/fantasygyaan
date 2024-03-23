@@ -29,17 +29,6 @@ function Middle() {
       <Link to='/srh-vs-kkr-dream11-predictions-ipl-2024'> <button className="w-100">Read More</button></Link>
   </div>
 
-
-          <div className="card">
-      <div className="content">
-        <div className="title">Daily Matches</div>
-        <h2 className="price">PBKS vs DC (hindi)</h2>
-        <p style={{fontSize:'1.3rem'}} className="text-white">23-MARCH-2024</p>
-        <div className="description">Check the Match preview,Pitch Report with Dream11 prediction and Fantasy Bonus Tips..</div>
-      </div>
-      <Link to='/pbks-vs-dc-dream11-prediction-hindi'> <button className="w-100">Read More</button></Link>
-  </div>
-    
           <div className="card">
       <div className="content">
         <div className="title">Daily Matches</div>

@@ -25,8 +25,8 @@ function Dnews() {
                   alt="404 not found"
                 />
                 <div class="card-body my-2">
-                  <h2 class="card-title"style={{fontWeight:"600"}}>{news.Heading}</h2>
-                  <p class="card-text" style={{fontSize:"1.6rem"}}>{news.content}</p>
+                  <h2 class="card-title"style={{fontWeight:"500"}}>{news.Heading}</h2>
+                  <p class="card-text" style={{fontSize:"1.5rem"}}>{news.content}</p>
                   <Link to={`/${news.perma}`}>
                    <button  className="btn btn-primary">
                     read more
