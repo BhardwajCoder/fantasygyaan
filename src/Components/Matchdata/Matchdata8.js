@@ -6,7 +6,7 @@ import { Helmet } from 'react-helmet';
  function Matchdata8() {
    return (
      <div  >
-        <div className='container Match'style={{fontSize:"1.7rem",fontFamily:"sans-serif"}} >
+        <div className='container Match style' >
     <Helmet>
     <title>SRH vs KKR IPL 2024 Dream11 Prediction</title>
     <meta name="description" content="The match between SRH vs KKR will play on  March at Eden Garden cricket stadium,Kolkata.check the prediction and bomnus fantasy tips for winnings." />
@@ -57,7 +57,7 @@ import { Helmet } from 'react-helmet';
      <p>Rahmanullah Gurbaz,Venkatesh Iyer,Nitish Rana,Shreyas Iyer,Rinku Singh,Ramandeep Singh,Andre Russel,Sunil Naraine,Mitchell Starc,Varun Chakraborty,Chetan Sakariya</p>
       
      </div>
-     <div className="container"style={{fontSize:"1.6rem",fontFamily:'sans-serif'}}>
+     <div className="container style">
      <h2 style={{fontWeight:"600",fontSize:"1.8rem"}}>Top Batting Picks</h2>
      <ol>
       <li> <strong>Travis Head</strong>- good hitter and attacking batsmen </li>
