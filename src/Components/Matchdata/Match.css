@@ -2,6 +2,11 @@
     height: 10rem;
     width: auto;
 }
+.style{
+    font-size: 1.6rem;
+    font-family: sans-serif;
+   
+}
 @media  only screen and (max-width:768px){
     .Match{
         display: flex;
