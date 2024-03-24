@@ -13,7 +13,7 @@ function Matchdata13() {
     <meta name="keywords" content="RCB vs PBKS IPL 2024 Dream11 Prediction,RCB vs PBKS IPL 2024 Today Match Prediction,rcb vs kkr dream11 prediction,rcb vs pbks today match predictions" />
     <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
     </Helmet>
-      <h1 className='my-3' style={{fontWeight:"600",fontSize:"2rem"}}>RCB vs PBKS Dream11 Prediction Today Match,Playing11,Fantasy Cricket Tips- IPL 2024</h1>
+      <h1 className='my-3' style={{fontWeight:"600",fontSize:"1.8rem"}}>RCB vs PBKS Dream11 Prediction Today Match,Playing11,Fantasy Cricket Tips- IPL 2024</h1>
       <img src="/images/VS.png" alt="RCB vs PBKS Dream11 Prediction Today Match IPL 2024"  className='float-end match-img'/>
       <h2 className='heading-style'>Preview</h2>
       <p className='my-3'>The match between RCB vs PBKS will play on 25 March at M.Chinnaswamy cricket stadium,Banglore.Both temas will play their 2nd match in the 1st match Banglore lose against CSK by 6 wickets and on the other side Punjab Kings won their 1st match against Delhi Capitals by 4 wickets so they are confident but Banglore have to step up in this match to start their winning carvan so let`s see what happened can RCB won or again he will face the defeat in 2nd match so stay tuned.</p>
