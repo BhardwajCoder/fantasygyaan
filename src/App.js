@@ -60,7 +60,7 @@ return (
       <Route path='/MUS-vs-QUE/Match-Predictions' element={<Matchdata10/>}/>
       <Route path='/KAR-vs-PES-W/Match-predictions' element={<Matchdata11/>}/>
       <Route path='/DEL-W-vs-GUJ-W-W/Match-predictions' element={<Matchdata12/>}/>
-      <Route path='/AFG-vs-IRE-today-Match-predictions' element={<Matchdata13/>}/>
+      <Route path='/rcb-vs-pbks-dream11-prediction-today-match-ipl-2024' element={<Matchdata13/>}/>
       <Route path='/MI-NEW-IPL-SQUAD' element={<Newsdata1 />}/>
       <Route path='/CSK-NEW-IPL-SQUAD' element={<Newsdata2 />}/>
       <Route path='/RCB-NEW-IPL-SQUAD' element={<Newsdata3 />}/>

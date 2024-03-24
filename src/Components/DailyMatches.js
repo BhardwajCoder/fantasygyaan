@@ -1,4 +1,12 @@
 const MatchData=[
+  {
+    "id":"13",
+     "perma":"rcb-vs-pbks-dream11-prediction-today-match-ipl-2024" ,
+    "Date":"25-mar-2024",
+    "img":"/images/indvseng.png",
+    "league":"IPL",
+    "Heading":"RCB vs PBKS",
+   },
    {
     "id":"8",
      "perma":"srh-vs-kkr-dream11-predictions-ipl-2024",
@@ -28,16 +36,7 @@ const MatchData=[
     "Heading":"RCB vs CSK",
     
    },
-  {
-    "id":"13",
-     "perma":"AFG-vs-IRE-today-Match-predictions" ,
-    "Date":"15-mar-2024",
-    "img":"/images/indvseng.png",
-    "league":"ODI",
-    "Heading":"AFG vs IRE",
  
-
-   },
   {
     "id":"12",
      "perma":"DEL-W-vs-GUJ-W-W/Match-predictions" ,
