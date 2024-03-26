@@ -22,6 +22,15 @@ function Middle() {
           <div className="card">
       <div className="content">
         <div className="title">Daily Matches</div>
+        <h2 className="price">RCB vs KKR</h2>
+        <p style={{fontSize:'1.3rem'}} className="text-white">29-MARCH-2024</p>
+        <div className="description">Check the Match preview,Pitch Report with Dream11 prediction and Fantasy Bonus Tips.</div>
+      </div>
+      <Link to='/rcb-vs-kkr-dream11-prediction-today-match-prediction-match10-ipl-2024'> <button className="w-100">Read More</button></Link>
+  </div> 
+          <div className="card">
+      <div className="content">
+        <div className="title">Daily Matches</div>
         <h2 className="price">RCB vs PBKS</h2>
         <p style={{fontSize:'1.3rem'}} className="text-white ">25-MARCH-2024</p>
         <div className="description">Check the Match preview, Pitch Report with Dream11 prediction and Fantasy Bonus Tips..</div>
@@ -48,18 +57,8 @@ function Middle() {
       <Link to='/pbks-vs-dc-match-predictions'> <button className="w-100">Read More</button></Link>
   </div>
 
-          <div className="card">
-      <div className="content">
-        <div className="title">Daily Matches</div>
-        <h2 className="price">RCB vs CSK</h2>
-        <p style={{fontSize:'1.3rem'}} className="text-white">22-MARCH-2024</p>
-        <div className="description">Check the Match preview,Pitch Report with Dream11 prediction and Fantasy Bonus Tips.</div>
-      </div>
-      <Link to='/rcb-vs-csk-match-predictions'> <button className="w-100">Read More</button></Link>
-       
-  </div>
           
-          </div> 
+     </div> 
         </header>
       </div>
     </>

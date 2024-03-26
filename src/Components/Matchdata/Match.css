@@ -7,10 +7,27 @@
     font-family: sans-serif;
    
 }
+.team-img{
+    width: 30%;
+}
 .heading-style{
     font-weight: 600;
     font-size: 1.8rem;
     }
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-bottom: 20px;
+    }
+    th, td {
+        padding: 8px;
+        text-align: left;
+        border-bottom: 1px solid #ddd;
+    }
+    th {
+        background-color: #f2f2f2;
+    }
+
 @media  only screen and (max-width:576px){
     .Match{
         display: flex;
@@ -21,7 +38,10 @@
     .style{
         font-size: 1.4rem;
         font-family: sans-serif;
-       
+    }
+    .team-img{
+        width: 50%;
+        margin-left: 3rem;
     }
     .heading-style{
     font-weight: 550;

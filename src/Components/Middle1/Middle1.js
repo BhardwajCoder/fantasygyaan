@@ -73,7 +73,7 @@ function Middle1() {
             <div className="feature-icon d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-2 mb-3">
             </div>
             <img src='https://www.iwmbuzz.com/wp-content/uploads/2020/02/all-the-fixing-controversies-of-ipl-over-the-years-920x518.jpg' alt="404 not found" className='img' />
-            <h2 className="fs-2 text-body-emphasis my-2"> is ipl sripted or not </h2>
+            <h2 className="fs-2 text-body-emphasis my-2"> Is IPL Scripted Or Not </h2>
             <p  style={{fontSize:'1.5rem',fontWeight:'400',fontFamily:'sans-serif'}}>check if you want to know ipl is scripted or fixed ? then please check the full blog you will get your answer. </p> 
             <Link to='/is-ipl-scripted-or-not'>
             <button className='btn btn-primary  w-50' >Read more</button>
