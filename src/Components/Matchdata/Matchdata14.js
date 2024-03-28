@@ -139,25 +139,24 @@ function Matchdata14() {
      <section id='section7'>
      <h4 className='heading-style'>Top Bowling Picks:</h4>
      <ol>
-      <li><strong>Mitchell Starc </strong>- if RCB bowl first.</li>
-      <li><strong>Harshit Rana </strong>- you can try in both innings</li>
-      <li><strong>Mohammed Siraj</strong>- pich provide help to spinners</li>
-      <li><strong>Alzari Joseph</strong>- good recent form and venue stats</li>
+      <li><strong>Kagiso Rabbada </strong>- if PBKS bowl first.</li>
+      <li><strong>Naveen-ul-Haq </strong>- you can try in both innings</li>
+      <li><strong>Ravi Bishnoi</strong>- pich provide help to spinners</li>
+      <li><strong>Yash Thakur</strong>- good recent form and venue stats</li>
      </ol>
      </section>
      <h4 className='heading-style'>Top Captaincy picks:</h4>
      <ol>
-      <li><strong>Glen Maxwell</strong>- can contribute with bat and ball</li>
-      <li><strong>Cameron Green</strong>- can contribute with bat and ball- Risky </li>
-      <li><strong>Andre Russell</strong>- safe pick but you can try</li>
-      <li><strong>Virat Kholi</strong>- risky captain option pick but you can try</li>
+      <li><strong>Sam Curran</strong>- can contribute with bat and ball</li>
+      <li><strong>KL Rahul</strong>- can contribute with bat and ball- Risky </li>
+      <li><strong>Shikhar Dhawan</strong>- Risky pick but you can try</li>
      </ol>
      <section id='section8'>
      <h5 className='heading-style'>Fantasy Bonus tips:</h5>
      <ol>
-      <li>you can try Dinesh Karthik in 1st innings</li>
-      <li>you can take M Siraj in 1st  inning</li>
-      <li>you can try Suyesh Sharma in your team.</li>
+      <li>you can try Prabhsimran Singh in 1st innings</li>
+      <li>you can take Harshal Patel in 1st  inning</li>
+      <li>you can try Marcus Stonis in your team contribute with bat and ball.</li>
      </ol>
      </section>
     
