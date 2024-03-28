@@ -90,7 +90,7 @@ function Matchdata6() {
      <div className='container' style={{fontSize:"1.4rem"}}>
       <div className='container'>
       <h3>RCB vs KKR Fantasy Team No 1</h3>
-    <img src="/images/rcbvskkr.jpeg" alt="" className=' team-img ' />
+    <img src="/images/rcbvskkr.jpeg" alt="RCB vs KKR Fantasy Team " className=' team-img ' />
       </div>
       <h3 className='my-3 heading-style'>Top Batting Picks:</h3>
      <ol>
