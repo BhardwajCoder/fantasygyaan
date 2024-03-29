@@ -10,55 +10,54 @@ function Middle() {
      <iframe src="https://widget.crictimes.org/" title="live cricket scores" style={{width:"100%",minHeight:"450px"}} frameborder="0" scrolling="yes"></iframe>
      </div>
       <h1 className="  my-4 text-center">Trending Matches </h1>
-      <div className="container">
+      <div className="container ">
         <Helmet>
        <title>Trending and Live matches</title>
          <meta name="description" content="Get full details about daily matches and stay updates with daily match predictions and dream11 teams" />
           <meta name="keywords"content="Daily Matches,Trending cricket matches" />
           <meta name="robots" content="follow, index, max-snippet:-1, max-video-previe,max-image-preview:large" />
         </Helmet>
-        <header> 
-          <div className="Card-Main  container" >
-            
-          <div className="card">
-      <div className="content">
-        <div className="title">Daily Matches</div>
-        <h2 className="price">LSG vs PBKS</h2>
-        <p style={{fontSize:'1.3rem'}} className="text-white">23-MARCH-2024</p>
-        <div className="description">Check the Match preview,Pitch Report with Dream11 prediction and Fantasy Bonus Tips..</div>
-      </div>
-      <Link to='/lsg-vs-pbks-dream11-prediction-today-match-prediction-ipl-2024'> <button className="w-100">Read More</button></Link>
+       <header>
+        <div className="Card-Main ">
+        <div className="card" >
+  <img src="/images/lsgvspbksposter.png" className="card-img-top" alt="..."/>
+  <div className="card-body">
+    <h2 className="card-title " >LSG vs PBKS</h2>
+    <p className="card-text"> Check all the updates about this match like Dream11 team,fantasy tips and playing11</p>
+    <Link to='/lsg-vs-pbks-dream11-prediction-today-match-prediction-ipl-2024' className="btn btn-primary">Read More</Link>
   </div>
-          <div className="card">
-      <div className="content">
-        <div className="title">Daily Matches</div>
-        <h2 className="price">RCB vs KKR</h2>
-        <p style={{fontSize:'1.3rem'}} className="text-white">29-MARCH-2024</p>
-        <div className="description">Check the Match preview,Pitch Report with Dream11 prediction and Fantasy Bonus Tips.</div>
-      </div>
-      <Link to='/rcb-vs-kkr-dream11-prediction-today-match-prediction-match10-ipl-2024'> <button className="w-100">Read More</button></Link>
-  </div> 
-          <div className="card">
-      <div className="content">
-        <div className="title">Daily Matches</div>
-        <h2 className="price">RCB vs PBKS</h2>
-        <p style={{fontSize:'1.3rem'}} className="text-white ">25-MARCH-2024</p>
-        <div className="description">Check the Match preview, Pitch Report with Dream11 prediction and Fantasy Bonus Tips..</div>
-      </div>
-      <Link to='/rcb-vs-pbks-dream11-prediction-today-match-ipl-2024'> <button className="w-100">Read More</button></Link>
+</div>
+
+<div className="card" >
+  <img src="/images/rcbvskkrposter.jpg" className="card-img-top" alt="..."/>
+  <div className="card-body">
+    <h2 className="card-title ">RCB vs KKR</h2>
+    <p className="card-text"> Check all the updates about this match like Dream11 team,fantasy tips and playing11.</p>
+    <Link to='/rcb-vs-kkr-dream11-prediction-today-match-prediction-match10-ipl-2024' className="btn btn-primary">Read More</Link>
   </div>
-          <div className="card">
-      <div className="content">
-        <div className="title">Daily Matches</div>
-        <h2 className="price">SRH vs KKR</h2>
-        <p style={{fontSize:'1.3rem'}} className="text-white ">12-MARCH-2024</p>
-        <div className="description">Check the Match preview, Pitch Report with Dream11 prediction and Fantasy Bonus Tips..</div>
-      </div>
-      <Link to='/srh-vs-kkr-dream11-predictions-ipl-2024'> <button className="w-100">Read More</button></Link>
+</div>
+
+<div className="card" >
+  <img src="/images/VS.png" className="card-img-top" alt="..."/>
+  <div className="card-body">
+    <h2 className="card-title ">RCB vs PBKS</h2>
+    <p className="card-text"> Check all the updates about this match like Dream11 team,fantasy tips and playing11.</p>
+    <Link to='/rcb-vs-pbks-dream11-prediction-today-match-ipl-2024' className="btn btn-primary">Read More</Link>
   </div>
+</div>
+
+<div className="card" >
+  <img src="/images/SRH vs KKR.png" className="card-img-top" alt="..."/>
+  <div className="card-body">
+    <h2 className="card-title " >SRH vs KKR</h2>
+    <p className="card-text"> Check all the updates about this match like Dream11 team,fantasy tips and playing11.</p>
+    <Link to='/srh-vs-kkr-dream11-predictions-ipl-2024' className="btn btn-primary">Read More</Link>
+  </div>
+</div>
+
+        </div>
+       </header>
     
-     </div> 
-        </header>
       </div>
     </>
   );

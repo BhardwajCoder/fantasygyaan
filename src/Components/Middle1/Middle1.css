@@ -9,5 +9,12 @@
     .margin{
         margin: 0;
     }
+    .main-container{
+       display: flex;
+       flex-direction: column;
+       justify-content: center;
+       flex-wrap: wrap;
+        
+    }
  
 }

@@ -16,7 +16,7 @@ function Middle1() {
         </Helmet>
       <div className="container margin px-4 py-3" id="featured-3">
     <h2 className="pb-2 border-bottom  text-center">Trending Topics</h2>
-    <div className="row g-5 py-3 row-cols-1 row-cols-lg-3 ">
+    <div className="row g-5 py-3 row-cols-1 row-cols-lg-3 main-container">
 
     <div className="feature col ">
             <div className="feature-icon d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-2 mb-3">
