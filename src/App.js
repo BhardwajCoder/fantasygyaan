@@ -73,7 +73,7 @@ return (
       <Route path='/what-is-fantasyCricket' element={<Trending1 />}/>
       <Route path='/Should-Ipl-Be-Banned' element={<Trending2 />}/>
       <Route path='/How-to-Earn-Money-from-FantasyCricket' element={<Trending3 />}/>
-      <Route path='/Dream11-Investment-Plan' element={<Trending4 />}/>
+      <Route path='/dream11-investment-plan' element={<Trending4 />}/>
       <Route path='/is-ipl-scripted-or-not' element={<Trending5 />}/>
       <Route path='/should-cricket-be-the-national-game-of-india' element={<Trending6 />}/>
       <Route path='/can-cricket-overtake-football' element={<Trending7 />}/>

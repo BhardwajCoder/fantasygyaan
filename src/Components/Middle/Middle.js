@@ -20,20 +20,19 @@ function Middle() {
        <header>
         <div className="Card-Main ">
         <div className="card" >
+  <img src="/images/SRH vs KKR.png" className="card-img-top" alt="SRH vs GT Dream11 Predictions"/>
+  <div className="card-body">
+    <h2 className="card-title " >SRH vs GT</h2>
+    <p className="card-text"> Check all the updates about this match like Dream11 team,fantasy tips and playing11</p>
+    <Link to='/srh-vs-gt-dream11-prediction-today-match-prediction-ipl-2024' className="btn btn-primary">Read More</Link>
+  </div>
+</div>
+        <div className="card" >
   <img src="/images/lsgvspbksposter.png" className="card-img-top" alt="..."/>
   <div className="card-body">
     <h2 className="card-title " >LSG vs PBKS</h2>
     <p className="card-text"> Check all the updates about this match like Dream11 team,fantasy tips and playing11</p>
     <Link to='/lsg-vs-pbks-dream11-prediction-today-match-prediction-ipl-2024' className="btn btn-primary">Read More</Link>
-  </div>
-</div>
-
-<div className="card" >
-  <img src="/images/rcbvskkrposter.jpg" className="card-img-top" alt="..."/>
-  <div className="card-body">
-    <h2 className="card-title ">RCB vs KKR</h2>
-    <p className="card-text"> Check all the updates about this match like Dream11 team,fantasy tips and playing11.</p>
-    <Link to='/rcb-vs-kkr-dream11-prediction-today-match-prediction-match10-ipl-2024' className="btn btn-primary">Read More</Link>
   </div>
 </div>
 

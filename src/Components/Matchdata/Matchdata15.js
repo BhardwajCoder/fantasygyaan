@@ -149,9 +149,9 @@ function Matchdata15() {
      </section>
      <h4 className='heading-style'>Top Captaincy picks:</h4>
      <ol>
-      <li><strong></strong>- can contribute with bat and ball</li>
-      <li><strong>KL Rahul</strong>- can contribute with bat and ball- Risky </li>
-      <li><strong>Shikhar Dhawan</strong>- Risky pick but you can try</li>
+      <li><strong>Azmatullah Omarzai</strong>- can contribute with bat and ball</li>
+      <li><strong>Shubman Gill</strong>- Good pick </li>
+      <li><strong>Henrich Klassen</strong>- Risky option pick but you can try</li>
      </ol>
      <section id='section8'>
      <h5 className='heading-style'>Fantasy Bonus tips:</h5>
