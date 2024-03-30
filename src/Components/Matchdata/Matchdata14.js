@@ -7,7 +7,7 @@ function Matchdata14() {
   const [sections] = useState([
     { id: 'section1', title: 'Head To Head Records' },
     { id: 'section2', title: 'Pitch Report' },
-    { id: 'section3', title: 'Playing11' },
+    { id: 'section3', title: 'LSG vs PBKS Playing11' },
     { id: 'section4', title: 'LSG vs PBKS Dream11 Team' },
     { id: 'section5', title: 'Top Batting Picks' },
     { id: 'section6', title: 'Top All-Rounder Picks' },
