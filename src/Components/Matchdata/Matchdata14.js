@@ -46,7 +46,7 @@ function Matchdata14() {
       </ul>
      </div>
      <section id="section1" className='my-3'>
-     <h2 className='heading-style'> RCB vs KKR Head to Head Records</h2>
+     <h2 className='heading-style'> LSG vs PBKS Head to Head Records</h2>
      <div>
      <table class="table">
   <thead>
@@ -81,7 +81,7 @@ function Matchdata14() {
      </div>
      </section>
      <section id="section2" className='my-3'>
-     <h2 className='heading-style' >RCB vs KKR Pitch Report</h2>
+     <h2 className='heading-style' >LSG vs PBKS Pitch Report</h2>
      <p style={{letterSpacing:"1px"}}>The match betwwen RCB vs KKR play at <strong> Atal Bihari Vajpayee Stadium,Lucknow</strong>.The nature of the pitch is good batting wicket .this is the 1st match on this ground so you can expect good batting wicket.stay tuned for official pitch report at toss time. </p>
      <div>
      <table className='table'>

@@ -22,6 +22,7 @@
   .card{
     width: auto;
     height: auto;
+    margin: 10px ;
   }
   .card img{
    width: auto;
