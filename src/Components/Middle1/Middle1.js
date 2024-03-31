@@ -63,9 +63,9 @@ function Middle1() {
             <div className="feature-icon d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-2 mb-3">
             </div>
             <img src='/images/how to earn money.png' alt="404 not found" className='img' />
-            <h2 className="fs-2 text-body-emphasis my-2">Dream11 Investment Plan</h2>
+            <h2 className="fs-2 text-body-emphasis my-2">Dream11 Investment Strategy</h2>
             <p  style={{fontSize:'1.5rem',fontWeight:'400',fontFamily:'sans-serif'}} >if you want to Make Money from <strong>fantasy cricket</strong>check the latest <strong> Fantasy Cricket Investment Plan</strong>check simple steps. </p> 
-            <Link to='/dream11-investment-plan'>
+            <Link to='/dream11-investment-strategy'>
             <button className='btn btn-primary w-50' >Read more</button>
             </Link>
           </div>
