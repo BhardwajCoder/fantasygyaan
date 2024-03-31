@@ -14,26 +14,17 @@ function Dnews() {
        <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
       </Helmet>
       <div className="container " style={{fontFamily:'sans-serif'}}>
-        <div className="Dnews  ">
+        <div className="Dnews">
           {
             News.map((news)=>{
               return(
-                <div className="card1" key={news.id}>
-                <img
-                  src={news.img}
-                  className="card-img-top img"
-                  alt="404 not found"
-                />
-                <div class="card-body my-2">
-                  <h2 class="card-title"style={{fontWeight:"500"}}>{news.Heading}</h2>
-                  <p class="card-text" style={{fontSize:"1.5rem"}}>{news.content}</p>
-                  <Link to={`/${news.perma}`}>
-                   <button  className="btn btn-primary">
-                    read more
-                   </button>
-                  </Link>
+                <div className="card " >
+                <img src={news.img} className="card-img-top img" alt="SRH vs GT Dream11 Predictions"/>
+                <div className="card-body">
+                  <h2 className="card-title " >{news.Heading}</h2>
+                  <p className="card-text"> Check all the updates about this match like Dream11 team,fantasy tips and playing11</p>
+                  <Link to={`/${news.perma}`} className="btn btn-primary">Read More</Link>
                 </div>
-                
               </div>
               )
             })
