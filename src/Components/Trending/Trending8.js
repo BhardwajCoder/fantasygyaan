@@ -4,7 +4,7 @@ import { Helmet } from 'react-helmet'
 function Trending8() {
   return (
     <div>
-       <div className='container trending' style={{fontSize:"1.3rem"}}>
+       <div className='container trending style' >
     <Helmet>
      <title>should cricket be the national game of india in hindi -क्या क्रिकेट भारत का राष्ट्रीय खेल होना चाहिए?</title>
      <meta name="description" content= "यह भारत में सबसे ज्यादा ट्रेंडिंग सवाल है जिसे हर क्रिकेट प्रशंसक जानना चाहता है कि क्या क्रिकेट को भारत का राष्ट्रीय खेल होना चाहिए। क्रिकेट भारत में बहुत लोकप्रिय खेल है। भारत में क्रिकेट सिर्फ एक खेल नहीं है, यह लोगों के लिए एक भावना है।" />
