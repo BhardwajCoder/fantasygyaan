@@ -18,7 +18,8 @@ function Dnews() {
           {
             News.map((news)=>{
               return(
-                <div className="card " >
+               
+                <div className="card1 container" >
                 <img src={news.img} className="card-img-top img" alt="SRH vs GT Dream11 Predictions"/>
                 <div className="card-body">
                   <h2 className="card-title " >{news.Heading}</h2>
@@ -26,6 +27,7 @@ function Dnews() {
                   <Link to={`/${news.perma}`} className="btn btn-primary">Read More</Link>
                 </div>
               </div>
+             
               )
             })
           }
