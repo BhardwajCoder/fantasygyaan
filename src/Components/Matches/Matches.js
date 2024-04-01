@@ -22,11 +22,12 @@ const Matches =() =>{
         {
           MatchData.map((match)=>{
             return(
-            <div>
-               <div  className="row g-0 border rounded overflow-hidden bg-dark text-white flex-md-row mb-2 shadow-sm h-md-250 position-relative search-card">
-        <div className="col p-3 d-flex flex-column position-static">
+          
+               <div  className=" row g-0 border rounded overflow-hidden  text-dark flex-md-row mb-2 shadow-sm h-md-250 position-relative ">
+        <div className=" search-card px-2 ">
           <strong className="d-inline-block text-white">{match.league}</strong>
-        <h2>{match.Heading}</h2>  
+        <h2>{match.Heading}</h2>
+        <img src={match.img} alt="" className='search-img' />  
           <div className=" text-body-secondary bg-light" >{match.Date}</div>
           <p className="card-text " style={{fontSize:'1.3rem'}}>View full blog for more details check it out now</p>
           <Link to={`/${match.perma}`}>
@@ -35,7 +36,7 @@ const Matches =() =>{
         </div>
         
       </div>
-            </div>
+           
             )
           })
         }
