@@ -13,21 +13,20 @@ function Dnews() {
        <meta name="keywords" content="Latest Cricket news,Daily Cricket Updates" />
        <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
       </Helmet>
-      <div className="container " style={{fontFamily:'sans-serif'}}>
-        <div className="Dnews">
+      <div className="container " >
+        <div className="grid-body">
           {
             News.map((news)=>{
               return(
-               
-                <div className="card1 container" >
-                <img src={news.img} className="card-img-top img" alt="SRH vs GT Dream11 Predictions"/>
-                <div className="card-body">
-                  <h2 className="card-title " >{news.Heading}</h2>
-                  <p className="card-text"> Check all the updates about this match like Dream11 team,fantasy tips and playing11</p>
-                  <Link to={`/${news.perma}`} className="btn btn-primary">Read More</Link>
+                <div class="news-card">
+                <img src={news.img} alt="Cricket News" className="news-card img"/>
+                <div class="card-content ">
+                    <h2 className="my-2">{news.Heading}</h2>
+                    <p className="news-style">Enjoy the latest highlights of the cricket match. Catch all the action and unforgettable moments with our coverage.</p>
+                    <Link to={`/${news.perma}`}><button className="btn btn-primary">Read More</button></Link>
+                    
                 </div>
-              </div>
-             
+            </div>
               )
             })
           }

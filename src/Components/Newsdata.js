@@ -3,7 +3,7 @@
         "id":"1",
         "perma":"MI-NEW-IPL-SQUAD",
      "Heading":"MI NEW IPL SQUAD",
-     "img":"./images/Mi.png",
+     "img":"/images/SRH vs KKR.png",
      "content":"check the updated squad of MI 2024",
    
     },
@@ -29,7 +29,7 @@
         "id":"4",
        "perma" :'Rohit-Captaincy-news',
         "Heading":"Rohit Sharma Captaincy news ",
-        "content":"check the updated squad of RCB 2024",
+        "content":"check the latest news about rohit sharma removed from MI captaincy.",
         "img":"./images/rohit.jpg",
       
        },

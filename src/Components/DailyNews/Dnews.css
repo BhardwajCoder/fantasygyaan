@@ -1,61 +1,73 @@
-.Dnews{
- display: grid;
- grid-template-columns: 1fr 1fr 1fr;
- grid-gap: 15px;
- overflow-y: hidden;
+.grid-body {
+  display: grid;
+  grid-template-columns: auto auto auto;
+    margin: 0;
+    padding: 0;
+    background-color:linen;
+    font-family: Arial, sans-serif;
 }
-.img{
-   width: 50%;
+
+.news-card {
+   
+    width: auto;
+    background-color:whitesmoke;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(42, 34, 34, 0.1);
+    overflow: hidden;
+    margin: 10px;
+    transition: transform 0.2s ease-in-out;
 }
-.card1{
-    width: 18rem;
-    margin: 5px 15px;
-    border-radius: 1rem;
-  border-color:lightblue;
-  box-shadow:  0 0 5px;
-  
+
+.news-card:hover {
+    transform: scale(1.05);
 }
-@media  only screen and (min-width:200px) and (max-width:420px){
-    .Dnews{
+
+.news-card img {
+    width: auto;
+    height: 10rem;
+   
+}
+
+.card-content {
+    padding: 20px;
+}
+
+.card-content h2 {
+    margin: 0 0 10px 0;
+    font-size: 1.8rem;
+    color: #181717;
+}
+
+.card-content p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    color: #1d1919;
+}
+
+button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+@media screen and (max-width: 600px) {
+    .grid-body {
         display: grid;
-        grid-template-columns: auto ;
-       margin: auto;
-       overflow-x: hidden;
-    }
-    .card1{
-        width: auto;
-    height: auto;
-    margin: 5px ;
-    padding: 10px;
-    }
-    .img{
-        width: auto;
-        height: 10rem;
-       
-     }
-}
-@media  only screen and (min-width:421px) and (max-width:450px){
-    .Dnews{
-        display: grid;
-        grid-template-columns: auto auto;
-       margin: auto;
-       overflow-x: hidden;
-    }
-    .card1{
-        height: auto;
-        width: auto;
-    }
-}
-@media  only screen and (min-width:451px) and (max-width:576px){
-    .Dnews{
-        display: grid;
-        grid-template-columns:  13rem 14rem;
-        margin: auto;
-        padding: auto;
-       overflow-y: hidden;
-    }
-    .card1{
-        height: auto;
-        width: auto;
+        grid-template-columns: auto;
+          margin: 0;
+          padding: 0;
+          background-color: #f5f5f5;
+          font-family: Arial, sans-serif;
+      }
+    .news-card {
+        max-width: 90%;
     }
 }
