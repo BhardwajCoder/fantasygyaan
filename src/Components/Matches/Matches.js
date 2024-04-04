@@ -24,7 +24,7 @@ const Matches =() =>{
             return(
           
                <div  className=" row g-0 border rounded overflow-hidden  text-dark flex-md-row mb-2 shadow-sm h-md-250 position-relative ">
-        <div className=" search-card px-2 ">
+        <div className=" search-card px-2  ">
           <strong className="d-inline-block text-white">{match.league}</strong>
         <h2>{match.Heading}</h2>
         <img src={match.img} alt="" className='search-img' />  

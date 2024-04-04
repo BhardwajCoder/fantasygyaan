@@ -1,12 +1,15 @@
 .search-card{
     height: auto;
-    width: 250px;  
-    padding: 0 0;
+    width: 250px; 
+    margin: 0 auto;
+    padding: 10px;  
     border-radius: 15px;
 }
 .Blog-card{
     display: grid;
     grid-template-columns: 2fr 2fr 2fr;
+    grid-gap: 1rem;
+    margin:  10px;
    overflow-y: hidden;
 }
 .search-img{
@@ -23,6 +26,7 @@
     .Blog-card{
         display: grid;
         grid-template-columns:auto auto;
+        grid-gap: 15px;
        overflow-x: hidden;
        overflow-y: hidden;
        
@@ -34,7 +38,8 @@
     .search-card{
         width: auto;
        height: auto;
-       padding:  10px 5px;
+       padding:  10px;
+       
     }
 }
 @media  only screen and (min-width:576px) and (max-width:768px){
