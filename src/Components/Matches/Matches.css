@@ -32,8 +32,8 @@
        
     }
     .search-img{
-        width: auto;
-        height: 100px;
+        width: 100%;
+        height: auto;
     }
     .search-card{
         width: auto;
