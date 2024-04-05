@@ -11,7 +11,7 @@ function Home({ Blogs, handleclick,Newsclick }) {
       <div className='Home1'>
       <Helmet>
           <title>Today Match Predictions| Dream 11 Predictions</title>
-        <meta name="description" content='Get Updates about Daily Match Prediction ,Latest cricket News,Dream 11 teams,Fantasy Cricket Tips ' />
+        <meta name="description" content='Check all the latest updates and cricket news,free Dream11 Predictions,Fantasy Tips,Pitch Report and Cricket related New Informations ' />
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
     <meta name="keyword" content=" Dream 11 Predictions,Fantasy Cricket Predictions,Today Match Predictions,Dream 11 teams"/>

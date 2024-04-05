@@ -1,75 +1,178 @@
-import React from 'react'
+import React,{useState} from 'react'
 import './Match.css'
 import { FaInstagram } from "react-icons/fa6";
 import { Link } from 'react-router-dom';
 import { Helmet } from 'react-helmet';
 function Matchdata11() {
+  const [sections] = useState([
+    { id: 'section1', title: 'RCB vs RR Head To Head Records' },
+    { id: 'section2', title: 'RCB vs RR Pitch Report' },
+    { id: 'section3', title: 'RCB vs RR Playing11' },
+    { id: 'section4', title: 'RCB vs RR Dream11 Team' },
+    { id: 'section5', title: 'Top Batting Picks' },
+    { id: 'section6', title: 'Top All-Rounder Picks' },
+    { id: 'section7', title: 'Top Bowling Picks' },
+    { id: 'section8', title: 'RCB vs RR Fantasy Tips' },
+    
+  ]);
+  const scrollToSection = (id) => {
+    const element = document.getElementById(id);
+    if (element) {
+      element.scrollIntoView({ behavior: 'smooth' });
+    }
+  };
+ 
+  
+    
   return (
-   <>
-     <div className='container Match ' style={{fontSize:"1.3rem"}}>
+    <>
+     <div className='Match container style' >
     <Helmet>
-    <title>KAR vs PES Dream11 Predictions,Today Match Prediction</title>
-    <meta name="description" content="KAR vs PES.The Match will play between KAR and Karachi PES team put their efforts to win stay tuned at toss time for official pitch report and team updates.KAR vs PES stay tuned." />
-    <meta name="keywords" content="KAR vs PES,KAR vs PES Dream11 Predictions, Karachi  vs Peshawar free fantasy team, KAR vs PES Today Match predictions,kar vs pes today match  ,kar vs pes dream11 prediction" />
+    <title> RCB vs RR Dream11 Prediction Today Match 19 IPL 2024 </title>
+    <meta name="description" content="The match between RCB vs RR will play on 30th march at Swai Mansingh Stadium,Jaipur.check the dream11 teams and fantasy tips for good winnings." />
+    <meta name="keywords" content="RCB vs RR Dream11 Prediction,RCB vs RR Today Match, rcb vs rr dream11 prediction, rcb vs rr today match prediction,RCB vs RR Dream11 Teams" />
     <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
     </Helmet>
-      
-      <img src="/images/KARvsPES (1).jpg" alt="KAR vs PES
-       match Predictions "  className='float-end match-img'/>
-      <p>The Match will play between KAR and Karachi PES team put their efforts to win.The perfomance of peashawar is good in this season they won 5 matches out of 9 matches and currently hold the 2nd position in points table and on the other side Karachi perfomance is very poor in this season they only won 3 matches out of 9 matches .KAR have to stepup in this match and try to beat PES in this match to get back his campaign on winning trac. </p>
-
-      <h2>KAR vs PES Dream11 Prediction, Today Match predictions</h2>
-     
-     <h2>Pitch Report</h2>
-     <p>This match will play on National Stadium Karachi the Nature of the pitch is <strong> Good Surface to bat on</strong>,has generally been neutral during the international games but In PSL people want entertainment so they prepare Batting Friendly Tracks so this is going to another High scoring match so pick Quality Batsmen death bowlers or all-rounder who can bat in top order.</p>
-
-     <h3> PES Probable 11</h3>
-     <p>Saim Ayub,Babar Azam,Mohammad Haris,Haseebullah Khan(wk),Tom kohler Cadmore,Aamer Jamal,Mehran Mumtaz,Luke Wood,Naveen-ul-Haq,K Shahzad</p>
-     <br />
-     <h3>KAR Probable 11</h3>
-     <p>Shan Masood,T Seifert(wk),James Vince,Shoaib Malik,Mohd Nawaz,Kieron Pollard,Irfan Khan,Z Mahmood,Hasan Ali,Mir Hamza,Blessing Muzurbani</p>
+      <h1 className='my-2 heading-style' >RCB vs RR Dream11 Prediction Today Match-19 IPL 2024</h1>
+      <img src="/images/rcb vs rr poster.png" alt="RCB vs RR Dream11 Prediction Today Match 12 IPL 2024 "  className='float-end match-img'/>
+     <p className='my-3 px-1 text-wrap'>This is the 19th match of ipl 2024 will play between RCB and RR.In this season Royal Challengers Bangalore only won 1 match out of their 4 matches the performance in this season is disappointed but on the other hand Rajasthan Royals won their all 3 matches and hold the 2nd no spot in points table.In this match RCB players have to step up in both batting and bowling department to win this match But Rajasthan Royals are ready to get his 4 consecutive win.so stay tuned what happens in this match check out the dream11 teams,pitch report and fantasy tips for this match.    </p>
+      <h2 className='heading-style'>Table of content</h2>
+     <div className='table-content container-fluid'>
+      <ul>
+        {sections.map(section => (
+          <li key={section.id} className='py-1 my-2'>
+            <a href={`#${section.id}`} onClick={() => scrollToSection(section.id)}>
+              {section.title}
+            </a>
+          </li>
+        ))}
+      </ul>
      </div>
-     <div className='container' style={{fontSize:"1.3rem"}}>
+     <section id="section1" className='my-3'>
+     <h2 className='heading-style'> SRH vs GT Head to Head Records</h2>
+     <div>
+     <table class="table">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col"></th>
+      <th scope="col">RCB</th>
+      <th scope="col">RR</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>Total Match-30</td>
+      <td>15 won</td>
+      <td>12 won</td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>Highest Score</td>
+      <td>200</td>
+      <td>217</td>
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td >Lowest Score</td>
+      <td>70</td>
+      <td>58</td>
+    </tr>
+  </tbody>
+</table>
+     </div>
+     </section>
+     <section id="section2" className='my-3'>
+     <h2 className='heading-style' >RCB vs RR Pitch Report</h2>
+     <p style={{letterSpacing:"1px"}}>The match betwwen RCB vs RR play at <strong>Swai Mansingh Stadium,Jaipur</strong>.The nature of the pitch is good batting wicket with some help for spinners .This is the good wicket for Batters and spinners.stay tuned for official pitch report at toss time. </p>
+     <div>
+     <table className='table'>
+    <tr>
+        <th>Aspect</th>
+        <th>Details</th>
+    </tr>
+    <tr>
+        <td>Pitch Behaviour</td>
+        <td>Batting Friendly with some help for spinners</td>
+    </tr>
+    <tr>
+        <td>Average Score</td>
+        <td>162</td>
+    </tr>
+    <tr>
+        <td>Weather Conditions</td>
+        <td>Broken Clouds</td>
+    </tr>
+    
+</table>
+     </div>
+     </section>
+     
+     <section className='my-3'id="section3" >
+     <h2 className='heading-style'>RCB vs RR Playing11:</h2>
+        <p style={{letterSpacing:"1px"}} className='py-3'><strong>RCB Playing11:</strong>Faf du Plessis,Virat Kholi,Rajat Patidar,Glenn Maxwell,Cameron Green,Mahipal Lomror,Dinesh Karthik(wk),Mayank Dagar,Mohammad Siraj,Reece Topley,Yash Dayal</p> 
 
-      <h3>Top Batting Picks</h3>
-     <ol>
-     <li> <strong>Babar Azam</strong>  - good recent form</li>
-     <li> <strong>Saim Ayub</strong>good form with the bat </li>
-     <li> <strong>James Vince</strong> - he is Consistent scorer </li>
-     <li><strong>Shan Masood</strong>- risky but tryable </li>
-     </ol>
-     <h4>Top All-Rounder Picks</h4>
-     <ol>
-      <li><strong>Shoaib Malik</strong>- he can give points both with bat and ball</li>
-      <li><strong>M Nawaz</strong> will be good pick beacause he can bowl some overs</li>
+       <p style={{letterSpacing:"1px"}} className='py-3'><strong>RR Playing11:</strong>Yashasvi Jaiswal,Jos Buttler(wk),Sanju Samson,Riyan Parag,R Ashwin,Shubham Dubey,Dhruv Jurel,Simron Hetmyer,Trent Boult,Avesh Khan,Nandre Burger,Yuzi Chahal.</p>
       
-     </ol>
-     <h4>Top Bowling Picks</h4>
+     </section>
+     </div>
+     
+     <div className='container style' >
+      <section>
+      <h3 className='heading-style'>RCB vs RR Dream11 Team </h3>
+    <img src="/images/rcb vs rr dream team.jpeg" alt="rcb vs rr dream11 teams " className=' team-img ' />
+      </section>
+      <section id='section5'>
+      <h3 className='my-3 heading-style'>Top Batting Picks:</h3>
      <ol>
-      <li><strong>Naveen-ul-Haq</strong> if  bowl first.</li>
-      <li><strong>Luke Wood</strong> you can try in both innings</li>
-      <li><strong>Hasan Ali</strong>try in ist innings</li>
-      <li><strong>Mir Hamza</strong></li>
+     <li><strong>Yashasvi Jaiswal</strong>  - Good Recent Form and Venue Stats.</li>
+     <li><strong>Jos Buttler</strong>- Good Player .</li>
+     <li><strong>Virat Kholi</strong> - Great Batting form this season. </li>
+     <li><strong>Faf DU Plessis</strong>- Good Batsmen you can try. </li>
+     <li><strong>Riyan Parag</strong>- Good form with the bat but if bat at top order. </li>
      </ol>
-     <h4>Top Captaincy picks</h4>
+      </section>
+     <section id='section6'>
+     <h4 className='heading-style'>Top All-Rounder Picks:</h4>
      <ol>
-      <li><strong>Babar Azam</strong> can contribute with bat and ball</li>
-      <li><strong>Mohammad Nawaz</strong>can contribute with bat and ball- Risky </li>
-      <li><strong>Saim Ayub</strong>safe - you can try but highly risky</li>
+     <li><strong>Gllen Maxwell</strong>- will be the best pick in all-rounder section</li>
+      <li><strong>Cameron Green</strong>- he can give points both with bat and ball</li>
+     <li><strong>Ravi Ashwin</strong>-good pick in all-rounder section</li>
      </ol>
-     <h5>Fantasy Bonus tips</h5>
+     </section>
+     <section id='section7'>
+     <h4 className='heading-style'>Top Bowling Picks:</h4>
      <ol>
-      <li>You can Try Kieron Pollard if bat first-good trump pick</li>
-      <li>Make Luke Wood captain in 1st Inning due to death bowling </li>
-      <li>You can Drop Tom kholer cadmore his form is not good but good batsmen</li>
+      <li><strong>Yuzi Chahal </strong>- Good Pick in Both Innings.</li>
+      <li><strong>Nandre Burger </strong>- Good pick if RR bowl first</li>
+      <li><strong>Trent Boult</strong>- Good Pick in Both Innings</li>
+      <li><strong>Reece Topley</strong>- good Bowler you can try </li>
      </ol>
-     <h6>Check out the final team after toss- <Link to='https://www.instagram.com/fantasygyaan9/'>  <FaInstagram size={"1.5rem"}/> </Link> </h6>
-     <h6>FAQ</h6>
+     </section>
+     <h4 className='heading-style'>Top Captaincy picks:</h4>
      <ol>
-     <a href="/what-is-fantasyCricket"><li>what is fantasy Cricket</li></a>
-      <a href="/Why-We-Should-Play-Fantasy-Cricket"><li>WHY We Should Play Fantasy Cricket</li></a>
-      <a href="/How-to-Earn-Money-from-FantasyCricket"><li>How to Earn Money from Fantasy Cricket</li></a>
+      <li><strong>Glen Maxwell</strong>- can contribute with bat and ball</li>
+      <li><strong>Virat Kholi</strong>- Good pick </li>
+      <li><strong>Jos Buttler</strong>- Risky option pick but you can try</li>
      </ol>
+     <section id='section8'>
+     <h5 className='heading-style'>Fantasy Bonus tips:</h5>
+     <ol>
+      <li>you can take risk on Yashavu Jaiswal because he is hitter type batsmen but highly risky move</li>
+      <li>you can take Dinesh Karthik if bat first</li>
+      <li>you can Try Cameron Green as a captain or vice captain option in your team</li>
+     </ol>
+     </section>
+     <h5 className='heading-style'>Related Articles</h5>
+     <ol>
+      <a href="/what-is-fantasyCricket"> <li>what-is-fantasyCricket</li></a> 
+        <a href="/How-to-Earn-Money-from-FantasyCricket"><li>How-to-Earn-Money-from-FantasyCricket</li></a>
+       <a href="/Dream11-Investment-Plan"><li>/Dream11-Investment-Plan</li></a> 
+      </ol>
+    
+     <h6 className='heading-style'>Check out the final team after toss- <Link to='https://www.instagram.com/fantasygyaan9/'>  <FaInstagram size={"1.5rem"}/> </Link> </h6>
+     
      </div>
    </>
   )

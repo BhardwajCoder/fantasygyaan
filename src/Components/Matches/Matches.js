@@ -7,7 +7,7 @@ const Matches =() =>{
  
   return (
       <>
-      <div className='input my-3 '>
+      <div className='input my-3  '>
         <h1 className='container'>Daily Matches -fantasy prediction for free</h1>
         
         <Helmet>
@@ -26,10 +26,10 @@ const Matches =() =>{
                <div  className=" row g-0 border rounded overflow-hidden  text-dark flex-md-row mb-2 shadow-sm h-md-250 position-relative ">
         <div className=" search-card px-2  ">
           <strong className="d-inline-block text-white">{match.league}</strong>
-        <h2>{match.Heading}</h2>
-        <img src={match.img} alt="" className='search-img' />  
-          <div className=" text-body-secondary bg-light" >{match.Date}</div>
-          <p className="card-text " style={{fontSize:'1.3rem'}}>View full blog for more details check it out now</p>
+        <h2  style={{fontFamily:"sans-serif",fontWeightL:"600"}}>{match.Heading}</h2>
+        <img src={match.img} alt="" className='search-img ' />  
+          <div className=" text-body-secondary bg-light my-2" >{match.Date}</div>
+          <p className="card-text  " style={{fontSize:'1.3rem',fontFamily:"sans-serif"}}>View full blog for more details check it out now</p>
           <Link to={`/${match.perma}`}>
           <button className='btn btn-primary' > View </button>
           </Link>

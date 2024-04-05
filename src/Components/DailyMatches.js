@@ -1,5 +1,14 @@
 const MatchData=[
   {
+    "id":"11",
+     "perma":"rcb-vs-rr-dream11-prediction-today-match-prediction-ipl-2024" ,
+     "img":"/images/rcb vs rr poster.png",
+    "Date":"11-mar-2024",
+    "league":"IPL",
+    "Heading":"RCB vs RR",
+    "content":"check the updated squad of MI 2024",
+   },
+  {
     "id":"15",
      "perma":"srh-vs-gt-dream11-prediction-today-match-prediction-ipl-2024",
      "img":"/images/SRH VS GT.png",
@@ -64,16 +73,7 @@ const MatchData=[
     "content":"check the updated squad of MI 2024",
 
    },
-  {
-    "id":"11",
-     "perma":"KAR-vs-PES-W/Match-predictions" ,
-     "img":"/images/KARvsPES (1).jpg",
-    "Date":"11-mar-2024",
-    "league":"PS;L",
-    "Heading":"KAR vs PES",
-    "content":"check the updated squad of MI 2024",
-
-   },
+ 
   {
     "id":"1",
      "perma":"RCB-W-vs-MUM-W/Match-predictions" ,

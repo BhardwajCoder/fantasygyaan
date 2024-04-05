@@ -1,16 +1,17 @@
 .search-card{
     height: auto;
-    width: 250px; 
-    margin: 0 auto;
-    padding: 10px;  
+    width: 250px;
+    margin:  0 25px;
+    padding: 5px ;  
     border-radius: 15px;
 }
 .Blog-card{
     display: grid;
     grid-template-columns: 2fr 2fr 2fr;
     grid-gap: 1rem;
-    margin:  10px;
+    margin:  auto;
    overflow-y: hidden;
+  
 }
 .search-img{
     width: auto;
@@ -29,16 +30,20 @@
         grid-gap: 15px;
        overflow-x: hidden;
        overflow-y: hidden;
+       margin: 0px 0px ;
        
     }
     .search-img{
         width: 100%;
         height: auto;
+        margin-left: 0px;
     }
     .search-card{
         width: auto;
        height: auto;
        padding:  10px;
+       margin:  0px;
+      
        
     }
 }

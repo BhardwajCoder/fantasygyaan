@@ -60,7 +60,7 @@ return (
       <Route path='/srh-vs-kkr-dream11-predictions-ipl-2024' element={<Matchdata8/>}/>
       <Route path='/LAH-vs-ISL/Match-Predictions' element={<Matchdata9/>}/>
       <Route path='/MUS-vs-QUE/Match-Predictions' element={<Matchdata10/>}/>
-      <Route path='/KAR-vs-PES-W/Match-predictions' element={<Matchdata11/>}/>
+      <Route path='/rcb-vs-rr-dream11-prediction-today-match-prediction-ipl-2024' element={<Matchdata11/>}/>
       <Route path='/DEL-W-vs-GUJ-W-W/Match-predictions' element={<Matchdata12/>}/>
       <Route path='/rcb-vs-pbks-dream11-prediction-today-match-ipl-2024' element={<Matchdata13/>}/>
       <Route path='/lsg-vs-pbks-dream11-prediction-today-match-prediction-ipl-2024' element={<Matchdata14/>}/>
@@ -84,7 +84,7 @@ return (
     <div>
 <Helmet>
       <title>Today Match Prediction| Dream 11 Prediction</title>
-    <meta name="description" content='Fantasygyaan is the best Dream 11 Prediction website.Use the free team generator,detailed Player Stats and match Predictions with analysis' />
+    <meta name="description" content='Check all the latest updates and cricket news,free Dream11 Predictions,Fantasy Tips,Pitch Report and Cricket related New Informations' />
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
 <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
 <meta name="keyword" content="Fantasy Cricket Predictions for free, Dream11 Predictions,Fantasy Cricket News,Today Match Predictions"/>
