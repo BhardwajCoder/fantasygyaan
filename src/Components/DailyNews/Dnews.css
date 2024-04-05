@@ -70,4 +70,7 @@ button:hover {
     .news-card {
         max-width: 90%;
     }
+    .news-card:hover {
+        transform: scale(1.09);
+    }
 }

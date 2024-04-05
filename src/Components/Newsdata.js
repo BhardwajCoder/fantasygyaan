@@ -3,7 +3,7 @@
         "id":"1",
         "perma":"MI-NEW-IPL-SQUAD",
      "Heading":"MI NEW IPL SQUAD",
-     "img":"/images/SRH vs KKR.png",
+     "img":"/images/Mi.png",
      "content":"check the updated squad of MI 2024",
    
     },
