@@ -26,7 +26,7 @@ const Matches =() =>{
                <div  className=" row g-0 border rounded overflow-hidden  text-dark flex-md-row mb-2 shadow-sm h-md-250 position-relative ">
         <div className=" search-card px-2  ">
           <strong className="d-inline-block text-white">{match.league}</strong>
-        <h2  style={{fontFamily:"sans-serif",fontWeightL:"600"}}>{match.Heading}</h2>
+        <h2 className='heading-style' >{match.Heading}</h2>
         <img src={match.img} alt="" className='search-img ' />  
           <div className=" text-body-secondary bg-light my-2" >{match.Date}</div>
           <p className="card-text  " style={{fontSize:'1.3rem',fontFamily:"sans-serif"}}>View full blog for more details check it out now</p>

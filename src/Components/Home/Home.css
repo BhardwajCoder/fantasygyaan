@@ -24,6 +24,11 @@
   float: inline-end;
   margin-right: 2rem;
 }
+.Heading-all{
+  font-weight: 600;
+  font-family: sans-serif;
+  font-size: "1.6rem";
+}
 @media  only screen and (min-width:200px) and (max-width:576px){
   .Home{
     background-image: linear-gradient(to right, #8e2de2, #4a00e0);
@@ -55,6 +60,11 @@
 }
 .About{
   font-size: 1.3rem;
+}
+.Heading-all{
+  font-weight: 600;
+  font-family: sans-serif;
+  font-size: "1.5rem";
 }
 }
 @media  only screen and (min-width:577px) and (max-width:768px){
