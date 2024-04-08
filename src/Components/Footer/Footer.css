@@ -1,6 +1,8 @@
 .Footer{
     background-color: white;
   margin-top: 0px;
+  border-radius: 15px;
+  width: auto;
 }
 .Txt-color{
   color: white;
@@ -12,6 +14,7 @@
 .Footer{
   background-color: white;
   margin-top: 0px;
+  border-radius: 10px;
 }
 .Media{
   display: flex;

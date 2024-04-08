@@ -3,6 +3,14 @@
     width: auto;
     float: inline-end;
 }
+.main-H1{
+    font-weight: 700;
+    margin-left: auto;
+}
+.main-img{
+    width: 80%;
+    height: 400px;
+}
 .table-content{
     width: auto;
     height: auto;
@@ -63,5 +71,16 @@
         width: auto;
         height: 200px;
        
+    }
+    .main-img{
+        margin: 2px;
+        width: auto;
+        height: 200px;
+      
+    }
+    .main-H1{
+        font-weight: 700;
+        margin-left:  auto;
+        font-family: sans-serif;
     }
 }

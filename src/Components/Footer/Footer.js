@@ -7,7 +7,7 @@ function Footer() {
       <div className='Footer text-center bg-dark text-white container-fluid'>
        <div className='row'>
        <div class="col-12 col-sm-6 my-3 ">
-    <h2 >Fantasygyaan.com</h2>
+    <h2 >fantasygyaan.com</h2>
     </div>
     <div class="col-12 col-sm-6">
       <div className='my-3'>

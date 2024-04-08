@@ -15,7 +15,7 @@ function Middle1() {
     <meta name="keyword" content="Fantasy Cricket, Fantasy cricket Tips,Fantasy Cricket Investment plan."/>
         </Helmet>
       <div className="container margin px-4 py-3" id="featured-3">
-    <h2 className="pb-2 border-bottom  text-center">Trending Topics</h2>
+    <h1 className="pb-2 border-bottom  text-center">Trending Topics</h1>
     <div className="row g-5 py-3 row-cols-1 row-cols-lg-3 main-container">
 
     <div className="feature col ">

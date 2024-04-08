@@ -5,7 +5,7 @@ function Navbar() {
   
   return (
     <nav className="navbar " style={{fontFamily:"sans-serif",fontSize:"1.3rem"}}>
-      <div className="logo">Fantasygyaan.com</div>
+      <div className="logo">fantasygyaan.com</div>
       <div className="menu">
        
         <Link to="/">Home</Link>
