@@ -55,7 +55,7 @@ return (
       <Route path='/RCB-W-vs-MUM-W/Match-predictions' element={<Matchdata1 />}/>
       <Route path='/pbks-vs-dc-match-predictions' element={<Matchdata2 />}/>
       <Route path='/MUS-vs-LAQ/MatchPredictions' element={<Matchdata3 />}/>
-      <Route path='/UP-W-vs-BAN-W/MatchPredictions' element={<Matchdata5 />}/>
+      <Route path='/rr-vs-gt-dream11-prediction-ipl-2024' element={<Matchdata5 />}/>
       <Route path='/rcb-vs-kkr-dream11-prediction-today-match-prediction-match10-ipl-2024' element={<Matchdata6/>}/>
       <Route path='/LAH-vs-KAR/MatchPredictions' element={<Matchdata7/>}/>
       <Route path='/srh-vs-kkr-dream11-predictions-ipl-2024' element={<Matchdata8/>}/>
