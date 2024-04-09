@@ -37,6 +37,7 @@ import Trending7 from './Components/Trending/Trending7';
 import Matchdata14 from './Components/Matchdata/Matchdata14';
 import Matchdata15 from './Components/Matchdata/Matchdata15';
 import Matchdata16 from './Components/Matchdata/Matchdata16';
+import Trending9 from './Components/Trending/Trending9';
 
 
 function App() {
@@ -79,7 +80,7 @@ return (
       <Route path='/is-ipl-scripted-or-not' element={<Trending5 />}/>
       <Route path='/should-cricket-be-the-national-game-of-india' element={<Trending6 />}/>
       <Route path='/can-cricket-overtake-football' element={<Trending7 />}/>
-    
+      <Route path='/how-win-small-league-dream11' element={<Trending9 />}/>
       <Route path='/latest-cricket-news' element={<Dnews   />}/>
     </Routes>
     </BrowserRouter>

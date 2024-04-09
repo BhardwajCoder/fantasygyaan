@@ -21,6 +21,16 @@ function Middle1() {
     <div className="feature col ">
             <div className="feature-icon d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-2 mb-3">
             </div>
+            <img src='/images/how to win small league.png' alt="404 not found" className='img' />
+            <h2 className="fs-2 text-body-emphasis my-2 ">How To Win Small League In Dream11??</h2>
+            <p  style={{fontSize:'1.5rem',fontWeight:'400',fontFamily:'sans-serif'}}>If you want to win Small League in Dream11 you have to follow these tips this will defientely help you in winnings. </p> 
+            <Link to='/how-win-small-league-dream11'>
+            <button className='btn btn-primary  w-50' >Read more</button>
+            </Link>
+          </div>
+    <div className="feature col ">
+            <div className="feature-icon d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-2 mb-3">
+            </div>
             <img src='https://mybestguide.com/wp-content/uploads/2020/08/cricket-vs-football.webp' alt="404 not found" className='img' />
             <h1 className="fs-2 text-body-emphasis my-2">Can Cricket Overtake Football?</h1>
             <p style={{fontSize:'1.5rem',fontWeight:'400',fontFamily:'sans-serif'}}>This is the most debatable question between cricket and football which is more famous or cricket can overtake football in future.check the facts and possiblities in the blog. </p> 

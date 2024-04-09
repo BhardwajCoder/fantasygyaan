@@ -3,6 +3,10 @@
     width: 15rem;
     margin-top: 2rem;
 }
+.trend-heading{
+    font-size: 31px;
+    font-weight: 700;
+}
 
 @media  only screen and (max-width:768px){
     .trending{
@@ -14,6 +18,10 @@
     .img-trend{
        width: auto;
        height:10rem;
+}
+.trend-heading{
+    font-weight: 600;
+    font-size: 26px;
 }
 
 }
