@@ -1,35 +1,11 @@
-import React,{useEffect,useRef} from 'react'
+import React from 'react'
 import './Trending.css'
+import Banner from '../../Banner'
 import { Helmet } from 'react-helmet'
 function Trending5() {
-   function AdBanner() {
-    const banner = useRef();
-    const atOptions = {
-        key: '74d57f5d060d9ac88a7d9e4ece771043',
-        format: 'iframe',
-        height: 250,
-        width: 320,
-        params: {},
-    };
-    useEffect(() => {
-      if (banner.current && !banner.current.firstChild) {
-          const conf = document.createElement('script');
-          const script = document.createElement('script');
-          script.type = 'text/javascript';
-          script.src = `//www.topcreativeformat.com/${atOptions.key}/invoke.js`;
-          conf.innerHTML = `atOptions = ${JSON.stringify(atOptions)}`;
 
-          banner.current.append(conf);
-          banner.current.append(script);
-      }
-  });
-
-  return <div className="mx-2 my-5 border border-gray-200  text-white text-center" ref={banner}> </div>;
-}
   return (
-  
     <div>
-    
       <div className='container trending' style={{fontSize:"1.3rem"}}>
     <Helmet>
      <title>IS IPL Scripted or not</title>
@@ -40,7 +16,7 @@ function Trending5() {
    <h1 className='my-3'>is ipl scripted or not</h1>
    <img src="https://www.iwmbuzz.com/wp-content/uploads/2020/02/all-the-fixing-controversies-of-ipl-over-the-years-920x518.jpg" alt="is ipl scripted or not" className='float-end img-trend' />
    <p>If you  want to know <strong>ipl is fixed or not</strong> so you are at the right place so answer is <strong>NO ipl is not fixed</strong> because Ipl is hosted by BCCI. BCCI is the cricket board of india and BCCI do not support any type of fixing in cricket so Bcci strictly watch the players and their staff so there is no chance of fixing and scripted matches but many times we saw the things there are some people and teams were involved in fixing and you see Bcci banned these players and teams for sometime like sometime  before you saw chennai and rajasthan  banned for 2 years from IPL.but after this incident Bcci taken some strict actions against the players and teams who involved in fixing things. so there is a very rare chance of fixing matches in the ipl.so at this time there is no chance of fixing matches or scripted  matches in ipl. </p>
-   <div>{AdBanner()}</div>
+   <div>{Banner()}</div>
   
    <h2> Rajasthan IPL BAN  story</h2>
  <p>The story started in 2013 where Delhi  police were monitoring the all fixing activities and when Delhi bookie start their network so police starting tap their phone calls and the process started 2 months before ipl in february.delhi police cyber cell got a news that underworld people planning to fix the matches with the help of big players.In may month maharashtra ATS head got a clue related to match fixing .so the information is an IPL Umpire involved in match fixing and on the other hand delhi police got some call recoding between Bookie and players.after monitoring these activities they find that Rajasthan Royals  involved in this fixing .police find that player did the same actions and signals that he heard in call recordings between player and Bookie in 5th may and 9th May matches.delhi police monitoring the activities and they find S Sreesanth were involved with Ajit Chandila and Jiju Janardhan involved in alleged spot fixing.police arrested these cricketers so after the more investing Delhi police finds that CO-Owner of Rajasthan Royals Raj Kundra was also involved in illegal betting and kundra confesses that so Rajasthan Royals team management suspended his shares.Raj Kundra  banned Kundra from all cricketing activities under its ambit. </p>
