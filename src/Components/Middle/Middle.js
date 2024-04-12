@@ -20,7 +20,7 @@ function Middle() {
        <header>
         <div className="Card-Main ">
         <div className="card" >
-  <img src="/images/SRH vs KKR.png" className="card-img-top" alt="SRH vs GT Dream11 Predictions"/>
+  <img src="/images/pbks vs rr poster.png" className="card-img-top" alt="PBKS vs RR Dream11 Prediction IPL 2024"/>
   <div className="card-body">
     <h2 className="card-title " >PBKS vs RR</h2>
     <p className="card-text"> Check all the updates about this match like Dream11 team,fantasy tips and playing11</p>
@@ -37,7 +37,7 @@ function Middle() {
   </div>
 </div>
         <div className="card" >
-  <img src="/images/pbksvssrh compressed.png" className="card-img-top" alt="PBKS vs SRH Dream11 Prediction,Fantasy Tips"/>
+  <img src="/images/pbksvssrh compressed.png" className="card-img-top" alt="PBKS vs RR Dream11 Prediction,Fantasy Tips"/>
   <div className="card-body">
     <h2 className="card-title ">PBKS vs SRH</h2>
     <p className="card-text"> Check all the updates about this match like Dream11 team,fantasy tips and playing11.</p>
@@ -45,7 +45,7 @@ function Middle() {
   </div>
 </div>
         <div className="card" >
-  <img src="/images/rcb vs rr poster.png" className="card-img-top" alt="rcb vs rr dream11 teams"/>
+  <img src="/images/rcb vs rr poster.png" className="card-img-top" alt=""/>
   <div className="card-body">
     <h2 className="card-title " >RCB vs RR</h2>
     <p className="card-text"> Check all the updates about this match like Dream11 team,fantasy tips and playing11.</p>
