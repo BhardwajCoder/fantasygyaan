@@ -12,8 +12,8 @@ function Footer() {
     <div class="col-12 col-sm-6">
       <div className='my-3'>
         <div className='Media' >
-          <Link to='/about'className='Txt-color'>About</Link><br />
-          <Link to='/policy'className='Txt-color'>Privacy Policy</Link><br />
+          <Link to='/about-fantasygyaan'className='Txt-color'>About</Link><br />
+          <Link to='/privacy-policy-fantasygyaan'className='Txt-color'>Privacy Policy</Link><br />
          <Link to='/contact'className='Txt-color'>Contact</Link>
         </div>
       </div>

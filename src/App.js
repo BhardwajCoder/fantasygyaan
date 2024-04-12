@@ -50,9 +50,9 @@ return (
     <Routes>
       <Route path='/' element={<Home />}/>
       <Route path='/Daily-matches-predictions' element={<Matches  />}/>
-      <Route path= '/about' element= {<About/>}/>
+      <Route path= '/about-fantasygyaan' element= {<About/>}/>
       <Route path='/contact' element={<Contact />}/>
-      <Route path='/policy' element={<Policy />}/>
+      <Route path='/privacy-policy-fantasygyaan' element={<Policy />}/>
       <Route path='/RCB-W-vs-MUM-W/Match-predictions' element={<Matchdata1 />}/>
       <Route path='/pbks-vs-dc-match-predictions' element={<Matchdata2 />}/>
       <Route path='/MUS-vs-LAQ/MatchPredictions' element={<Matchdata3 />}/>
