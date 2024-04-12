@@ -21,15 +21,7 @@
 }
 
 .card-content {
-    padding: 20px;
-}
-
-.p {
-    background-color: #eee;
-    padding: 10px;
-    overflow: auto;
-    white-space: pre-wrap; /* Maintains whitespace but wraps text */
-    word-break: break-word;
+    padding: auto;
 }
 
 .card-button {
@@ -40,11 +32,16 @@
     font-size: 16px;
     cursor: pointer;
     border-radius: 5px;
-    margin-top: 20px;
+    margin-top: 10px;
 }
 
 .card-button:hover {
     background-color: #0056b3;
+}
+.H1-middle1{
+    font-size:1.8rem;
+    font-weight: 600;
+    font-family: sans-serif;
 }
 @media (max-width: 480px) {
     .grid {

@@ -1,7 +1,7 @@
-.img-trend{
-    height: 15rem;
-    width: 15rem;
-    margin-top: 2rem;
+.main-img{
+    height: 20%;
+    width: 55%;
+   
 }
 .trend-heading{
     font-size: 31px;
@@ -15,9 +15,10 @@
         justify-content: space-evenly;
         margin-left: 5px;
     }
-    .img-trend{
+    .main-img{
        width: auto;
        height:10rem;
+       margin: auto;
 }
 .trend-heading{
     font-weight: 600;

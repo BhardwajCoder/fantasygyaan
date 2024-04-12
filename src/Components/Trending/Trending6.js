@@ -12,7 +12,7 @@ function Trending6() {
      <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
    </Helmet>
    <h1 className='my-3' style={{fontWeight:"600"}}>Should Cricket Be the National Game of India?</h1>
-   <img src="/images/shoulcricket.jpg" alt="Should Cricket Be the National Game of India" className='float-end img-trend' />
+   <img src="/images/shoulcricket.jpg" alt="Should Cricket Be the National Game of India" className=' main-img' />
    <p className='my-3'>This is the most trending question in india that evry cricket fan want to know that should cricket be the national sport of india.Cricket is very popular sport in india.In india cricket is not just a sport it`s an emotion for the people in india.people celebrate every match victory and their favourite players birthday so cricket is very popular in india in comparison of other sports and we nver ignore that fact and there are some reason that make cricket very popular in india. </p>
    <ol>
     <li><strong>Cultural Connection</strong></li>

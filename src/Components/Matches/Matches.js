@@ -24,14 +24,14 @@ const Matches =() =>{
             return(
           
                <div  className=" row g-0 border rounded overflow-hidden  text-dark flex-md-row mb-2 shadow-sm h-md-250 position-relative ">
-        <div className=" search-card px-2  ">
+        <div className=" search-card   ">
           <strong className="d-inline-block text-white">{match.league}</strong>
         <h2 className='heading-style' >{match.Heading}</h2>
         <img src={match.img} alt="" className='search-img ' />  
-          <div className=" text-body-secondary bg-light my-2" >{match.Date}</div>
-          <p className="card-text  " style={{fontSize:'1.3rem',fontFamily:"sans-serif"}}>View full blog for more details check it out now</p>
+          <p className=" text-body-secondary bg-light my-2" >{match.Date}</p>
+          <p className="cardtext-matches">Check the Dream11 teams, Playing11, Pitch Report and Fantasy Cricket Tips</p>
           <Link to={`/${match.perma}`}>
-          <button className='btn btn-primary' > View </button>
+          <button className='btn btn-primary w-50' > Read More </button>
           </Link>
         </div>
         

@@ -7,10 +7,7 @@
     font-weight: 700;
     margin-left: auto;
 }
-.main-img{
-    width: 80%;
-    height: 400px;
-}
+
 .table-content{
     width: auto;
     height: auto;
@@ -61,6 +58,7 @@
     .heading-style{
     font-weight: 600;
     font-size: 26px;
+   
     }
     .match-img{
         width:auto;

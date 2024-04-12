@@ -53,7 +53,7 @@ return (
       <Route path= '/about-fantasygyaan' element= {<About/>}/>
       <Route path='/contact' element={<Contact />}/>
       <Route path='/privacy-policy-fantasygyaan' element={<Policy />}/>
-      <Route path='/RCB-W-vs-MUM-W/Match-predictions' element={<Matchdata1 />}/>
+      <Route path='/pbks-vs-rr-dream11-prediction' element={<Matchdata1 />}/>
       <Route path='/pbks-vs-dc-match-predictions' element={<Matchdata2 />}/>
       <Route path='/MUS-vs-LAQ/MatchPredictions' element={<Matchdata3 />}/>
       <Route path='/rr-vs-gt-dream11-prediction-ipl-2024' element={<Matchdata5 />}/>
@@ -80,7 +80,7 @@ return (
       <Route path='/is-ipl-scripted-or-not' element={<Trending5 />}/>
       <Route path='/should-cricket-be-the-national-game-of-india' element={<Trending6 />}/>
       <Route path='/can-cricket-overtake-football' element={<Trending7 />}/>
-      <Route path='/how-win-small-league-dream11' element={<Trending9 />}/>
+      <Route path='/dream11-small-league-winning-tips' element={<Trending9 />}/>
       <Route path='/latest-cricket-news' element={<Dnews   />}/>
     </Routes>
     </BrowserRouter>
