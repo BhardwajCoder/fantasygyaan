@@ -30,7 +30,7 @@ function Matchdata1() {
     <meta name="keywords" content="PBKS vs RR Dream11 Prediction,RR vs GT Today Match,PBKS vs RR Pitch Report, PBKS vs RR Playing11, PBKS vs RR Head To Head Records, PBKS vs RR Dream11 Team" />
     <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
     </Helmet>
-      <h1 className='my-2 main-H1' >PBKS vs RR Dream11 Prediction IPL 2024</h1><br />
+      <h1 className='my-2 main-H1 text-center' >PBKS vs RR Dream11 Prediction IPL 2024</h1><br />
       <img src="/images/pbks vs rr poster.png" alt="PBKS vs RR Dream11 Prediction IPL 2024 "className=' main-img'/> <span> <p>
         <li>Published By: fantasygyaan</li>
         <li>Date: 12-April-2024</li>

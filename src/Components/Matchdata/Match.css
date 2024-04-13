@@ -1,11 +1,10 @@
-.match-img{
-    height: 11rem;
-    width: auto;
-    float: inline-end;
+.main-img{
+    height: 22%;
+    width: 55%;
+    margin: 0px 230px;
 }
 .main-H1{
     font-weight: 700;
-    margin-left: auto;
 }
 
 .table-content{
@@ -60,18 +59,8 @@
     font-size: 26px;
    
     }
-    .match-img{
-        width:auto;
-        height: 10rem;
-        margin: 5px;
-    }
-    .match-img1{
-        width: auto;
-        height: 200px;
-       
-    }
     .main-img{
-        margin-right:auto;
+        margin:auto;
         width: auto;
         height: 200px;
       

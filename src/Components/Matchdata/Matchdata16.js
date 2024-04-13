@@ -30,7 +30,7 @@ function Matchdata16() {
     <meta name="keywords" content="PBKS vs SRH Dream11 Prediction,SRH vs GT Today Match,PBKS vs SRH Pitch Report, PBKS vs SRH Playing11, PBKS vs SRH Head To Head Records, PBKS vs SRH Dream11 Team" />
     <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
     </Helmet>
-      <h1 className='my-2 main-H1' >PBKS vs SRH Dream11 Prediction,Fantasy Tips,Playing11,Pitch Report Match-23 IPL 2024</h1><br />
+      <h1 className='my-2 main-H1 text-center' >PBKS vs SRH Dream11 Prediction,Fantasy Tips,Playing11,Pitch Report Match-23 IPL 2024</h1><br />
       <img src="/images/pbksvssrh compressed.png" alt="PBKS vs SRH Dream11 Prediction,Fantasy Tips "className=' main-img'/> <span> <p>
         <li>Published By: fantasygyaan</li>
         <li>Date: 08-April-2024</li>

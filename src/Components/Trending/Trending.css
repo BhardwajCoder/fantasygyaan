@@ -24,11 +24,12 @@
         align-items: center;
         justify-content: space-evenly;
         margin-left: 5px;
+        font-size: 1.4rem;
     }
     .middle1-img{
        width: auto;
-       height:10rem;
-      margin:  7px auto;
+       height:auto;
+      margin:  5px auto;
 }
 .trend-heading{
     font-weight: 600;
