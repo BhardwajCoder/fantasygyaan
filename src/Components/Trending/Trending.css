@@ -29,7 +29,8 @@
     .middle1-img{
        width: auto;
        height:200px;
-      margin:  7px auto;
+     margin: auto;
+     padding: auto;
 }
 .trend-heading{
     font-weight: 600;

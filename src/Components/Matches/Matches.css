@@ -26,7 +26,12 @@
 }
 .cardtext-matches{
     font-size: 1.3rem;
-    padding:px 5px ;
+    padding: 5px ;
+    font-family: sans-serif;
+}
+.matches-heading{
+    font-size: 2rem;
+    font-weight: 700;
     font-family: sans-serif;
 }
 @media  only screen and (min-width:200px) and (max-width:576px){
@@ -42,15 +47,18 @@
     .search-img{
         width: 100%;
         height: auto;
-        margin-left: auto;
+        margin:3px auto;
     }
     .search-card{
         width: auto;
        height: auto;
        padding:  10px;
        margin:  0px;
-      
-       
+    }
+    .matches-heading{
+        font-size: 1.6rem;
+        font-weight: 600;
+        font-family: sans-serif;
     }
 }
 @media  only screen and (min-width:576px) and (max-width:768px){

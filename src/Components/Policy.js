@@ -10,9 +10,9 @@ function Policy() {
         <meta name="description" content="Read Privacy policy to know about fantasygyaan.com.we are not use your data for wrong activities.check out the privacy policy." />
         <meta name="keywords" content="Privacy Policy fantasygyaan" />
       </Helmet>
-        <h1 className=' my-2 text-center'>Privacy Policy - fantasygyaan</h1>
+        <h1 className=' my-2 middle-h1 text-center'>Privacy Policy </h1>
 
-        <h2 className='Heading-all'>Introduction</h2>
+        <h2 className='Heading-all my-3'>Introduction</h2>
       <p>
 www.fantasygyaan.com respects your privacy. We are committed to ensuring the protection and security of your personal data.
 When this Policy mentions “we”, “us”, “our” or the “Company”, it refers to the controller of your personal data under this Policy, with which you had, have or will have a business relationship.

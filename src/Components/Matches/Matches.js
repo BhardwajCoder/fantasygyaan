@@ -26,7 +26,7 @@ const Matches =() =>{
                <div  className=" row g-0 border rounded overflow-hidden  text-dark flex-md-row mb-2 shadow-sm h-md-250 position-relative ">
         <div className=" search-card   ">
           <strong className="d-inline-block text-white">{match.league}</strong>
-        <h2 className='heading-style' >{match.Heading}</h2>
+        <h2 className='matches-heading text-center' >{match.Heading}</h2>
         <img src={match.img} alt="" className='search-img ' />  
           <p className=" text-body-secondary bg-light my-2" >{match.Date}</p>
           <p className="cardtext-matches">Check the Dream11 teams, Playing11, Pitch Report and Fantasy Cricket Tips</p>

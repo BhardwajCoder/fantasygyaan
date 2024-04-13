@@ -23,7 +23,7 @@ function Trending9() {
         <meta name="keywords" content=" How To Win Small League In Dream11,Tips To Win Small League in Dream11,What is Small League in Dream11 " />
         <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
       </Helmet>
-     <h1 className='middle-h1 my-2 text-center'>Dream11 Small League winning Tips:</h1>
+     <h1 className='middle-h1 my-2 text-center'>Dream11 Small League winning Tips</h1>
      <img src="/images/how to win small league.png" alt="How To Win Small League In Dream11" className='middle1-img' />
       <section id='section1' className='my-3'>
      <h2 className='trend-heading  '>What is Small League in Dream11</h2>
