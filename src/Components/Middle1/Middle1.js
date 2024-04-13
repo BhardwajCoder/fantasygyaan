@@ -13,8 +13,7 @@ function Middle1() {
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
     <meta name="keyword" content="Fantasy Cricket, Fantasy cricket Tips,Fantasy Cricket Investment plan."/>
-        </Helmet>
-      
+        </Helmet>  
     <h1 className="pb-2 border-bottom  text-center">Trending Topics</h1>
     <div class="grid">
 
@@ -33,6 +32,14 @@ function Middle1() {
         <div class="card-content">
             <h1 className='H1-middle1'>Should Cricket Be The National Game Of India</h1>
   <Link to='/should-cricket-be-the-national-game-of-india'><button class="card-button">Click Me!</button></Link>    
+        </div>
+    </div>
+
+    <div class="card">
+        <img src="https://www.iwmbuzz.com/wp-content/uploads/2020/02/all-the-fixing-controversies-of-ipl-over-the-years-920x518.jpg" alt="Placeholder " class="card-image"/>
+        <div class="card-content">
+            <h1 className='H1-middle1'>Is Ipl Scripted Or Not</h1>
+  <Link to='/is-ipl-scripted-or-not'><button class="card-button">Click Me!</button></Link>    
         </div>
     </div>
 

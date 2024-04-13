@@ -123,7 +123,7 @@ function Matchdata1() {
      <div className='container style' >
       <section id='section4'>
       <h3 className='heading-style'>PBKS vs RR Dream11 Team </h3>
-    <img src="/images/pbks vs rr dream11 team.jpg" alt="PBKS vs RR Dream11 Prediction,Fantasy Tips" className=' team-img ' />
+    <img src="/images/pbks vs rr dream11 team.jpg" alt="PBKS vs RR Dream11 Prediction IPL 2024" className=' team-img ' />
       </section>
       <section id='section5'>
       <h3 className='my-3 heading-style'>Top Batting Picks:</h3>

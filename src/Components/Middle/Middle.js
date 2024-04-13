@@ -9,7 +9,7 @@ function Middle() {
       <h1 className="text-center">Live Matches</h1>
      <iframe src="https://widget.crictimes.org/" title="live cricket scores" style={{width:"100%",minHeight:"450px"}} frameborder="0" scrolling="yes"></iframe>
      </div>
-      <h1 className="  my-4 text-center">Trending Matches </h1>
+      <h1 className=" my-4 text-center">Trending Matches </h1>
       <div className="container ">
         <Helmet>
        <title>Trending and Live matches</title>

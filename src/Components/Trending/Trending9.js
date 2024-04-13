@@ -23,13 +23,13 @@ function Trending9() {
         <meta name="keywords" content=" How To Win Small League In Dream11,Tips To Win Small League in Dream11,What is Small League in Dream11 " />
         <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
       </Helmet>
-     <h1 className='main-H1 my-2'>Dream11 Small League winning Tips:</h1>
-      <section id='section1' className='my-4'>
+     <h1 className='middle-h1 my-2 text-center'>Dream11 Small League winning Tips:</h1>
+     <img src="/images/how to win small league.png" alt="How To Win Small League In Dream11" className='middle1-img' />
+      <section id='section1' className='my-3'>
      <h2 className='trend-heading  '>What is Small League in Dream11</h2>
      <p>Small Leagues are  generally 2 Member,3 Member or 4 Member contests where less no of players play.In these types of contests less risk involved in comparison of Grand leagues or large contests because in these contest few players compete with each other and the amount of winning is less in comparison of grand leagues but due to less risk most of the people prefer small leagues.Small Leagues are the best type of contest for regular winnings and make profit from fantasy cricket. </p>
      </section>
-     <img src="/images/how to win small league.png" alt="How To Win Small League In Dream11" className='main-img' />
-     <h2 className='heading-style my-3'>Table Of Content</h2>
+     <h2 className='heading-style '>Table Of Content</h2>
      <div className='table-content container-fluid'>
       <ul>
         {sections.map(section => (
