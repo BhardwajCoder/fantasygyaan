@@ -60,9 +60,10 @@
    
     }
     .main-img{
-        margin:auto;
+        margin: 7px auto;
         width: auto;
         height: 200px;
+        padding: auto;
       
     }
     .main-H1{
