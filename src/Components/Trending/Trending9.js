@@ -21,7 +21,7 @@ function Trending9() {
    <Helmet>
         <title>Dream11 Small League winning Tips - fantasygyaan</title>
         <meta name="description" content="Check the Best Tips  to win  Small Leagues in Dream11.Get all the information  about small leagues and tips related to small leagues that helps you in winnings." />
-        <meta name="keywords" content=" How To Win Small League In Dream11,Tips To Win Small League in Dream11,What is Small League in Dream11 " />
+        <meta name="keywords" content=" How To Win Small League In Dream11,Tips To Win Small League in Dream11,What is Small League in Dream11,Small League Investment Plan " />
         <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
       </Helmet>
      <h1 className='middle-h1 my-2 text-center'>Dream11 Small League winning Tips</h1>
@@ -43,7 +43,7 @@ function Trending9() {
       </ul>
      </div>
      <section id='section2'>
-      <h2 className='heading-style'>Types Of Small Leagues</h2>
+      <h2 className='heading-style my-3'>Types Of Small Leagues</h2>
       <ol>
         <li><strong>2 Members</strong>  : <span>2 Member is the safest league in small leagues because in 2 Member only 2 players compete with each other and the chances of winning is more in comparison of other leagues.In 2 Members probablity of winning is 50% but on the other hand profit percentage is less in comparison of 3 Members,4 Members and other leagues.</span></li>
         <li><strong>3 Members</strong>: <span>3 Members is the best league to earn regular profit from small leagues in fantasy cricket because in 3 Members 3 Players compete with each other the percentage of profit is good in 3 Members league but also risk percentage is high in 3 Member in comparison of 2 Members.But when you play  <strong>3 Members you can make regular profits and also you can recover your loss in 3 Members.</strong></span></li>
