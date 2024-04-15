@@ -1,5 +1,15 @@
 const MatchData=[
   {
+    "id":"12",
+     "perma":"kkr-vs-rr-dream11-predictions-fantasy-tips" ,
+     "img":"/images/kkr vs rr poster.png",
+    "Date":"16-April-2024",
+    "league":"IPL",
+    "Heading":"KKR vs RR",
+    "content":"check the updated squad of MI 2024",
+
+   },
+  {
     "id":"1",
      "perma":"pbks-vs-rr-dream11-prediction" ,
     "Date":"14-April-2024",
@@ -88,17 +98,7 @@ const MatchData=[
        "content":"check the updated squad of csk 2024",
 
       },
-  {
-    "id":"12",
-     "perma":"DEL-W-vs-GUJ-W-W/Match-predictions" ,
-     "img":"",
-    "Date":"13-mar-2024",
-    "league":"WPL",
-    "Heading":"DEL-W vs GUJ-W",
-    "content":"check the updated squad of MI 2024",
 
-   },
- 
   {
     "id":"10",
      "perma":"MUS-vs-QUE/Match-Predictions",
