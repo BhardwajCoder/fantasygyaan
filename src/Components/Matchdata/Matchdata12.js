@@ -30,18 +30,18 @@ function Matchdata12() {
     <meta name="keywords" content="KKR vs RR Dream11 Prediction,KRR vs RR Today Match,KKR vs RR Pitch Report, KKR vs RR Playing11, KKR vs RR Head To Head Records, KKR vs RR Dream11 Team" />
     <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
     </Helmet>
-      <h1 className='my-2 main-H1 text-center' >KKR vs RR Dream11 Prediction,Fantasy Tips,Playing11,Pitch Report Match-23 IPL 2024</h1><br />
+      <h1 className='my-2 main-H1 text-center' >KKR vs RR Dream11 Prediction,Fantasy Tips,Match-31 IPL 2024</h1><br />
       <img src="/images/kkr vs rr poster.png" alt="KKR vs RR Dream11 Prediction,Fantasy Tips "className=' main-img'/> <span> <p>
         <li>Published By: fantasygyaan</li>
-        <li>Date: 12-April-2024</li>
+        <li>Date: 15-April-2024</li>
       </p>
        </span>
      <h2 className='heading-style'>Preview:</h2>
-     <p className='my-2  '>This is the match no 31 between will be played between Kolkata Knight Riders and Rajasthan Royals.The Match will play at Eden Gardens Kolkata.The match is going to be a thriller because both the teams have good Batting power and amazing power hitters.Kolkata holds the 2nd Place in points table with 1 loss and 4 victory and on the other side Rajasthan Royals are the table toppers now with 5 victory and 1 loss.so let`see who will win at collect 2 points in this action pack show. </p>
+     <p className='my-2  '>This is the match no 31 between will be played between Kolkata Knight Riders and Rajasthan Royals.The Match will play at Eden Gardens Kolkata.The match is going to be a thriller because both the teams have good Batting power and amazing power hitters.Kolkata holds the 2nd Place in points table with 1 loss and 4 victory and on the other side Rajasthan Royals are the current table toppers  with 5 victory and 1 loss.so let`see who will win and collect 2 points in this action pack show. </p>
       <h3 className='trend-heading'>Kolkat Knight Riders(KKR)</h3>
-      <p>In this season kolkata knight riders in good touch.kolkata knight riders won 4 matches out of their 5 matches.KKR shows great intend in this season with bat and ball they have good power hitters like Russell and Rinku in the middle order and also Kolkata have good top order batsmen they give excellent start in power play.that's the reason KKR holds the 2nd place in points table..</p>
+      <p>In this season kolkata knight riders in good touch.kolkata knight riders won 4 matches out of their 5 matches.KKR shows great intend in this season with bat and ball they have good power hitters like Russell and Rinku in the middle order and also Kolkata have good top order batsmen. they provide excellent start in power play.that's the reason KKR currently holds the 2nd place in points table.</p>
       <h3 className='trend-heading'>Rajasthan Royals(RR)</h3>
-      <p>Rajasthan Royals (RR) currently holds the 1st place in points table with 10 points and the reason is his great pace attack and top order.RR have good explosive batsmen in top order like yashasvi jaiswal and jos buttler with sanju samson who provide excellent start in powerplay and the pace attack take early wickets that`s the reason Rajasthan is the table toppers this season.</p>
+      <p>Rajasthan Royals (RR) currently holds the 1st place in points table with 10 points and the reason is his great pace attack and top order batsmen.RR have good explosive batsmen in top order like yashasvi jaiswal and jos buttler with sanju samson who provide excellent start in powerplay and the tremendous pace attack take early wickets that break the opponent team confidence. that`s the reason Rajasthan is the table toppers this season.</p>
       <h2 className='heading-style'>Table of content</h2>
      <div className='table-content container-fluid'>
       <ul>
@@ -133,9 +133,9 @@ function Matchdata12() {
       <h3 className='my-3 heading-style'>Top Batting Picks:</h3>
      <ol>
      <li><strong>Phil Salt</strong>:<span> Agressive batsmen and the form is good in this season so you can try him but he can struggle against <strong>trent Boult</strong>  in initaial overs due to swing.</span></li> 
-     <li><strong>Sanju Samson</strong>- Good Recent Form in this season and also backup with keeping advantage  .</li>
+     <li><strong>Sanju Samson</strong>- Good Recent Form in this season and also provide backup with keeping advantage  .</li>
      <li><strong>Y Jaiswal</strong>- Good Batsmen but Recent form is not good but he can score good runs today because <strong> Eden Gardens provides good batting wicket</strong> . </li>
-     <li><strong>Riyan Parag</strong>- Good Batsmen with Good Recent Form in this season you can try in both innings. </li>
+     <li><strong>Riyan Parag</strong>- Good Batsmen with Good Recent Form in this season you can try him in both innings. </li>
      </ol>
       </section>
      <section id='section6'>
