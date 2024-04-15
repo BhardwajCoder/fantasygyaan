@@ -25,12 +25,12 @@ function Matchdata12() {
    <>
     <div className='Match container style' >
     <Helmet>
-    <title> KKR vs RR Dream11 Prediction,Fantasy Tips - fantasygyaan </title>
+    <title>KKR vs RR Dream11 Prediction, Fantasy Tips - fantasygyaan </title>
     <meta name="description" content="Check the Best KKR vs RR Dream11 Predictions with Fantasy Tips .Pitch is very Interesting check before selecting your Players and check  the  Best Picks." />
     <meta name="keywords" content="KKR vs RR Dream11 Prediction,KRR vs RR Today Match,KKR vs RR Pitch Report, KKR vs RR Playing11, KKR vs RR Head To Head Records, KKR vs RR Dream11 Team" />
     <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
     </Helmet>
-      <h1 className='my-2 main-H1 text-center' >KKR vs RR Dream11 Prediction,Fantasy Tips,Match-31 IPL 2024</h1><br />
+      <h1 className='my-2 main-H1 text-center' >KKR vs RR Dream11 Prediction,Fantasy Tips.</h1><br />
       <img src="/images/kkr vs rr poster.png" alt="KKR vs RR Dream11 Prediction,Fantasy Tips "className=' main-img'/> <span> <p>
         <li>Published By: fantasygyaan</li>
         <li>Date: 15-April-2024</li>

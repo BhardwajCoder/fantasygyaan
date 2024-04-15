@@ -31,7 +31,7 @@ function Matchdata15() {
     <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
     </Helmet>
       <h1 className='my-2 heading-style' >SRH vs GT Dream11 Prediction Today Match 12 IPL 2024</h1>
-      <img src="/images/SRH VS GT.png" alt="SRH vs GT Dream11 Prediction Today Match 12 IPL 2024 "  className='float-end match-img'/>
+      <img src="/images/SRH VS GT.png" alt="SRH vs GT Dream11 Prediction Today Match 12 IPL 2024 "  className=' main-img'/>
      <p className='my-3 px-1 text-wrap'>The match between SRH vs GT will play on 30th march at Narendra Modi Stadium,Ahmedabad.Both teams are ready for an action pack show.Because Sunrisers Hyderabad and Gujarat have Good hitters batsmen so we can expect a high scoring match and also a good entertainment for the audience.In this season both GT and SRH won 1 match out of their 2 matches so both teams are desperate to win to boost up their teams confidence and rankings in point table.stay tuned for official update and the srh vs gt dream11 prediction.</p>
       <h2 className='heading-style'>Table of content</h2>
      <div className='table-content container-fluid'>

@@ -31,7 +31,7 @@ function Matchdata14() {
     <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
     </Helmet>
       <h1 className='my-2 heading-style' >LSG vs PBKS Dream11 Prediction Today Match-10 IPL 2024</h1>
-      <img src="/images/lsgvspbksposter.png" alt="LSG vs PBKS Dream11 Prediction Today Match IPL 2024 "  className='float-end match-img'/>
+      <img src="/images/lsgvspbksposter.png" alt="LSG vs PBKS Dream11 Prediction Today Match IPL 2024 "  className=' main-img'/>
      <p className='my-3'>The match between LSG vs PBKS will play on 30th march at Atal Bihari Vajpayee Stadium,Lucknow.Both teams are ready for an action pack show.Because Lucknow and Punjab have Good hitters batsmen so we can expect a high scoring match and also a good entertainment for the audience.In this season Lucknow lost their 1st match again RR and on the other side Punjab played 2 matches with 1win or 1 loss so both teams are ready to win.</p>
       <h2 className='heading-style'>Table of content</h2>
      <div className='table-content container-fluid'>
