@@ -21,11 +21,11 @@ function Trending9() {
    <Helmet>
         <title>Dream11 Small League winning Tips - fantasygyaan</title>
         <meta name="description" content="Check the Best Tips  to win  Small Leagues in Dream11.Get all the information  about small leagues and tips related to small leagues that helps you in winnings." />
-        <meta name="keywords" content=" How To Win Small League In Dream11,Tips To Win Small League in Dream11,What is Small League in Dream11,Small League Investment Plan " />
+        <meta name="keywords" content="Dream11 Small League winning Tips,What is Small League in Dream11,Small League Investment Plan " />
         <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
       </Helmet>
      <h1 className='middle-h1 my-2 text-center'>Dream11 Small League winning Tips</h1>
-     <img src="/images/how to win small league.png" alt="How To Win Small League In Dream11" className='middle1-img' />
+     <img src="/images/how to win small league.png" alt="Dream11 Small League winning Tips" className='middle1-img' />
       <section id='section1' className='my-3'>
      <h2 className='trend-heading  '>What is Small League in Dream11</h2>
      <p>Small Leagues are  generally 2 Member,3 Member or 4 Member contests where less no of players play.In these types of contests less risk involved in comparison of Grand leagues or large contests because in these contest few players compete with each other and the amount of winning is less in comparison of grand leagues but due to less risk most of the people prefer small leagues.Small Leagues are the best type of contest for regular winnings and make profit from fantasy cricket. </p>
