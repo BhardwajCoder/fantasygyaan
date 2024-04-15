@@ -37,11 +37,11 @@ function Matchdata12() {
       </p>
        </span>
      <h2 className='heading-style'>Preview:</h2>
-     <p className='my-2  '>This is the match no 31 between will be played between Kolkata Knight Riders and Rajasthan Royals.The Match will play at Eden Gardens Kolkata.The match is going to be a thriller because both the teams have good Batting power and amazing power hitters.Kolkata holds the 2nd Place in points table with 1 loss and 4 victory and on the other side Rajasthan Royals are the current table toppers  with 5 victory and 1 loss.so let`see who will win and collect 2 points in this action pack show. </p>
+     <p className='my-2  '>This is the match no 31 between will be played between Kolkata Knight Riders and Rajasthan Royals.The Match will play at Eden Gardens Kolkata.The match is going to be a thriller because both the teams have good Batting power and amazing power hitters.Kolkata holds the 2nd Place in points table with 1 loss and 4 victory and on the other side Rajasthan Royals are the table toppers now with 5 victory and 1 loss.so let`see who will win at collect 2 points in this action pack show. </p>
       <h3 className='trend-heading'>Kolkat Knight Riders(KKR)</h3>
-      <p>In this season kolkata knight riders in good touch.kolkata knight riders won 4 matches out of their 5 matches.KKR shows great intend in this season with bat and ball they have good power hitters like Russell and Rinku in the middle order and also Kolkata have good top order batsmen. they provide excellent start in power play.that's the reason KKR currently holds the 2nd place in points table.</p>
+      <p>In this season kolkata knight riders in good touch.kolkata knight riders won 4 matches out of their 5 matches.KKR shows great intend in this season with bat and ball they have good power hitters like Russell and Rinku in the middle order and also Kolkata have good top order batsmen they give excellent start in power play.that's the reason KKR holds the 2nd place in points table..</p>
       <h3 className='trend-heading'>Rajasthan Royals(RR)</h3>
-      <p>Rajasthan Royals (RR) currently holds the 1st place in points table with 10 points and the reason is his great pace attack and top order batsmen.RR have good explosive batsmen in top order like yashasvi jaiswal and jos buttler with sanju samson who provide excellent start in powerplay and the tremendous pace attack take early wickets that break the opponent team confidence. that`s the reason Rajasthan is the table toppers this season.</p>
+      <p>Rajasthan Royals (RR) currently holds the 1st place in points table with 10 points and the reason is his great pace attack and top order.RR have good explosive batsmen in top order like yashasvi jaiswal and jos buttler with sanju samson who provide excellent start in powerplay and the pace attack take early wickets that`s the reason Rajasthan is the table toppers this season.</p>
       <h2 className='heading-style'>Table of content</h2>
      <div className='table-content container-fluid'>
       <ul>
@@ -69,21 +69,21 @@ function Matchdata12() {
   <tbody>
     <tr>
       <th scope="row">1</th>
-      <td>Total Match-26</td>
-      <td>11 won</td>
-      <td>15 won</td>
+      <td>Total Match-28</td>
+      <td>14 won</td>
+      <td>13 won</td>
     </tr>
     <tr>
       <th scope="row">2</th>
       <td>Highest Score</td>
-      <td>223</td>
-      <td>226</td>
+      <td>210</td>
+      <td>217</td>
     </tr>
     <tr>
       <th scope="row">3</th>
       <td >Lowest Score</td>
-      <td>124</td>
-      <td>112</td>
+      <td>125</td>
+      <td>81</td>
     </tr>
   </tbody>
 </table>
