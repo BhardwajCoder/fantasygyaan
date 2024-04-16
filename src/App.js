@@ -38,6 +38,7 @@ import Matchdata14 from './Components/Matchdata/Matchdata14';
 import Matchdata15 from './Components/Matchdata/Matchdata15';
 import Matchdata16 from './Components/Matchdata/Matchdata16';
 import Trending9 from './Components/Trending/Trending9';
+import Matchdata17 from './Components/Matchdata/Matchdata17';
 
 
 function App() {
@@ -68,6 +69,7 @@ return (
       <Route path='/lsg-vs-pbks-dream11-prediction-today-match-prediction-ipl-2024' element={<Matchdata14/>}/>
       <Route path='/srh-vs-gt-dream11-prediction-today-match-prediction-ipl-2024' element={<Matchdata15/>}/>
       <Route path='/pbks-vs-srh-dream11-predictions' element={<Matchdata16 />}/>
+      <Route path='/gt-vs-dc-dream11-predictions-fantasy-tips' element={<Matchdata17 />}/>
       <Route path='/MI-NEW-IPL-SQUAD' element={<Newsdata1 />}/>
       <Route path='/CSK-NEW-IPL-SQUAD' element={<Newsdata2 />}/>
       <Route path='/RCB-NEW-IPL-SQUAD' element={<Newsdata3 />}/>
