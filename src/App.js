@@ -39,6 +39,7 @@ import Matchdata15 from './Components/Matchdata/Matchdata15';
 import Matchdata16 from './Components/Matchdata/Matchdata16';
 import Trending9 from './Components/Trending/Trending9';
 import Matchdata17 from './Components/Matchdata/Matchdata17';
+import Trending10 from './Components/Trending/Trending10';
 
 
 function App() {
@@ -83,6 +84,7 @@ return (
       <Route path='/should-cricket-be-the-national-game-of-india' element={<Trending6 />}/>
       <Route path='/can-cricket-overtake-football' element={<Trending7 />}/>
       <Route path='/dream11-small-league-winning-tips' element={<Trending9 />}/>
+      <Route path='/fantasy-cricket-guru' element={<Trending10 />}/>
       <Route path='/latest-cricket-news' element={<Dnews   />}/>
     </Routes>
     </BrowserRouter>

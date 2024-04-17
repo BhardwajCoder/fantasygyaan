@@ -1,5 +1,15 @@
 const MatchData=[
   {
+    "id":"17",
+     "perma":"gt-vs-dc-dream11-predictions-fantasy-tips" ,
+     "img":"/",
+    "Date":"17-April-2024",
+    "league":"IPL",
+    "Heading":"GT vs DC",
+    "content":"check the updated squad of MI 2024",
+
+   },
+  {
     "id":"12",
      "perma":"kkr-vs-rr-dream11-predictions-fantasy-tips" ,
      "img":"/images/kkr vs rr poster.png",
