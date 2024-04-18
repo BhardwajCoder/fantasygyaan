@@ -8,12 +8,12 @@ function Trending10() {
     <>
      <div className='container trending style'>
      <Helmet>
-        <title>Fantasy Cricket Guru - Saif Ibrahim </title>
+        <title>Fantasy Cricket Guru </title>
         <meta name="description" content="Fantasy Cricket Guru is one of the most famous fantasy cricket expert his skills and match analysis videos helps a lot to make fantasy team for the match." />
         <meta name="keywords" content="Fantasy Cricket Guru,Saif Ibrahim,Best Fantasy Cricket Expert. " />
         <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
       </Helmet>
-      <h1 className='middle-h1 my-2 text-center'>Fantasy Cricket Guru - Saif Ibrahim</h1>
+      <h1 className='middle-h1 my-2 text-center'>Fantasy Cricket Guru </h1>
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq4JPTjN0XGa3Hhyji7khRMgXi3RZEF3Q_wQ&s" alt="Fantasy Cricket Guru"  className='middle1-img'/>
       <p className='my-3'>Fantasy Cricket Guru is a youtube channel owns by <strong>Saif Ibrahim</strong>.Fantasy Cricket Guru is the most popular youtube channel in Fantasy Cricket niche who created videos about fantasy cricket,Daily matches analysis and he is very popular in india for his cricket analysis skills in fantasy cricket.currently his channel has <a href="https://www.youtube.com/@FANTASYCRICKETGURU"> <FaYoutube size={"2.3rem"}/></a> 2.42 million subscribers on youtube and his subscribers is increasing day by day.Fantasy Cricket Guru is one of the most famous fantasy cricket expert in india who generate a good  income from fantasy cricket and he is still playing and created videos on their youtube channel. Also his instagram and telegram have lots of followers who are interested in cricket.  </p> <p> <ol>
         <li> <a href="https://www.youtube.com/@FANTASYCRICKETGURU"> <FaYoutube size={"2.3rem"}/> Youtube Channel</a>  </li>

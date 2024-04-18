@@ -1,5 +1,15 @@
 const MatchData=[
   {
+    "id":"18",
+     "perma":"pak-vs-nz-dream11-prediction" ,
+     "img":"/images/pak vs nz poster.png",
+    "Date":"18-April-2024",
+    "league":"T20",
+    "Heading":"PAK vs NZ",
+    "content":"check the updated squad of MI 2024",
+
+   },
+  {
     "id":"17",
      "perma":"gt-vs-dc-dream11-predictions-fantasy-tips" ,
      "img":"/",

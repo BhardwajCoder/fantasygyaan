@@ -20,6 +20,14 @@ function Middle() {
        <header>
         <div className="Card-Main ">
         <div className="card" >
+  <img src="/images/pak vs nz poster.png" className="card-img-top" alt="RR vs GT Dream11 Prediction"/>
+  <div className="card-body">
+    <h2 className="card-title " >PAK vs NZ</h2>
+    <p className="card-text"> Check all the updates about this match like Dream11 team,fantasy tips and playing11</p>
+    <Link to='/pak-vs-nz-dream11-prediction' className="btn btn-primary">Read More</Link>
+  </div>
+</div>
+        <div className="card" >
   <img src="/images/gt vs dc poster.png" className="card-img-top" alt="PBKS vs RR Dream11 Prediction,Fantasy Tips"/>
   <div className="card-body">
     <h2 className="card-title ">GT vs DC</h2>
@@ -42,17 +50,7 @@ function Middle() {
     <p className="card-text"> Check all the updates about this match like Dream11 team,fantasy tips and playing11</p>
     <Link to='/pbks-vs-rr-dream11-prediction' className="btn btn-primary">Read More</Link>
   </div>
-</div>
-
-        <div className="card" >
-  <img src="/images/rr vs lsg compress poster.png" className="card-img-top" alt="RR vs GT Dream11 Prediction"/>
-  <div className="card-body">
-    <h2 className="card-title " >RR vs GT</h2>
-    <p className="card-text"> Check all the updates about this match like Dream11 team,fantasy tips and playing11</p>
-    <Link to='/rr-vs-gt-dream11-prediction-ipl-2024' className="btn btn-primary">Read More</Link>
-  </div>
-</div>
-        
+</div> 
         </div>
        </header>
     
