@@ -1,7 +1,7 @@
 const MatchData=[
   {
     "id":"18",
-     "perma":"pak-vs-nz- 2nd-t20i-dream11-prediction" ,
+     "perma":"pak-vs-nz-2nd-t20i-dream11-prediction" ,
      "img":"/images/pak vs nz poster.png",
     "Date":"18-April-2024",
     "league":"T20",

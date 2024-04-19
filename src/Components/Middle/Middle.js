@@ -24,7 +24,7 @@ function Middle() {
   <div className="card-body">
     <h2 className="card-title " >PAK vs NZ</h2>
     <p className="card-text"> Check all the updates about this match like Dream11 team,fantasy tips and playing11</p>
-    <Link to='/pak-vs-nz- 2nd-t20i-dream11-prediction' className="btn btn-primary">Read More</Link>
+    <Link to='/pak-vs-nz-2nd-t20i-dream11-prediction' className="btn btn-primary">Read More</Link>
   </div>
 </div>
         <div className="card" >
