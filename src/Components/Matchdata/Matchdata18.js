@@ -25,19 +25,19 @@ function Matchdata18() {
     <>
     <div className='Match container style' >
      <Helmet>
-    <title> PAK vs NZ Dream11 Prediction, Fantasy Tips - Fantasygyaan </title>
+    <title> PAK vs NZ 2nd T20I Dream11 Prediction, Fantasy Tips </title>
     <meta name="description" content="Check the Best PAK vs NZ dream11 predictions check the pitch report and the record of Babar Azam on this venue if you think to make him captain." />
-    <meta name="keywords" content="PAKvs NZ Dream11 Prediction,NZ vs PAK Today Match, PAK vs NZ Pitch Report, PAKvs NZ Playing11, PAKvs NZ Head To Head Records, PAK vs NZ Dream11 Team" />
+    <meta name="keywords" content="PAK vs NZ 2nd T20I Dream11 Prediction,NZ vs PAK Today Match, PAK vs NZ Pitch Report, PAKvs NZ Playing11, PAKvs NZ Head To Head Records, PAK vs NZ Dream11 Team" />
     <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
     </Helmet>
-    <h1 className='my-2 main-H1 text-center' > PAK vs NZ Dream11 Prediction,Fantasy Tips - Fantasygyaan</h1><br />
+    <h1 className='my-2 main-H1 text-center' > PAK vs NZ 2nd T20I Dream11 Prediction, Fantasy Tips</h1><br />
       <img src="/images/pak vs nz poster.png" alt="PAK vs NZ Dream11 Prediction, Fantasy Tips "className=' main-img'/> <span> <p>
         <li>Published By: fantasygyaan</li>
         <li>Date: 16-April-2024</li>
       </p>
        </span>
        <h2 className='heading-style'>Preview:</h2>
-     <p className='my-2  '>This is the  1st match of PAK vs NZ t20 series hosted by pakistan in Rawalpindi Cricket Stadium.Both teams are ready to test their players and prepare them for t20 world cup 2024.In this home series pakistan test their full strength against Newzealand but on the other side Newzeland some main players are injured that`s why their some main players miss the series and new players have chance to prove and attract some attention for the selection in the world cup team. </p>
+     <p className='my-2  '>This is the  2nd match of PAK vs NZ t20I series hosted by pakistan in Rawalpindi Cricket Stadium.Both teams are ready to test their players and prepare them for t20 world cup 2024.In this home series pakistan test their full strength against Newzealand but on the other side Newzeland some main players are injured that`s why their some main players miss the series and new players have chance to prove and attract some attention for the selection in the world cup team. </p>
      <h3 className='heading-style'>Pakistan</h3>
      <p>In this 5 matches t20 series pakistan test their full strength against new zealand and this is the great chance for pakistan to test their players performance before world cup.Also this is the great opportunity for pakistan to try some changes in the team before the world cup let`s see what happens in this series.Pakistani players have to show the intend in this series if they want to win the world cup and performed well to select in the world cup team.    </p>
      <h3 className='heading-style'>Newzeland</h3>
@@ -116,9 +116,9 @@ function Matchdata18() {
      </section>
      <section className='my-3'id="section3" >
      <h2 className='heading-style'>PBKS vs SRH Playing11:</h2>
-        <p style={{letterSpacing:"1px"}} className='py-3'><strong>PAK Playing11:</strong> <br />Md Rizwan(wk),Saim Ayub,Babar Azam,Fakhar Zaman,Iftikhar Ahmed,Shadab Khan,Imad Wasim,Shaheen Afridi,Md Amir,Naseem Shah,Zaman Khan.</p> 
+        <p style={{letterSpacing:"1px"}} className='py-3'><strong>PAK Playing11:</strong> <br />,Saim Ayub,Babar Azam,Md Rizwan,Usman Khan,Iftikhar Ahmed,Irfan Khan,Shadab Khan,Shaheen Afridi,Md Amir,Naseem Shah,Abrar Ahmed.</p> 
 
-       <p style={{letterSpacing:"1px"}} className='py-3'><strong>NZ Playing11:</strong> <br />Tim Seifert,Tom Blundell,Mark Chapman,M Bracewell,James Neesham,C Mocochnie,Josh Clarkson,Jacob Duffy,Ben Sears,Ben Lister,Ish Sodhi.</p>
+       <p style={{letterSpacing:"1px"}} className='py-3'><strong>NZ Playing11:</strong> <br />Tim Seifert,Tom Robinson,D Foxcroft,Mark Chapman,James Neesham,M Bracewell,Josh Clarkson,Jacob Duffy,Ben Sears,Ben Lister,Ish Sodhi.</p>
       
      </section>
      </div>
@@ -134,7 +134,7 @@ function Matchdata18() {
      <li><strong>Saim Ayub</strong>- Good Recent Form but he is not consistent scorer but you can try him as a trump card because he has the ability to score big runs.</li>
      <li><strong>Babar Azam</strong> - Good Batsmen also his record in Rawalpindi is very ecxellent so you can try him. </li>
      <li><strong>Tim Siefert</strong>- Good attcaking batsmen with keeping advantage. </li>
-     <li><strong>Tom Blundell</strong>- he is good touch this season also score consistently.he is good pick in  batting section. </li>
+     <li><strong>D Foxcrofy</strong>- he is good touch this season also score consistently.he is good pick in  batting section. </li>
      </ol>
       </section>
      <section id='section6'>
@@ -172,9 +172,9 @@ function Matchdata18() {
      </section>
      <h5 className='heading-style'>Related Articles</h5>
      <ol>
-      <a href="/what-is-fantasyCricket"> <li>what-is-fantasyCricket</li></a> 
-        <a href="/How-to-Earn-Money-from-FantasyCricket"><li>How-to-Earn-Money-from-FantasyCricket</li></a>
-       <a href="/Dream11-Investment-Plan"><li>/Dream11-Investment-Plan</li></a> 
+     <Link to='is-ipl-scripted-or-not'> <li>Is Ipl Scripted Or Not</li></Link>
+        <Link to='should-cricket-be-the-national-game-of-india'> <li>Should Cricket Be The National Game Of India</li></Link>
+        <Link to='dream11-small-league-winning-tips'> <li>Dream11 Small League Winning Tips</li></Link>
       </ol>
     
      <h6 className='heading-style'>Check out the final team after toss- <Link to='https://www.instagram.com/fantasygyaan9/'>  <FaInstagram size={"1.5rem"}/> </Link> </h6>

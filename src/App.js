@@ -72,7 +72,7 @@ return (
       <Route path='/srh-vs-gt-dream11-prediction-today-match-prediction-ipl-2024' element={<Matchdata15/>}/>
       <Route path='/pbks-vs-srh-dream11-predictions' element={<Matchdata16 />}/>
       <Route path='/gt-vs-dc-dream11-predictions-fantasy-tips' element={<Matchdata17 />}/>
-      <Route path='/pak-vs-nz-dream11-prediction' element={<Matchdata18 />}/>
+      <Route path='/pak-vs-nz- 2nd-t20i-dream11-prediction' element={<Matchdata18 />}/>
       <Route path='/MI-NEW-IPL-SQUAD' element={<Newsdata1 />}/>
       <Route path='/CSK-NEW-IPL-SQUAD' element={<Newsdata2 />}/>
       <Route path='/RCB-NEW-IPL-SQUAD' element={<Newsdata3 />}/>
