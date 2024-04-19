@@ -5,7 +5,7 @@ import { Helmet } from "react-helmet";
 function Middle() {
   return (
     <>
-     <div className="my-2 container">
+     <div className=" container">
       <h1 className="text-center">Live Matches</h1>
      <iframe src="https://widget.crictimes.org/" title="live cricket scores" style={{width:"100%",minHeight:"450px"}} frameborder="0" scrolling="yes"></iframe>
      </div>

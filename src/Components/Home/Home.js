@@ -4,9 +4,11 @@ import { Helmet } from 'react-helmet';
 import { TypeAnimation } from 'react-type-animation';
 import Middle from '../Middle/Middle';
 import Middle1 from '../Middle1/Middle1';
+import { Banner2 } from '../../Banner';
 function Home({ Blogs, handleclick,Newsclick }) {
   return (
     <>
+      
     <div className='container-fluid Home'>
       <div className='Home1'>
       <Helmet>
@@ -39,6 +41,7 @@ function Home({ Blogs, handleclick,Newsclick }) {
       </div>
      <img src="https://dreamtips11.com/wp-content/uploads/2021/06/banner-image.png" className=' Himg' alt="404 not found" />
     </div>
+    <p className='Banner2'>{Banner2()}</p>
    <Middle  Blogs={ Blogs} handleclick={handleclick} />
    <Middle1  Newsclick={Newsclick} />
     </>

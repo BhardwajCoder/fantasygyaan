@@ -5,6 +5,10 @@
   width:100%;
   color: azure;
 }
+.Banner2{
+  width: auto;
+  margin-left: 20%;
+}
 .Home1{
     display: flex;
     align-items: center;
@@ -36,6 +40,10 @@
     height: 15rem;
     width:auto;
     overflow-x: hidden;
+  }
+  .Banner2{
+    width: 20%;
+    margin-left: 0px;
   }
   .Home1{
     justify-content: center;
