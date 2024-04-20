@@ -17,6 +17,13 @@ function Middle1() {
     <h1 className="pb-2 border-bottom  text-center">Trending Topics</h1>
     <div class="grid">
     <div class="card">
+        <img src="https://i.ytimg.com/vi/A0S-AC24_WI/maxresdefault.jpg" alt="Placeholder " class="card-image"/>
+        <div class="card-content">
+            <h1 className='H1-middle1'>Mobile Games Like Valorant</h1>
+  <Link to='/mobile-games-like-valorant'><button class="card-button">Click Me!</button></Link>    
+        </div>
+    </div>
+    <div class="card">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq4JPTjN0XGa3Hhyji7khRMgXi3RZEF3Q_wQ&s" alt="Placeholder " class="card-image"/>
         <div class="card-content">
             <h1 className='H1-middle1'>Fantasy Cricket Guru - Ibrahim Saifi</h1>
