@@ -6,12 +6,12 @@ function Trending11() {
    <>
     <div className='container trending style'>
     <Helmet>
-        <title>Mobile Games Like Volvarant </title>
+        <title>Mobile Games Like Valorant </title>
         <meta name="description" content="Mobile games like valorant check out if you want to play games like valorant in mobile." />
-        <meta name="keywords" content="Mobile Games Like Volvarant,Games Like Valorant For Android. " />
+        <meta name="keywords" content="Mobile Games Like Valorant,Games Like Valorant For Android. " />
         <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
       </Helmet>
-      <h1 className='middle-h1 my-2 text-center'>Mobile Games Like Volvarant</h1>
+      <h1 className='middle-h1 my-2 text-center'>Mobile Games Like Valorant</h1>
       <p>
             <h2 className='trend-heading '>Matrix Fire:</h2>
             <img src="https://i.ytimg.com/vi/MsFK31URl5Y/maxresdefault.jpg" alt="" className='games-img' />
