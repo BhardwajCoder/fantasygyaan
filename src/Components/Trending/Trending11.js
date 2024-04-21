@@ -15,7 +15,7 @@ function Trending11() {
       <p>
             <h2 className='trend-heading '>Matrix Fire:</h2>
             <img src="https://i.ytimg.com/vi/MsFK31URl5Y/maxresdefault.jpg" alt="" className='games-img' />
-            <span><p className='my-3'>Matrix Fire is a multiplayer action game.you can play this game with your friends and online players the graphic of this game is very amazing when you play this game this game give you feel like valorant.the armor and guns of this game is very similar to valorant and the headshot animation of this game is same like valorant.if you are a valorant fan and play games like valorant in mobile so you have to defientely check this game.</p>
+            <span><p className='my-3'>Matrix Fire is a multiplayer action game.you can play this game with your friends and online players the graphic of this game is very amazing when you play this game this game give you feel like valorant.the armor and guns of this game is very similar to valorant and the headshot animation of this game is same like valorant.if you are a valorant fan and play games like valorant in mobile so you have to definitely check this game.</p>
             <div class="container">
     <h2>Game Specifications</h2>
     <table>
@@ -52,7 +52,7 @@ function Trending11() {
             </span>
             <h2 className='trend-heading'>Project Rush B</h2>
             <img src="https://img.utdstc.com/screen/eda/f78/edaf78586ae62545ec17732dee374065054cbe8d687b94b878b767f651fcdbed:600" alt=""className='games-img' />
-             <span><p className='my-3'>This game is also similar to valorant when you start this game you will see a turtorial like valorant that helps you to understand how this game works and play this game runs on FPS.If you have low end mobile like 3gb,4gb ram so this game is for you.this ia an action game also a multiplayer game 5 vs 5 you can play with your friends and other online players also you can chat with online players. </p>
+             <span><p className='my-3'>This game is also similar to valorant when you start this game you will see a tutorial like valorant that helps you to understand how this game works and play this game runs on FPS.If you have low end mobile like 3gb,4gb ram so this game is for you.this ia an action game also a multiplayer game 5 vs 5 you can play with your friends and other online players also you can chat with online players. </p>
             <div class="container">
     <h2>Game Specifications</h2>
     <table>
