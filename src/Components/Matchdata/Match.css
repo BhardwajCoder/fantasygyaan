@@ -7,11 +7,14 @@
     font-weight: 700;
 }
 
+.match-video{
+    width: 550px;
+    height: 300px;
+}
 .table-content{
     width: auto;
     height: auto;
     background-color: bisque;
-    
 }
 .style{
     font-size: 1.6rem;
@@ -48,12 +51,16 @@
     .style{
         font-size: 1.4rem;
         font-family: sans-serif;
-      
+    }
+    .match-video{
+        width: 100%;
+        height:100%;
     }
     .team-img{
         width: 70%;
         margin-left: 3rem;
     }
+   
     .heading-style{
     font-weight: 600;
     font-size: 26px;

@@ -1,8 +1,6 @@
 {
  
   "name": "blog-app",
-
- 
  
   "version": "0.1.0",
  
@@ -32,6 +30,9 @@
   "react-icons": "^4.12.0",
  
    
+  "react-player": "^2.16.0",
+ 
+   
   "react-router-dom": "^6.20.1",
  
    
@@ -46,9 +47,7 @@
   },
  
   "scripts": {
-
-
-
+ 
    
   "start": "react-scripts start",
  

@@ -4,6 +4,7 @@ import { FaInstagram } from "react-icons/fa6";
 import { Link } from 'react-router-dom';
 import { Helmet } from 'react-helmet';
 function Matchdata19() {
+ 
     const [sections] = useState([
         { id: 'section1', title: 'RR vs MUM Head To Head Records' },
         { id: 'section2', title: 'RR vs MUM Pitch Report' },
@@ -36,8 +37,11 @@ function Matchdata19() {
         <li>Date: 20-April-2024</li>
       </p>
        </span>
-       <h2 className='heading-style'>Preview:</h2>
-     <p className='my-2  '>This is the  38th match of RR vs MUM  Tata IPL 2024 in Swaai Mansingh Cricket Stadium in Jaipur.RR did great job in this season they are currently table toppers with 12 points with amazing perfomance in their matches and on the other side MUM start their winning campaign again they are currently on 6th position in points table with 6 points perfomance of mumbai is not good in this season they have to perform good if they want to qualify for the playoffs in this season . </p>
+       <div className='player-wrapper'>
+       <iframe className='match-video' src="https://www.youtube.com/embed/TbQ_H9OhTnw" title="RR vs MI Dream11 Prediction|RR vs MI Dream11|RR vs MI Dream11 Team|" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      </div>
+       <h2 className='heading-style my-3'>Preview:</h2>
+     <p >This is the  38th match of RR vs MUM  Tata IPL 2024 in Swaai Mansingh Cricket Stadium in Jaipur.RR did great job in this season they are currently table toppers with 12 points with amazing perfomance in their matches and on the other side MUM start their winning campaign again they are currently on 6th position in points table with 6 points perfomance of mumbai is not good in this season they have to perform good if they want to qualify for the playoffs in this season . </p>
      <h3 className='heading-style'>Rajasthan Royals</h3>
      <p>Rajasthan Royals play superb in this season and now they are table toppers with 12 points in table topper.Rajasthan both batting and bowling department did their gob great and that`s the reason that they are table toppers.Rajasthan top order batsmen provide the good start to their team in powerplay and on the other hand bowlers pick early wickets to give early shock to opponents.     </p>
      <h3 className='heading-style'>Mumbai Indians</h3>
@@ -122,7 +126,7 @@ function Matchdata19() {
       
      </section>
      </div>
-     <div className='container style' >
+     <div className='container style'>
       <section>
       <h3 className='heading-style'>RR vs MUM Dream11 Team </h3>
     <img src="/images/mum vs rr team.jpg" alt="RR vs MUM Dream11 Prediction, Fantasy Tips" className=' team-img ' />
