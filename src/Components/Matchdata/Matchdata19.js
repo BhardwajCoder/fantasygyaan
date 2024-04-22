@@ -31,7 +31,7 @@ function Matchdata19() {
     <meta name="keywords" content="RR vs MUM Dream11 Prediction,MUM vs RR Today Match, RR vs MUM Pitch Report, RRvs MUM Playing11, RR vs MUM Head To Head Records, RR vs MUM Dream11 Team" />
     <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
     </Helmet>
-    <h1 className='my-2 main-H1 text-center' > RR vs MUM Dream11 Prediction, Fantasy Tips</h1><br />
+    <h1 className='main-H1 text-center' > RR vs MUM Dream11 Prediction, Fantasy Tips</h1><br />
       <img src="/images/mum vs rr image.png" alt="RR vs MUM Dream11 Prediction, Fantasy Tips "className=' main-img'/> <span> <p>
         <li>Published By: fantasygyaan</li>
         <li>Date: 20-April-2024</li>

@@ -30,7 +30,7 @@ export function Banner2(){
         'key' : 'ab560f84ed5a1ede9d19f4936362f52d',
 		'format' : 'iframe',
 		'height' : 90,
-		'width' : 528,
+		'width' : 250,
 		'params' : {},
     };
 
@@ -47,5 +47,5 @@ export function Banner2(){
         }
     },);
 
-    return <p className="mx-2 my-5 border border-gray-200 text-white text-center " ref={banner} style={{width:"20%"}}></p>;
+    return <p className="mx-2 my-5 border border-gray-200 text-white text-center " ref={banner} style={{width:"50px"}}></p>;
 }

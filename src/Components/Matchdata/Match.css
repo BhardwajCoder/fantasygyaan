@@ -50,6 +50,7 @@
     }
     .style{
         font-size: 1.4rem;
+        
         font-family: sans-serif;
     }
     .match-video{
@@ -67,10 +68,10 @@
    
     }
     .main-img{
-        margin: auto;
+        margin: 0px 0px;
         width: auto;
         height: 200px;
-        padding: auto;
+        padding:6px;
       
     }
     .main-H1{
