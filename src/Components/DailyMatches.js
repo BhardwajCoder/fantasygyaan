@@ -1,5 +1,15 @@
 const MatchData=[
   {
+    "id":"19",
+     "perma":"/kkr-vs-dc-dream11-prediction" ,
+     "img":"/images/kkr vs dc.png",
+    "Date":"29-April-2024",
+    "league":"IPL",
+    "Heading":"KKR vs DC",
+    "content":"check the updated squad of MI 2024",
+
+   },
+  {
     "id":"18",
      "perma":"pak-vs-nz-2nd-t20i-dream11-prediction" ,
      "img":"/images/pak vs nz poster.png",

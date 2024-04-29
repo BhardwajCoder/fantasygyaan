@@ -18,7 +18,8 @@ Much like aggregator or ‘comparison’ platforms that exist for the travel and
 
 <strong>Fantasygyaan.com</strong> is the best Fantasy Prediction website and it provides Fantasy Players with Fantasy Player Stats for each match, Fantasy Predictions and Team Records to help them make winning teams for Grand Leagues, Small Leagues and Head to Head Contests.</p>
       </div>
-    </div>
+      </div>
+  
   )
 }
 
