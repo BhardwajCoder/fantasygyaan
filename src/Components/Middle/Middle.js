@@ -20,6 +20,14 @@ function Middle() {
        <header>
         <div className="Card-Main ">
         <div className="card" >
+  <img src="/images/csk vs pbks poster.png" className="card-img-top" alt="CSK vs RR Dream11 Prediction,Fantasy Tips"/>
+  <div className="card-body">
+    <h2 className="card-title ">CSK vs PBKS</h2>
+    <p className="card-text"> Check all the updates about this match like Dream11 team,fantasy tips and playing11.</p>
+    <Link to='csk-vs-pbks-dream11-prediction' className="btn btn-primary">Read More</Link>
+  </div>
+</div>
+        <div className="card" >
   <img src="/images/kkr vs dc.png" className="card-img-top" alt="KKR vs RR Dream11 Prediction,Fantasy Tips"/>
   <div className="card-body">
     <h2 className="card-title " >KKR vs DC</h2>
@@ -41,14 +49,6 @@ function Middle() {
     <h2 className="card-title " >PAK vs NZ</h2>
     <p className="card-text"> Check all the updates about this match like Dream11 team,fantasy tips and playing11</p>
     <Link to='/pak-vs-nz-2nd-t20i-dream11-prediction' className="btn btn-primary">Read More</Link>
-  </div>
-</div>
-        <div className="card" >
-  <img src="/images/gt vs dc poster.png" className="card-img-top" alt="PBKS vs RR Dream11 Prediction,Fantasy Tips"/>
-  <div className="card-body">
-    <h2 className="card-title ">GT vs DC</h2>
-    <p className="card-text"> Check all the updates about this match like Dream11 team,fantasy tips and playing11.</p>
-    <Link to='/gt-vs-dc-dream11-predictions-fantasy-tips' className="btn btn-primary">Read More</Link>
   </div>
 </div>
   
