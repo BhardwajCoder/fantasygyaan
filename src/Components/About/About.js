@@ -2,7 +2,6 @@ import React from 'react'
 import { Helmet } from 'react-helmet'
 function About() {
   return (
-  
     <div>
       <Helmet>
         <title>ABOUT - fantasygyaan</title>
@@ -13,13 +12,10 @@ function About() {
         <h1 className='middle-h1 text-center'>ABOUT US</h1>
         <p className='my-3 '>
       <strong>Fantasygyann.com</strong> is an aggregator service for all paid fantasy gaming platforms. It aims to educate the user about all their available options and helps maximise their profits. Users can filter their search based on the parameters such as entry value, prize pool, spots in a room and platforms to be able to choose the perfect gaming rooms for them based on their confidence level.
-
 Much like aggregator or ‘comparison’ platforms that exist for the travel and hospitality sector or for products such as mutual funds and insurance policies, <strong>Fantasygyann.com</strong> is targeted toward user experience and benefit and is not affiliated with any fantasy gaming platform.
-
 <strong>Fantasygyaan.com</strong> is the best Fantasy Prediction website and it provides Fantasy Players with Fantasy Player Stats for each match, Fantasy Predictions and Team Records to help them make winning teams for Grand Leagues, Small Leagues and Head to Head Contests.</p>
       </div>
       </div>
-  
   )
 }
 

@@ -29,13 +29,9 @@ function Dnews() {
             </div>
               )
             })
-          }
-      
-                  
+          }    
                 </div>
               </div>
-        
-    
     </>
   );
 }

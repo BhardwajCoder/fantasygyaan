@@ -7,7 +7,6 @@ const MatchData=[
     "league":"IPL",
     "Heading":"KKR vs DC",
     "content":"check the updated squad of MI 2024",
-
    },
   {
     "id":"18",
@@ -17,7 +16,6 @@ const MatchData=[
     "league":"T20",
     "Heading":"PAK vs NZ",
     "content":"check the updated squad of MI 2024",
-
    },
   {
     "id":"17",
@@ -27,7 +25,6 @@ const MatchData=[
     "league":"IPL",
     "Heading":"GT vs DC",
     "content":"check the updated squad of MI 2024",
-
    },
   {
     "id":"12",
@@ -37,7 +34,6 @@ const MatchData=[
     "league":"IPL",
     "Heading":"KKR vs RR",
     "content":"check the updated squad of MI 2024",
-
    },
   {
     "id":"1",
@@ -126,9 +122,7 @@ const MatchData=[
        "Heading":"pbks vs dc",
      
        "content":"check the updated squad of csk 2024",
-
       },
-
   {
     "id":"10",
      "perma":"MUS-vs-QUE/Match-Predictions",
@@ -154,29 +148,13 @@ const MatchData=[
     "league": "PSL",
        "Heading":"MUS vs LAQ",
        "content":"check the fantasy match prediction of MUS vs ISL 2024",
-
       },
- 
-
   {
     "id":"7",
      "perma":"LAH-vs-KAR/MatchPredictions",
     "Date":"24-feb-2024",
-
-  
     "league":"PSL",
-  
     "Heading":"LAH vs KAR",
-    
    },
-
-
- 
-    
-      
-        
-          
-          
 ]
-
 export default MatchData

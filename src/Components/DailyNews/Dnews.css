@@ -6,9 +6,7 @@
     background-color:linen;
     font-family: Arial, sans-serif;
 }
-
 .news-card {
-   
     width: auto;
     background-color:whitesmoke;
     border-radius: 10px;
@@ -17,33 +15,26 @@
     margin: 10px;
     transition: transform 0.2s ease-in-out;
 }
-
 .news-card:hover {
     transform: scale(1.05);
 }
-
 .news-card img {
     width: auto;
     height: 10rem;
-   
 }
-
 .card-content {
     padding: 20px;
 }
-
 .card-content h2 {
     margin: 0 0 10px 0;
     font-size: 1.8rem;
     color: #181717;
 }
-
 .card-content p {
     font-size: 1.2rem;
     line-height: 1.6;
     color: #1d1919;
 }
-
 button {
     background-color: #007bff;
     color: #fff;
@@ -53,11 +44,9 @@ button {
     cursor: pointer;
     transition: background-color 0.2s ease-in-out;
 }
-
 button:hover {
     background-color: #0056b3;
 }
-
 @media screen and (max-width: 600px) {
     .grid-body {
         display: grid;

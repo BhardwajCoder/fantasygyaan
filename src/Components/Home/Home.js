@@ -44,5 +44,4 @@ function Home({ Blogs, handleclick,Newsclick }) {
     </>
   )
 }
-
 export default Home
