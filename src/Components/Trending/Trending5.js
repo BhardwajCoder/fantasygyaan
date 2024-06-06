@@ -7,7 +7,7 @@ function Trending5() {
     <div>
       <div className='container trending' >
     <Helmet>
-     <title>IS IPL Scripted Or Not</title>
+     <title>IS IPL Scripted Or Not-</title>
      <meta name="description" content="If you want to know Is ipl Scripted or not so check here you will get your answer. " />
      <meta name="keywords" content=" Is Ipl Scripted, is ipl scripted or not,Ipl is fixed or not." />
      <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
