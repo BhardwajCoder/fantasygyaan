@@ -38,24 +38,7 @@ function Middle1() {
         </div>
 
     </div>
-    <div class="card">
-        <img src="/images/how to win small league.png" alt="Placeholder " class="card-image"/>
-        <div class="card-content">
-          <h1 className='H1-middle1'>Dream11 Small League Winning Tips</h1>
-            
-<Link to='/dream11-small-league-winning-tips'> <button class="card-button">Click Me!</button></Link>
-           
-        </div>
-    </div>
    
-    <div class="card">
-        <img src="/images/shoulcricket.jpg" alt="Placeholder " class="card-image"/>
-        <div class="card-content">
-            <h1 className='H1-middle1'>Should Cricket Be The National Game Of India</h1>
-  <Link to='/should-cricket-be-the-national-game-of-india'><button class="card-button">Click Me!</button></Link>    
-        </div>
-    </div>
-
     <div class="card">
         <img src="https://www.iwmbuzz.com/wp-content/uploads/2020/02/all-the-fixing-controversies-of-ipl-over-the-years-920x518.jpg" alt="Placeholder " class="card-image"/>
         <div class="card-content">
